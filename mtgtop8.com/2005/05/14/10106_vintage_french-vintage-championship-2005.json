@@ -1,76 +1,36 @@
 {
     "tournament": {
-        "date": "2011-01-09",
-        "name": "NVL #6 - Milano",
-        "url": "https://mtgtop8.com/event?e=910",
+        "date": "2005-05-14",
+        "name": "French Vintage Championship 2005",
+        "url": "https://mtgtop8.com/event?e=10106",
         "format": "Vintage",
-        "players": 51
+        "players": 391
     },
     "decks": [
         {
-            "date": "2025-05-19",
+            "date": "2025-05-21",
             "player": "Unknown Player",
             "result": 2,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208559&f=VI&switch=visual",
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258200&f=VI&switch=visual",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Demonic Tutor"
+                    "count": 2,
+                    "name": "Psychatog"
                 },
                 {
                     "count": 1,
-                    "name": "Merchant Scroll"
+                    "name": "Death Spark"
                 },
                 {
-                    "count": 1,
-                    "name": "Tendrils of Agony"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 1,
-                    "name": "Yawgmoth's Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Tezzeret the Seeker"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampiric Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Repeal"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystical Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Gifts Ungiven"
-                },
-                {
-                    "count": 1,
-                    "name": "Fact or Fiction"
+                    "count": 4,
+                    "name": "Circular Logic"
                 },
                 {
                     "count": 1,
                     "name": "Chain of Vapor"
                 },
                 {
-                    "count": 1,
+                    "count": 3,
                     "name": "Brainstorm"
                 },
                 {
@@ -79,19 +39,63 @@
                 },
                 {
                     "count": 1,
-                    "name": "Black Lotus"
+                    "name": "Yawgmoth's Will"
                 },
                 {
                     "count": 1,
-                    "name": "Lotus Petal"
+                    "name": "Time Walk"
                 },
                 {
                     "count": 1,
-                    "name": "Voltaic Key"
+                    "name": "Mind Twist"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
                 },
                 {
                     "count": 1,
-                    "name": "Time Vault"
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 3,
+                    "name": "Zombie Infestation"
                 },
                 {
                     "count": 1,
@@ -122,16 +126,20 @@
                     "name": "Mana Crypt"
                 },
                 {
-                    "count": 2,
-                    "name": "Sensei's Divining Top"
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
                 },
                 {
                     "count": 3,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 4,
-                    "name": "Mana Drain"
+                    "name": "Intuition"
                 },
                 {
                     "count": 4,
@@ -139,39 +147,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Sphinx of the Steel Wind"
-                },
-                {
-                    "count": 4,
-                    "name": "Dark Confidant"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Library of Alexandria"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 2,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 3,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 4,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Underground Sea"
+                    "name": "Firestorm"
                 },
                 {
                     "count": 0,
@@ -185,27 +161,27 @@
                 },
                 {
                     "count": 2,
-                    "name": "Yixlid Jailer"
-                },
-                {
-                    "count": 2,
-                    "name": "Extirpate"
+                    "name": "Tormod's Crypt"
                 },
                 {
                     "count": 1,
-                    "name": "Withered Wretch"
-                },
-                {
-                    "count": 3,
-                    "name": "Annul"
-                },
-                {
-                    "count": 2,
-                    "name": "Ghastly Demise"
+                    "name": "Shattering Pulse"
                 },
                 {
                     "count": 1,
-                    "name": "Vendilion Clique"
+                    "name": "Rack and Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
                 },
                 {
                     "count": 2,
@@ -213,11 +189,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "Darkblast"
+                    "name": "Blue Elemental Blast"
                 },
                 {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
+                    "count": 3,
+                    "name": "Arcane Laboratory"
                 },
                 {
                     "count": 0,
@@ -226,26 +202,70 @@
             ]
         },
         {
-            "date": "2025-05-19",
-            "player": "Emanuele Campanini",
-            "result": 2,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208560&f=VI",
+            "date": "2025-05-21",
+            "player": "Stéphane Tichadou",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258199&f=VI",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Razormane Masticore"
+                    "count": 3,
+                    "name": "Underground Sea"
                 },
                 {
-                    "count": 3,
-                    "name": "Wurmcoil Engine"
+                    "count": 2,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
                 },
                 {
                     "count": 4,
-                    "name": "Lodestone Golem"
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 3,
+                    "name": "Necromancy"
                 },
                 {
                     "count": 1,
-                    "name": "Bottled Cloister"
+                    "name": "Dance of the Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Compulsion"
+                },
+                {
+                    "count": 2,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
                 },
                 {
                     "count": 1,
@@ -253,43 +273,257 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mana Vault"
+                    "name": "Black Lotus"
                 },
                 {
                     "count": 1,
-                    "name": "Sol Ring"
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
                 },
                 {
                     "count": 3,
-                    "name": "Crucible of Worlds"
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Worldgorger Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Ambassador Laquatus"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                },
+                {
+                    "count": 2,
+                    "name": "Sundering Titan"
                 },
                 {
                     "count": 3,
                     "name": "Null Rod"
                 },
                 {
-                    "count": 3,
-                    "name": "Sculpting Steel"
+                    "count": 1,
+                    "name": "Misdirection"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Coffin Purge"
+                },
+                {
+                    "count": 2,
                     "name": "Chalice of the Void"
                 },
                 {
-                    "count": 4,
-                    "name": "Sphere of Resistance"
-                },
-                {
-                    "count": 4,
-                    "name": "Tangle Wire"
-                },
-                {
-                    "count": 4,
-                    "name": "Thorn of Amethyst"
+                    "count": 1,
+                    "name": "Necromancy"
                 },
                 {
                     "count": 1,
-                    "name": "Ghost Quarter"
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-21",
+            "player": "José An Alascio Lopez",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258201&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindslaver"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 4,
+                    "name": "Thirst for Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Drain"
+                },
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Gifts Ungiven"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Recoup"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Triskelion"
+                },
+                {
+                    "count": 1,
+                    "name": "Pentavus"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Welder"
+                },
+                {
+                    "count": 1,
+                    "name": "Darksteel Colossus"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
                 },
                 {
                     "count": 1,
@@ -297,27 +531,209 @@
                 },
                 {
                     "count": 1,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Rack and Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Platinum Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 1,
+                    "name": "Jester's Cap"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Duplicant"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Laboratory"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-21",
+            "player": "Andra Garella",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258202&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sundering Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Pentavus"
+                },
+                {
+                    "count": 1,
+                    "name": "Triskelion"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Welder"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Drain"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindslaver"
+                },
+                {
+                    "count": 3,
+                    "name": "Thirst for Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Read the Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Library of Alexandria"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 1,
                     "name": "Tolarian Academy"
-                },
-                {
-                    "count": 4,
-                    "name": "Ancient Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "City of Traitors"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Factory"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Workshop"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
                 },
                 {
                     "count": 0,
@@ -331,23 +747,55 @@
                 },
                 {
                     "count": 1,
-                    "name": "Null Rod"
+                    "name": "Read the Runes"
                 },
                 {
-                    "count": 4,
-                    "name": "Ratchet Bomb"
+                    "count": 1,
+                    "name": "Jester's Cap"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Gush"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 1,
                     "name": "Duplicant"
                 },
                 {
-                    "count": 3,
-                    "name": "Pithing Needle"
+                    "count": 1,
+                    "name": "Starstorm"
                 },
                 {
-                    "count": 3,
-                    "name": "Tormod's Crypt"
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 2,
+                    "name": "Rack and Ruin"
                 },
                 {
                     "count": 0,
@@ -356,26 +804,46 @@
             ]
         },
         {
-            "date": "2025-05-19",
-            "player": "Valentino Zannella",
-            "result": 3,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208561&f=VI",
+            "date": "2025-05-21",
+            "player": "Daniel Eufinger",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258203&f=VI",
             "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tendrils of Agony"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
                 {
                     "count": 1,
                     "name": "Darksteel Colossus"
                 },
                 {
-                    "count": 2,
-                    "name": "Trygon Predator"
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
                 },
                 {
                     "count": 1,
                     "name": "Ancestral Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Brainstorm"
                 },
                 {
                     "count": 1,
@@ -386,1022 +854,158 @@
                     "name": "Fact or Fiction"
                 },
                 {
-                    "count": 1,
-                    "name": "Gifts Ungiven"
-                },
-                {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Misdirection"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystical Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampiric Tutor"
-                },
-                {
-                    "count": 3,
-                    "name": "Mana Drain"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 4,
-                    "name": "Gush"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Imperial Seal"
-                },
-                {
-                    "count": 1,
-                    "name": "Merchant Scroll"
-                },
-                {
-                    "count": 1,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 1,
-                    "name": "Regrowth"
-                },
-                {
-                    "count": 1,
-                    "name": "Tendrils of Agony"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 1,
-                    "name": "Yawgmoth's Will"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                },
-                {
-                    "count": 1,
-                    "name": "Fastbond"
-                },
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Library of Alexandria"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 3,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 3,
-                    "name": "Tropical Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                },
-                {
-                    "count": 1,
-                    "name": "Trygon Predator"
-                },
-                {
-                    "count": 2,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 2,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 3,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 2,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 1,
-                    "name": "Massacre"
-                },
-                {
-                    "count": 3,
-                    "name": "Tarmogoyf"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ]
-        },
-        {
-            "date": "2025-05-19",
-            "player": "Alberto Brignoli",
-            "result": 4,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208562&f=VI",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Thirst for Knowledge"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampiric Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Merchant Scroll"
-                },
-                {
-                    "count": 1,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 1,
-                    "name": "Tendrils of Agony"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Repeal"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystical Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Gifts Ungiven"
-                },
-                {
-                    "count": 1,
-                    "name": "Fire/Ice"
-                },
-                {
-                    "count": 1,
-                    "name": "Fact or Fiction"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 1,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 1,
-                    "name": "Yawgmoth's Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Lotus Petal"
-                },
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 2,
-                    "name": "Sensei's Divining Top"
-                },
-                {
-                    "count": 3,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 4,
-                    "name": "Mana Drain"
-                },
-                {
                     "count": 4,
                     "name": "Force of Will"
                 },
                 {
                     "count": 1,
-                    "name": "Sphinx of the Steel Wind"
+                    "name": "Frantic Search"
                 },
                 {
                     "count": 4,
-                    "name": "Dark Confidant"
-                },
-                {
-                    "count": 1,
-                    "name": "Volcanic Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 3,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 4,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                },
-                {
-                    "count": 1,
-                    "name": "Empty the Warrens"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Sundering Titan"
-                },
-                {
-                    "count": 2,
-                    "name": "Rack and Ruin"
-                },
-                {
-                    "count": 1,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 1,
-                    "name": "Extirpate"
-                },
-                {
-                    "count": 2,
-                    "name": "Yixlid Jailer"
-                },
-                {
-                    "count": 2,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Volcanic Island"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ]
-        },
-        {
-            "date": "2025-05-19",
-            "player": "Andrea Saita",
-            "result": 5,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208563&f=VI",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Sphinx of the Steel Wind"
-                },
-                {
-                    "count": 2,
-                    "name": "Trygon Predator"
-                },
-                {
-                    "count": 4,
-                    "name": "Dark Confidant"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystical Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Rebuild"
-                },
-                {
-                    "count": 1,
-                    "name": "Thirst for Knowledge"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampiric Tutor"
-                },
-                {
-                    "count": 2,
-                    "name": "Mana Drain"
-                },
-                {
-                    "count": 3,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Merchant Scroll"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 1,
-                    "name": "Yawgmoth's Will"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 1,
-                    "name": "Tezzeret the Seeker"
-                },
-                {
-                    "count": 2,
-                    "name": "Jace, the Mind Sculptor"
-                },
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Vault"
-                },
-                {
-                    "count": 1,
-                    "name": "Voltaic Key"
-                },
-                {
-                    "count": 2,
-                    "name": "Sensei's Divining Top"
-                },
-                {
-                    "count": 1,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Misty Rainforest"
-                },
-                {
-                    "count": 2,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 3,
-                    "name": "Tropical Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                },
-                {
-                    "count": 1,
-                    "name": "Trygon Predator"
-                },
-                {
-                    "count": 1,
-                    "name": "Sundering Titan"
-                },
-                {
-                    "count": 3,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 1,
-                    "name": "Darkblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Trinisphere"
-                },
-                {
-                    "count": 1,
-                    "name": "Massacre"
-                },
-                {
-                    "count": 2,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 1,
-                    "name": "Yixlid Jailer"
-                },
-                {
-                    "count": 1,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ]
-        },
-        {
-            "date": "2025-05-19",
-            "player": "Baldassarre Sciacca",
-            "result": 6,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208564&f=VI",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Angel of Despair"
-                },
-                {
-                    "count": 1,
-                    "name": "Flame-Kin Zealot"
-                },
-                {
-                    "count": 2,
-                    "name": "Golgari Thug"
-                },
-                {
-                    "count": 3,
-                    "name": "Ichorid"
-                },
-                {
-                    "count": 4,
-                    "name": "Bloodghast"
-                },
-                {
-                    "count": 4,
-                    "name": "Golgari Grave-Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Narcomoeba"
-                },
-                {
-                    "count": 4,
-                    "name": "Stinkweed Imp"
-                },
-                {
-                    "count": 2,
-                    "name": "Dread Return"
-                },
-                {
-                    "count": 4,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 4,
-                    "name": "Unmask"
-                },
-                {
-                    "count": 4,
-                    "name": "Bridge from Below"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 2,
-                    "name": "Dakmor Salvage"
-                },
-                {
-                    "count": 3,
-                    "name": "Petrified Field"
-                },
-                {
-                    "count": 3,
-                    "name": "Undiscovered Paradise"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                },
-                {
-                    "count": 1,
-                    "name": "Undiscovered Paradise"
-                },
-                {
-                    "count": 4,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 1,
-                    "name": "Darkblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancient Grudge"
-                },
-                {
-                    "count": 2,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 3,
-                    "name": "Contagion"
-                },
-                {
-                    "count": 3,
-                    "name": "Gemstone Mine"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ]
-        },
-        {
-            "date": "2025-05-19",
-            "player": "Federico Savio",
-            "result": 7,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208565&f=VI",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Sphinx of the Steel Wind"
-                },
-                {
-                    "count": 3,
-                    "name": "Trygon Predator"
-                },
-                {
-                    "count": 4,
-                    "name": "Dark Confidant"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 1,
-                    "name": "Extirpate"
-                },
-                {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystical Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Rebuild"
-                },
-                {
-                    "count": 1,
-                    "name": "Thirst for Knowledge"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampiric Tutor"
-                },
-                {
-                    "count": 2,
-                    "name": "Mana Drain"
-                },
-                {
-                    "count": 3,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
-                    "name": "Merchant Scroll"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 1,
-                    "name": "Yawgmoth's Will"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 1,
-                    "name": "Jace, the Mind Sculptor"
-                },
-                {
-                    "count": 1,
-                    "name": "Tezzeret the Seeker"
-                },
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Vault"
-                },
-                {
-                    "count": 1,
-                    "name": "Voltaic Key"
-                },
-                {
-                    "count": 2,
-                    "name": "Sensei's Divining Top"
-                },
-                {
-                    "count": 1,
-                    "name": "Library of Alexandria"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Misty Rainforest"
-                },
-                {
-                    "count": 2,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 3,
-                    "name": "Tropical Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                },
-                {
-                    "count": 1,
-                    "name": "Extirpate"
-                },
-                {
-                    "count": 1,
-                    "name": "Duress"
-                },
-                {
-                    "count": 3,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 1,
-                    "name": "Massacre"
-                },
-                {
-                    "count": 3,
-                    "name": "Yixlid Jailer"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 3,
-                    "name": "Tarmogoyf"
-                },
-                {
-                    "count": 0,
-                    "name": "Unknown Card"
-                }
-            ]
-        },
-        {
-            "date": "2025-05-19",
-            "player": "Viola Lodato",
-            "result": 8,
-            "anchor_uri": "https://mtgtop8.com/event?e=910&d=208566&f=VI",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Darksteel Colossus"
-                },
-                {
-                    "count": 3,
-                    "name": "Grim Lavamancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Basking Rootwalla"
-                },
-                {
-                    "count": 4,
-                    "name": "Squee, Goblin Nabob"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Crop Rotation"
-                },
-                {
-                    "count": 1,
                     "name": "Intuition"
                 },
                 {
-                    "count": 2,
-                    "name": "Ancient Grudge"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Snare"
-                },
-                {
-                    "count": 4,
-                    "name": "Circular Logic"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
+                    "count": 3,
+                    "name": "Mana Drain"
                 },
                 {
                     "count": 1,
-                    "name": "Merchant Scroll"
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 4,
+                    "name": "Helm of Awakening"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 3,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Future Sight"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 2,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Maze"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-21",
+            "player": "Paul I",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258204&f=VI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 1,
+                    "name": "Balance"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
                 },
                 {
                     "count": 1,
@@ -1409,11 +1013,39 @@
                 },
                 {
                     "count": 1,
-                    "name": "Tinker"
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
                 },
                 {
                     "count": 2,
-                    "name": "Life from the Loam"
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Drain"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
                 },
                 {
                     "count": 1,
@@ -1421,11 +1053,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mox Diamond"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
+                    "name": "Mox Jet"
                 },
                 {
                     "count": 1,
@@ -1441,47 +1069,43 @@
                 },
                 {
                     "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Shelters All"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
                     "name": "Island"
                 },
                 {
-                    "count": 1,
-                    "name": "Maze of Ith"
-                },
-                {
-                    "count": 1,
+                    "count": 4,
                     "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Riftstone Portal"
                 },
                 {
                     "count": 1,
                     "name": "Strip Mine"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Tundra"
                 },
                 {
-                    "count": 2,
-                    "name": "Flooded Strand"
+                    "count": 4,
+                    "name": "Underground Sea"
                 },
                 {
                     "count": 2,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 3,
-                    "name": "Tropical Island"
-                },
-                {
-                    "count": 3,
                     "name": "Volcanic Island"
                 },
                 {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
+                    "count": 3,
+                    "name": "Wasteland"
                 },
                 {
                     "count": 0,
@@ -1495,15 +1119,39 @@
                 },
                 {
                     "count": 1,
-                    "name": "Barbarian Ring"
-                },
-                {
-                    "count": 3,
                     "name": "Swords to Plowshares"
                 },
                 {
-                    "count": 4,
-                    "name": "Leyline of the Void"
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Coffin Purge"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Fling"
+                },
+                {
+                    "count": 1,
+                    "name": "Mind Twist"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Rack and Ruin"
                 },
                 {
                     "count": 2,
@@ -1511,11 +1159,383 @@
                 },
                 {
                     "count": 1,
-                    "name": "Pyroblast"
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-21",
+            "player": "Marco Ardoino",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258206&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Mind Twist"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
                 },
                 {
                     "count": 4,
-                    "name": "Nature's Claim"
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Drain"
+                },
+                {
+                    "count": 1,
+                    "name": "Darksteel Colossus"
+                },
+                {
+                    "count": 1,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                },
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Firestorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Fling"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 2,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 2,
+                    "name": "Rack and Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Skeletal Scrying"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-21",
+            "player": "Tim Bergmann",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=10106&d=258205&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Darksteel Colossus"
+                },
+                {
+                    "count": 4,
+                    "name": "Ophidian"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Drain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 2,
+                    "name": "Isochron Scepter"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Vedalken Shackles"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Library of Alexandria"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 0,
+                    "name": "Unknown Card"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Laboratory"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Matrix"
+                },
+                {
+                    "count": 2,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Jester's Cap"
+                },
+                {
+                    "count": 1,
+                    "name": "Rack and Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
                 },
                 {
                     "count": 0,
