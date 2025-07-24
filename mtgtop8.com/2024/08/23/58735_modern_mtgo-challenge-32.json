@@ -187,7 +187,8 @@
                     "count": 2,
                     "name": "Dismember"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -333,7 +334,8 @@
                     "count": 1,
                     "name": "Lightning Bolt"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -515,7 +517,8 @@
                     "count": 2,
                     "name": "The One Ring"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -613,7 +616,8 @@
                     "count": 4,
                     "name": "World Breaker"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -731,7 +735,8 @@
                     "count": 3,
                     "name": "Harsh Mentor"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -913,7 +918,8 @@
                     "count": 2,
                     "name": "Veil of Summer"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1099,7 +1105,8 @@
                     "count": 2,
                     "name": "The One Ring"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1233,7 +1240,8 @@
                     "count": 1,
                     "name": "Underworld Breach"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1242,20 +1250,24 @@
             "anchor_uri": "https://mtgtop8.com/event?e=58735&d=639629&f=MO",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
                     "count": 2,
                     "name": "Blood Moon"
                 },
                 {
                     "count": 2,
+                    "name": "Dewdrop Cure"
+                },
+                {
+                    "count": 2,
                     "name": "Goblin Bombardment"
+                },
+                {
+                    "count": 2,
+                    "name": "Static Prison"
+                },
+                {
+                    "count": 2,
+                    "name": "Fable of the Mirror-Breaker"
                 },
                 {
                     "count": 3,
@@ -1263,31 +1275,15 @@
                 },
                 {
                     "count": 4,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 2,
-                    "name": "Sacred Foundry"
-                },
-                {
-                    "count": 3,
-                    "name": "Aether Hub"
-                },
-                {
-                    "count": 3,
-                    "name": "Marsh Flats"
+                    "name": "Galvanic Discharge"
                 },
                 {
                     "count": 3,
                     "name": "Ragavan, Nimble Pilferer"
                 },
                 {
-                    "count": 2,
-                    "name": "Fable of the Mirror-Breaker"
-                },
-                {
-                    "count": 2,
-                    "name": "Elegant Parlor"
+                    "count": 3,
+                    "name": "Phlage, Titan of Fire's Fury"
                 },
                 {
                     "count": 4,
@@ -1298,70 +1294,54 @@
                     "name": "Ocelot Pride"
                 },
                 {
-                    "count": 2,
-                    "name": "Static Prison"
-                },
-                {
                     "count": 4,
                     "name": "Amped Raptor"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 2,
-                    "name": "Arena of Glory"
-                },
-                {
-                    "count": 1,
-                    "name": "Flooded Strand"
                 },
                 {
                     "count": 4,
                     "name": "Ajani, Nacatl Pariah"
                 },
                 {
-                    "count": 3,
-                    "name": "Phlage, Titan of Fire's Fury"
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
                 },
                 {
                     "count": 2,
-                    "name": "Dewdrop Cure"
+                    "name": "Arena of Glory"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 2,
+                    "name": "Elegant Parlor"
+                },
+                {
+                    "count": 3,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 3,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Celestial Purge"
-                },
-                {
                     "count": 1,
-                    "name": "Wear/Tear"
-                },
-                {
-                    "count": 3,
-                    "name": "Harsh Mentor"
-                },
-                {
-                    "count": 2,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Suncleanser"
-                },
-                {
-                    "count": 1,
-                    "name": "Bonecrusher Giant"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Jegantha, the Wellspring"
+                    "name": "Magus of the Moon"
                 },
                 {
                     "count": 1,
@@ -1369,9 +1349,38 @@
                 },
                 {
                     "count": 1,
-                    "name": "Magus of the Moon"
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Suncleanser"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Harsh Mentor"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Celestial Purge"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1529,7 +1538,8 @@
                     "count": 1,
                     "name": "Sheoldred, the Apocalypse"
                 }
-            ]
+            ],
+            "notes": "The deck focuses on using reanimation spells like Goryo's Vengeance and Ephemerate to quickly bring powerful creatures like Griselbrand and Ulamog, the Defiler onto the battlefield. By combining instant-speed reanimation with disruptive cards like Thoughtseize and Solitude, the deck aims to quickly disrupt the opponent's game plan while setting up its own powerful reanimation combos. A key card in the deck is Atraxa, Grand Unifier, which can provide extra value by returning creatures from the graveyard to the battlefield."
         },
         {
             "date": "2024-08-23",
@@ -1667,7 +1677,8 @@
                     "count": 2,
                     "name": "Wear/Tear"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1849,7 +1860,8 @@
                     "count": 2,
                     "name": "The One Ring"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -1963,7 +1975,8 @@
                     "count": 1,
                     "name": "Boseiju, Who Shelters All"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -2089,7 +2102,8 @@
                     "count": 1,
                     "name": "Sundering Titan"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -2199,7 +2213,8 @@
                     "count": 3,
                     "name": "Run Afoul"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2024-08-23",
@@ -2208,40 +2223,12 @@
             "anchor_uri": "https://mtgtop8.com/event?e=58735&d=639618&f=MO",
             "mainboard": [
                 {
-                    "count": 4,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Bloodstained Mire"
+                    "count": 1,
+                    "name": "Cling to Dust"
                 },
                 {
                     "count": 1,
-                    "name": "Boggart Trawler"
-                },
-                {
-                    "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 3,
-                    "name": "Mishra's Bauble"
-                },
-                {
-                    "count": 1,
-                    "name": "Fell the Profane"
-                },
-                {
-                    "count": 1,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 1,
-                    "name": "Graveyard Trespasser"
-                },
-                {
-                    "count": 4,
-                    "name": "Grief"
+                    "name": "Malakir Rebirth"
                 },
                 {
                     "count": 1,
@@ -2249,23 +2236,43 @@
                 },
                 {
                     "count": 1,
-                    "name": "Malakir Rebirth"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 3,
-                    "name": "Nethergoyf"
+                    "name": "Ephemerate"
                 },
                 {
                     "count": 1,
-                    "name": "Cling to Dust"
+                    "name": "Fell the Profane"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
                 },
                 {
                     "count": 1,
                     "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
                 },
                 {
                     "count": 4,
@@ -2273,39 +2280,39 @@
                 },
                 {
                     "count": 1,
-                    "name": "Godless Shrine"
+                    "name": "Graveyard Trespasser"
                 },
                 {
                     "count": 1,
-                    "name": "Shadowspear"
-                },
-                {
-                    "count": 1,
-                    "name": "Sheoldred's Edict"
+                    "name": "Boggart Trawler"
                 },
                 {
                     "count": 3,
                     "name": "Dauthi Voidwalker"
                 },
                 {
+                    "count": 3,
+                    "name": "Nethergoyf"
+                },
+                {
                     "count": 4,
-                    "name": "Thoughtseize"
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
                 },
                 {
                     "count": 1,
-                    "name": "Toxic Deluge"
-                },
-                {
-                    "count": 2,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Saga"
+                    "name": "Godless Shrine"
                 },
                 {
                     "count": 1,
                     "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 2,
+                    "name": "Urborg, Tomb of Yawgmoth"
                 },
                 {
                     "count": 3,
@@ -2313,41 +2320,21 @@
                 },
                 {
                     "count": 4,
-                    "name": "Orcish Bowmasters"
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Graveyard Trespasser"
-                },
-                {
-                    "count": 1,
-                    "name": "Toxic Deluge"
-                },
-                {
-                    "count": 1,
-                    "name": "Break the Ice"
-                },
-                {
-                    "count": 4,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 3,
-                    "name": "Suncleanser"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Tourach, Dread Cantor"
+                    "name": "Necromentia"
                 },
                 {
                     "count": 1,
@@ -2355,9 +2342,38 @@
                 },
                 {
                     "count": 1,
-                    "name": "Necromentia"
+                    "name": "Tourach, Dread Cantor"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 3,
+                    "name": "Suncleanser"
+                },
+                {
+                    "count": 4,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Break the Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 1,
+                    "name": "Graveyard Trespasser"
                 }
-            ]
+            ],
+            "notes": "This deck focuses on disruption and aggression, utilizing cards like Grief and Thoughtseize to disrupt the opponent's hand while quickly deploying threats like Nethergoyf and Dauthi Voidwalker. It also has a slight graveyard strategy with cards like Cling to Dust and Graveyard Trespasser. The deck aims to control the game through disruption and removal while steadily beating down the opponent with efficient creatures. Additionally, cards like Urborg, Tomb of Yawgmoth and Urza's Saga provide additional utility and value to the deck."
         }
     ],
     "rounds": [],

@@ -155,7 +155,8 @@
                     "count": 3,
                     "name": "Red Elemental Blast"
                 }
-            ]
+            ],
+            "notes": "The deck focuses on controlling the game by utilizing lands as a resource. It aims to disrupt the opponent's strategy using cards like Crop Rotation and Wasteland while generating value through Life from the Loam. The main win condition is the Dark Depths-Thespian's Stage combo to create a 20/20 Marit Lage token. The deck also includes cards to protect its key pieces and generate additional mana, such as Boseiju, Who Endures and Mox Diamond. Overall, the deck aims to outvalue and outmaneuver the opponent by leveraging its land-based control elements."
         },
         {
             "date": "2025-06-21",
@@ -297,7 +298,8 @@
                     "count": 1,
                     "name": "Unlicensed Hearse"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-06-21",
@@ -459,7 +461,8 @@
                     "count": 1,
                     "name": "Boseiju, Who Shelters All"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-06-21",
@@ -569,11 +572,12 @@
                     "count": 4,
                     "name": "Wear Down"
                 }
-            ]
+            ],
+            "notes": "The deck focuses on quickly filling the graveyard with creatures through self-milling effects like Balustrade Spy and Undercity Informer, then using Dread Return to bring back Thassa's Oracle for a win condition. It uses various forms of fast mana like Lotus Petal and Simian Spirit Guide to power out spells quickly, while also running disruption like Thoughtseize and Pact of Negation to protect the combo. Memory's Journey is used as an anti-hate card against graveyard hate. The deck aims to win the game in one explosive turn by playing all spells in the deck."
         },
         {
             "date": "2025-06-21",
-            "player": "Zach Chatel",
+            "player": "Zack Chatel",
             "result": 5,
             "anchor_uri": "https://mtgtop8.com/event?e=70317&d=732831&f=LE",
             "mainboard": [
@@ -582,28 +586,44 @@
                     "name": "Ancient Stirrings"
                 },
                 {
-                    "count": 1,
-                    "name": "Bojuka Bog"
+                    "count": 3,
+                    "name": "Once Upon a Time"
                 },
                 {
-                    "count": 2,
-                    "name": "Boseiju, Who Endures"
+                    "count": 3,
+                    "name": "The One Ring"
                 },
                 {
-                    "count": 4,
-                    "name": "Cloudpost"
+                    "count": 3,
+                    "name": "Karn's Sylex"
                 },
                 {
-                    "count": 4,
-                    "name": "Crop Rotation"
+                    "count": 3,
+                    "name": "Ugin, Eye of the Storms"
                 },
                 {
                     "count": 3,
                     "name": "Disruptor Flute"
                 },
                 {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
                     "count": 1,
-                    "name": "Echoing Deeps"
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
                 },
                 {
                     "count": 4,
@@ -611,7 +631,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Emrakul, the Aeons Torn"
+                    "name": "Echoing Deeps"
                 },
                 {
                     "count": 1,
@@ -622,90 +642,50 @@
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
-                    "name": "Glimmerpost"
-                },
-                {
                     "count": 1,
                     "name": "Karakas"
-                },
-                {
-                    "count": 4,
-                    "name": "Karn, the Great Creator"
-                },
-                {
-                    "count": 3,
-                    "name": "Karn's Sylex"
-                },
-                {
-                    "count": 4,
-                    "name": "Kozilek's Command"
                 },
                 {
                     "count": 1,
                     "name": "Maze of Ith"
                 },
                 {
-                    "count": 3,
-                    "name": "Once Upon a Time"
-                },
-                {
-                    "count": 4,
-                    "name": "Planar Nexus"
-                },
-                {
-                    "count": 3,
-                    "name": "The One Ring"
-                },
-                {
-                    "count": 3,
-                    "name": "Ugin, Eye of the Storms"
+                    "count": 1,
+                    "name": "Bojuka Bog"
                 },
                 {
                     "count": 1,
-                    "name": "Ulamog, the Ceaseless Hunger"
+                    "name": "Yavimaya, Cradle of Growth"
                 },
                 {
-                    "count": 4,
-                    "name": "Urza's Tower"
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Glimmerpost"
                 },
                 {
                     "count": 2,
                     "name": "Vesuva"
                 },
                 {
-                    "count": 1,
-                    "name": "Yavimaya, Cradle of Growth"
+                    "count": 4,
+                    "name": "Cloudpost"
+                },
+                {
+                    "count": 4,
+                    "name": "Planar Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "The One Ring"
-                },
-                {
-                    "count": 2,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 1,
-                    "name": "Ensnaring Bridge"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Mycosynth Lattice"
-                },
-                {
-                    "count": 1,
-                    "name": "Tormod's Crypt"
+                    "name": "Walking Ballista"
                 },
                 {
                     "count": 2,
@@ -713,9 +693,34 @@
                 },
                 {
                     "count": 1,
-                    "name": "Walking Ballista"
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "The One Ring"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-06-21",
@@ -861,7 +866,8 @@
                     "count": 1,
                     "name": "Soul-Guide Lantern"
                 }
-            ]
+            ],
+            "notes": "The main concept of this Legacy Combo deck is to utilize cards like Painter's Servant and Grindstone to mill your opponent's entire library in one turn. Emry, Lurker of the Loch and artifacts like Mox Opal and Grim Monolith help generate mana and provide additional utility. Force of Will is included for protection, while cards like Thoughtcast and Stock Up help draw into combo pieces. The deck also includes control elements like Sink into Stupor and Metallic Rebuke. The goal is to assemble the combo quickly and disrupt the opponent's game plan."
         },
         {
             "date": "2025-06-21",
@@ -991,7 +997,8 @@
                     "count": 1,
                     "name": "Null Rod"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-06-21",
@@ -1129,7 +1136,8 @@
                     "count": 1,
                     "name": "Null Rod"
                 }
-            ]
+            ],
+            "notes": ""
         }
     ],
     "rounds": [],

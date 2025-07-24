@@ -279,7 +279,8 @@
                     "count": 1,
                     "name": "Acererak the Archlich"
                 }
-            ]
+            ],
+            "notes": "The focus of the deck is to efficiently generate black mana through cards like Cabal Coffers, Cabal Ritual, and Bubbling Muck in order to cast powerful spells and combo off with Acererak the Archlich. The deck includes a variety of disruption spells like Thoughtseize, Inquisition of Kozilek, and Duress to control the opponent's hand and prevent them from interfering with your combo. Additionally, there are multiple ways to generate card advantage and tutor for key pieces such as Demonic Tutor and Grim Tutor. The deck is designed to be proactive and aggressive, aiming to quickly assemble its combo pieces and win the game before the opponent can establish their own game plan."
         },
         {
             "date": "2025-04-27",
@@ -287,6 +288,102 @@
             "result": 2,
             "anchor_uri": "https://mtgtop8.com/event?e=68096&d=715247&f=EDH",
             "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Flowering of the White Tree"
+                },
+                {
+                    "count": 1,
+                    "name": "Forth Eorlingas!"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Discharge"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 1,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Skullclamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Static Prison"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Pre-War Formalwear"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Reverent Mantra"
+                },
+                {
+                    "count": 1,
+                    "name": "Swift Reconfiguration"
+                },
+                {
+                    "count": 1,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 1,
+                    "name": "Kytheon, Hero of Akros"
+                },
+                {
+                    "count": 1,
+                    "name": "Laelia, the Blade Reforged"
+                },
+                {
+                    "count": 1,
+                    "name": "Loyal Apprentice"
+                },
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Headliner Scarlett"
+                },
                 {
                     "count": 1,
                     "name": "Adeline, Resplendent Cathar"
@@ -309,31 +406,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 1,
-                    "name": "Baird, Argivian Recruiter"
-                },
-                {
-                    "count": 1,
-                    "name": "Battlefield Forge"
-                },
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 1,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 1,
                     "name": "Bonecrusher Giant"
                 },
                 {
                     "count": 1,
-                    "name": "Boros Charm"
+                    "name": "Feldon, Ronom Excavator"
                 },
                 {
                     "count": 1,
@@ -353,11 +430,107 @@
                 },
                 {
                     "count": 1,
-                    "name": "Chain Lightning"
+                    "name": "Skrelv, Defector Mite"
                 },
                 {
                     "count": 1,
-                    "name": "City of Brass"
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Dubious Monarch"
+                },
+                {
+                    "count": 1,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Baird, Argivian Recruiter"
+                },
+                {
+                    "count": 1,
+                    "name": "Isamaru, Hound of Konda"
+                },
+                {
+                    "count": 1,
+                    "name": "Fury"
+                },
+                {
+                    "count": 1,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Goro-Goro, Disciple of Ryusei"
+                },
+                {
+                    "count": 1,
+                    "name": "Gut, True Soul Zealot"
+                },
+                {
+                    "count": 1,
+                    "name": "Inti, Seneschal of the Sun"
+                },
+                {
+                    "count": 1,
+                    "name": "Merry, Esquire of Rohan"
+                },
+                {
+                    "count": 1,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 1,
+                    "name": "Thalia, Heretic Cathar"
+                },
+                {
+                    "count": 1,
+                    "name": "Urdnan, Dromoka Warrior"
+                },
+                {
+                    "count": 1,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Palace Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
+                    "count": 1,
+                    "name": "Phlage, Titan of Fire's Fury"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrogoyf"
+                },
+                {
+                    "count": 1,
+                    "name": "Samwise the Stouthearted"
+                },
+                {
+                    "count": 1,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Seasoned Dungeoneer"
+                },
+                {
+                    "count": 1,
+                    "name": "Senu, Keen-Eyed Protector"
+                },
+                {
+                    "count": 1,
+                    "name": "Tersa Lightshatter"
                 },
                 {
                     "count": 1,
@@ -377,107 +550,35 @@
                 },
                 {
                     "count": 1,
-                    "name": "Embercleave"
+                    "name": "Shinka, the Bloodsoaked Keep"
                 },
                 {
                     "count": 1,
-                    "name": "Feldon, Ronom Excavator"
+                    "name": "Snow-Covered Mountain"
                 },
                 {
                     "count": 1,
-                    "name": "Flagstones of Trokair"
+                    "name": "Sokenzan, Crucible of Defiance"
                 },
                 {
                     "count": 1,
-                    "name": "Flame Slash"
+                    "name": "Sunbillow Verge"
                 },
                 {
                     "count": 1,
-                    "name": "Flooded Strand"
+                    "name": "Sundown Pass"
                 },
                 {
                     "count": 1,
-                    "name": "Flowering of the White Tree"
+                    "name": "Windswept Heath"
                 },
                 {
                     "count": 1,
-                    "name": "Forth Eorlingas!"
+                    "name": "City of Brass"
                 },
                 {
                     "count": 1,
-                    "name": "Fury"
-                },
-                {
-                    "count": 1,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 1,
-                    "name": "Giver of Runes"
-                },
-                {
-                    "count": 1,
-                    "name": "Goro-Goro, Disciple of Ryusei"
-                },
-                {
-                    "count": 1,
-                    "name": "Gut, True Soul Zealot"
-                },
-                {
-                    "count": 1,
-                    "name": "Hammerheim"
-                },
-                {
-                    "count": 1,
-                    "name": "Headliner Scarlett"
-                },
-                {
-                    "count": 1,
-                    "name": "Inspiring Vantage"
-                },
-                {
-                    "count": 1,
-                    "name": "Inti, Seneschal of the Sun"
-                },
-                {
-                    "count": 1,
-                    "name": "Isamaru, Hound of Konda"
-                },
-                {
-                    "count": 1,
-                    "name": "Kari Zev, Skyship Raider"
-                },
-                {
-                    "count": 1,
-                    "name": "Kytheon, Hero of Akros"
-                },
-                {
-                    "count": 1,
-                    "name": "Laelia, the Blade Reforged"
-                },
-                {
-                    "count": 1,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 1,
-                    "name": "Loyal Apprentice"
-                },
-                {
-                    "count": 1,
-                    "name": "Magus of the Moon"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Confluence"
-                },
-                {
-                    "count": 1,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Merry, Esquire of Rohan"
+                    "name": "Sunbaked Canyon"
                 },
                 {
                     "count": 1,
@@ -493,10 +594,6 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mother of Runes"
-                },
-                {
-                    "count": 1,
                     "name": "Mutavault"
                 },
                 {
@@ -505,31 +602,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Palace Jailer"
-                },
-                {
-                    "count": 1,
-                    "name": "Parallax Wave"
-                },
-                {
-                    "count": 1,
-                    "name": "Phelia, Exuberant Shepherd"
-                },
-                {
-                    "count": 1,
-                    "name": "Phlage, Titan of Fire's Fury"
-                },
-                {
-                    "count": 1,
                     "name": "Plateau"
-                },
-                {
-                    "count": 1,
-                    "name": "Plaza of Heroes"
-                },
-                {
-                    "count": 1,
-                    "name": "Pre-War Formalwear"
                 },
                 {
                     "count": 1,
@@ -537,23 +610,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Pyrogoyf"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyrokinesis"
-                },
-                {
-                    "count": 1,
-                    "name": "Reverent Mantra"
-                },
-                {
-                    "count": 1,
                     "name": "Sacred Foundry"
-                },
-                {
-                    "count": 1,
-                    "name": "Samwise the Stouthearted"
                 },
                 {
                     "count": 1,
@@ -561,103 +618,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Screaming Nemesis"
-                },
-                {
-                    "count": 1,
-                    "name": "Seasoned Dungeoneer"
-                },
-                {
-                    "count": 1,
-                    "name": "Senu, Keen-Eyed Protector"
-                },
-                {
-                    "count": 1,
-                    "name": "Shadowspear"
-                },
-                {
-                    "count": 1,
-                    "name": "Shinka, the Bloodsoaked Keep"
-                },
-                {
-                    "count": 1,
-                    "name": "Skrelv, Defector Mite"
-                },
-                {
-                    "count": 1,
-                    "name": "Skullclamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Skyclave Apparition"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Mountain"
-                },
-                {
-                    "count": 5,
-                    "name": "Snow-Covered Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Sokenzan, Crucible of Defiance"
-                },
-                {
-                    "count": 1,
-                    "name": "Solitude"
-                },
-                {
-                    "count": 1,
-                    "name": "Squee, Dubious Monarch"
-                },
-                {
-                    "count": 1,
-                    "name": "Static Prison"
-                },
-                {
-                    "count": 1,
-                    "name": "Stoneforge Mystic"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunbaked Canyon"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunbillow Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Sundown Pass"
-                },
-                {
-                    "count": 1,
-                    "name": "Swift Reconfiguration"
-                },
-                {
-                    "count": 1,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 1,
-                    "name": "Tersa Lightshatter"
-                },
-                {
-                    "count": 1,
-                    "name": "Thalia, Guardian of Thraben"
-                },
-                {
-                    "count": 1,
-                    "name": "Thalia, Heretic Cathar"
-                },
-                {
-                    "count": 1,
-                    "name": "Urdnan, Dromoka Warrior"
-                },
-                {
-                    "count": 1,
-                    "name": "Windswept Heath"
+                    "name": "Plaza of Heroes"
                 },
                 {
                     "count": 1,
@@ -665,15 +626,56 @@
                 },
                 {
                     "count": 1,
-                    "name": "Yoshimaru, Ever Faithful"
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Hammerheim"
+                },
+                {
+                    "count": 1,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 1,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 1,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Plains"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
+                    "name": "Yoshimaru, Ever Faithful"
+                },
+                {
+                    "count": 1,
                     "name": "Bruse Tarl, Boorish Herder"
                 }
-            ]
+            ],
+            "notes": "The main concept of the deck is to overwhelm the opponent with aggressive creatures and efficient removal spells. The deck focuses on utilizing Bruse Tarl, Boorish Herder's abilities to deal damage quickly and efficiently while also gaining life through combat. There is a strong emphasis on creating a wide board presence and maintaining pressure on the opponent. Additionally, the deck includes a selection of powerful equipment and creature buffs to enhance the aggro strategy and push for lethal damage. Overall, the key strategy of the deck is to establish a fast and consistent aggro game plan, utilizing Bruse Tarl's abilities to maximize damage output and secure victory."
         },
         {
             "date": "2025-04-27",
@@ -1039,7 +1041,8 @@
                     "count": 1,
                     "name": "Azusa, Lost but Seeking"
                 }
-            ]
+            ],
+            "notes": "The main focus of the deck is to establish control over the game by ramping up mana production and utilizing powerful land interactions. The commander, Azusa, Lost But Seeking, allows for multiple land drops per turn, enabling quick acceleration. The deck includes various utility lands and land tutors to fix mana and provide additional benefits such as card draw or board control. It also features powerful creatures and spells to maintain board presence and disrupt opponents' strategies. By efficiently ramping and synergizing with lands, the deck aims to overwhelm opponents with its resource advantage and ultimately secure victory through a combination of incremental advantages and powerful finishers."
         },
         {
             "date": "2025-04-27",
@@ -1449,7 +1452,8 @@
                     "count": 1,
                     "name": "Gev, Scaled Scorch"
                 }
-            ]
+            ],
+            "notes": "This aggressive deck revolves around using Gev, Scaled Scorch as the commander to quickly deal damage to the opponent. It includes a mix of burn spells, creatures with evasion, and aggressive red and black creatures to apply pressure early and often. The deck also includes disruption in the form of discard spells like Inquisition of Kozilek and Thoughtseize to disrupt the opponent's game plan. The mana base is built to support the deck's aggressive game plan, with cards like Blood Moon to disrupt greedy mana bases and aggressive lands like Den of the Bugbear to provide additional threats. Overall, the deck aims to quickly close out games with efficient creatures and burn spells before the opponent can stabilize."
         },
         {
             "date": "2025-04-27",
@@ -1823,7 +1827,8 @@
                     "count": 1,
                     "name": "Deadpool, Trading Card"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-04-27",
@@ -2193,7 +2198,8 @@
                     "count": 1,
                     "name": "Deadpool, Trading Card"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-04-27",
@@ -2567,7 +2573,8 @@
                     "count": 1,
                     "name": "Malcolm, the Eyes"
                 }
-            ]
+            ],
+            "notes": ""
         },
         {
             "date": "2025-04-27",
@@ -2977,7 +2984,8 @@
                     "count": 1,
                     "name": "Satya, Aetherflux Genius"
                 }
-            ]
+            ],
+            "notes": ""
         }
     ],
     "rounds": [],
