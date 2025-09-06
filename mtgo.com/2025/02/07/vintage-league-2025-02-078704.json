@@ -9,6 +9,117 @@
     "decks": [
         {
             "date": "2025-02-06",
+            "player": "ruzapyea",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-02-078704#deck_ruzapyea",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 1,
+                    "name": "Dragonlord Kolaghan"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Grave-Troll"
+                },
+                {
+                    "count": 3,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 2,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichorid"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 2,
+                    "name": "Poxwalkers"
+                },
+                {
+                    "count": 4,
+                    "name": "Shambling Shell"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Bridge from Below"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Dread Return"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Sickening Shoal"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-02-06",
             "player": "YoungToast",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-02-078704#deck_YoungToast",
@@ -191,117 +302,8 @@
                     "count": 1,
                     "name": "Yixlid Jailer"
                 }
-            ]
-        },
-        {
-            "date": "2025-02-06",
-            "player": "ruzapyea",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-02-078704#deck_ruzapyea",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 1,
-                    "name": "Dragonlord Kolaghan"
-                },
-                {
-                    "count": 1,
-                    "name": "Golgari Grave-Troll"
-                },
-                {
-                    "count": 3,
-                    "name": "Golgari Thug"
-                },
-                {
-                    "count": 4,
-                    "name": "Grief"
-                },
-                {
-                    "count": 2,
-                    "name": "Griselbrand"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichorid"
-                },
-                {
-                    "count": 4,
-                    "name": "Narcomoeba"
-                },
-                {
-                    "count": 2,
-                    "name": "Poxwalkers"
-                },
-                {
-                    "count": 4,
-                    "name": "Shambling Shell"
-                },
-                {
-                    "count": 4,
-                    "name": "Stinkweed Imp"
-                },
-                {
-                    "count": 1,
-                    "name": "Thassa's Oracle"
-                },
-                {
-                    "count": 4,
-                    "name": "Bridge from Below"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 4,
-                    "name": "Noxious Revival"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 4,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 4,
-                    "name": "Dread Return"
-                }
             ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 2,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 4,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 3,
-                    "name": "Sickening Shoal"
-                },
-                {
-                    "count": 2,
-                    "name": "Spinning Darkness"
-                }
-            ]
+            "notes": null
         },
         {
             "date": "2025-02-06",
@@ -479,7 +481,8 @@
                     "count": 1,
                     "name": "The Tabernacle at Pendrell Vale"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

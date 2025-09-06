@@ -9,6 +9,109 @@
     "decks": [
         {
             "date": "2025-06-08",
+            "player": "CapTenPlanIt",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-099105#deck_CapTenPlanIt",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Grave-Troll"
+                },
+                {
+                    "count": 4,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichorid"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 4,
+                    "name": "Shambling Shell"
+                },
+                {
+                    "count": 3,
+                    "name": "Silversmote Ghoul"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 3,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Chill"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Sickening Shoal"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-08",
             "player": "Rekindle",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-099105#deck_Rekindle",
@@ -183,109 +286,8 @@
                     "count": 2,
                     "name": "Wurmcoil Engine"
                 }
-            ]
-        },
-        {
-            "date": "2025-06-08",
-            "player": "CapTenPlanIt",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-099105#deck_CapTenPlanIt",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 1,
-                    "name": "Golgari Grave-Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Golgari Thug"
-                },
-                {
-                    "count": 4,
-                    "name": "Grief"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichorid"
-                },
-                {
-                    "count": 4,
-                    "name": "Narcomoeba"
-                },
-                {
-                    "count": 4,
-                    "name": "Prized Amalgam"
-                },
-                {
-                    "count": 4,
-                    "name": "Shambling Shell"
-                },
-                {
-                    "count": 3,
-                    "name": "Silversmote Ghoul"
-                },
-                {
-                    "count": 4,
-                    "name": "Stinkweed Imp"
-                },
-                {
-                    "count": 3,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 3,
-                    "name": "Noxious Revival"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 4,
-                    "name": "Creeping Chill"
-                }
             ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 3,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 4,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 3,
-                    "name": "Sickening Shoal"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                }
-            ]
+            "notes": null
         },
         {
             "date": "2025-06-08",
@@ -507,7 +509,8 @@
                     "count": 2,
                     "name": "Yixlid Jailer"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

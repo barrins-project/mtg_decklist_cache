@@ -9,9 +9,9 @@
     "decks": [
         {
             "date": "2025-05-14",
-            "player": "Koby",
+            "player": "oosunq",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-05-159105#deck_Koby",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-05-159105#deck_oosunq",
             "mainboard": [
                 {
                     "count": 1,
@@ -114,7 +114,11 @@
                     "name": "Mishra's Workshop"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
                     "name": "Talon Gates of Madara"
                 },
                 {
@@ -132,7 +136,7 @@
             ],
             "sideboard": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "name": "Argentum Masticore"
                 },
                 {
@@ -140,30 +144,23 @@
                     "name": "Dismember"
                 },
                 {
-                    "count": 1,
-                    "name": "Grafdigger's Cage"
+                    "count": 2,
+                    "name": "Disruptor Flute"
                 },
                 {
-                    "count": 3,
-                    "name": "Leyline of the Void"
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
                 },
                 {
                     "count": 2,
                     "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 1,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 3,
-                    "name": "Stonecoil Serpent"
+                    "count": 4,
+                    "name": "Null Rod"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-05-14",
@@ -333,13 +330,14 @@
                     "count": 1,
                     "name": "Wurmcoil Engine"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-05-14",
-            "player": "oosunq",
+            "player": "Koby",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-05-159105#deck_oosunq",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-05-159105#deck_Koby",
             "mainboard": [
                 {
                     "count": 1,
@@ -442,11 +440,7 @@
                     "name": "Mishra's Workshop"
                 },
                 {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 1,
+                    "count": 2,
                     "name": "Talon Gates of Madara"
                 },
                 {
@@ -464,7 +458,7 @@
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 1,
                     "name": "Argentum Masticore"
                 },
                 {
@@ -472,22 +466,31 @@
                     "name": "Dismember"
                 },
                 {
-                    "count": 2,
-                    "name": "Disruptor Flute"
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 2,
-                    "name": "Grafdigger's Cage"
+                    "count": 3,
+                    "name": "Leyline of the Void"
                 },
                 {
                     "count": 2,
                     "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 4,
-                    "name": "Null Rod"
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 3,
+                    "name": "Stonecoil Serpent"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-05-14",
@@ -641,7 +644,8 @@
                     "count": 4,
                     "name": "Null Rod"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

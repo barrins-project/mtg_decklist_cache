@@ -9,6 +9,109 @@
     "decks": [
         {
             "date": "2025-06-13",
+            "player": "wongdeck",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-149390#deck_wongdeck",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazing Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of Death"
+                },
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Snapback"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-13",
             "player": "svessesvv",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-149390#deck_svessesvv",
@@ -191,7 +294,8 @@
                     "count": 2,
                     "name": "Wurmcoil Engine"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-06-13",
@@ -409,109 +513,8 @@
                     "count": 1,
                     "name": "Yixlid Jailer"
                 }
-            ]
-        },
-        {
-            "date": "2025-06-13",
-            "player": "wongdeck",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-06-149390#deck_wongdeck",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 4,
-                    "name": "Basking Rootwalla"
-                },
-                {
-                    "count": 4,
-                    "name": "Blazing Rootwalla"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Master of Death"
-                },
-                {
-                    "count": 4,
-                    "name": "Squee, Goblin Nabob"
-                },
-                {
-                    "count": 4,
-                    "name": "Vengevine"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 4,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 4,
-                    "name": "Noxious Revival"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                }
             ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Fury"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Ravenous Trap"
-                },
-                {
-                    "count": 2,
-                    "name": "Snapback"
-                }
-            ]
+            "notes": null
         }
     ],
     "rounds": [],

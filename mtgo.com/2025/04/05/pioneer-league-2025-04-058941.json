@@ -9,124 +9,6 @@
     "decks": [
         {
             "date": "2025-04-04",
-            "player": "sMann2.0",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-04-058941#deck_sMann2.0",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Atraxa, Grand Unifier"
-                },
-                {
-                    "count": 1,
-                    "name": "Valgavoth, Terror Eater"
-                },
-                {
-                    "count": 4,
-                    "name": "Fable of the Mirror-Breaker"
-                },
-                {
-                    "count": 2,
-                    "name": "Shark Typhoon"
-                },
-                {
-                    "count": 2,
-                    "name": "Unable to Scream"
-                },
-                {
-                    "count": 4,
-                    "name": "Censor"
-                },
-                {
-                    "count": 4,
-                    "name": "Deduce"
-                },
-                {
-                    "count": 4,
-                    "name": "Prismari Command"
-                },
-                {
-                    "count": 4,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 2,
-                    "name": "Torch the Tower"
-                },
-                {
-                    "count": 4,
-                    "name": "Volcanic Spite"
-                },
-                {
-                    "count": 2,
-                    "name": "Mirrex"
-                },
-                {
-                    "count": 3,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Riverglide Pathway"
-                },
-                {
-                    "count": 4,
-                    "name": "Riverpyre Verge"
-                },
-                {
-                    "count": 2,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 1,
-                    "name": "Sokenzan, Crucible of Defiance"
-                },
-                {
-                    "count": 2,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 2,
-                    "name": "Temple of Epiphany"
-                },
-                {
-                    "count": 4,
-                    "name": "Indomitable Creativity"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Aether Gust"
-                },
-                {
-                    "count": 4,
-                    "name": "Mystical Dispute"
-                },
-                {
-                    "count": 1,
-                    "name": "Portal to Phyrexia"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 2,
-                    "name": "Shark Typhoon"
-                },
-                {
-                    "count": 1,
-                    "name": "Sire of Insanity"
-                }
-            ]
-        },
-        {
-            "date": "2025-04-04",
             "player": "Strongmind",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-04-058941#deck_Strongmind",
@@ -253,7 +135,8 @@
                     "count": 2,
                     "name": "Spell Pierce"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-04-04",
@@ -375,7 +258,127 @@
                     "count": 2,
                     "name": "Wear/Tear"
                 }
-            ]
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-04-04",
+            "player": "sMann2.0",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-04-058941#deck_sMann2.0",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Valgavoth, Terror Eater"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 2,
+                    "name": "Unable to Scream"
+                },
+                {
+                    "count": 4,
+                    "name": "Censor"
+                },
+                {
+                    "count": 4,
+                    "name": "Deduce"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Spite"
+                },
+                {
+                    "count": 2,
+                    "name": "Mirrex"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Temple of Epiphany"
+                },
+                {
+                    "count": 4,
+                    "name": "Indomitable Creativity"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Portal to Phyrexia"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 1,
+                    "name": "Sire of Insanity"
+                }
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

@@ -9,6 +9,117 @@
     "decks": [
         {
             "date": "2025-03-10",
+            "player": "DB_bhobbsie",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-03-118909#deck_DB_bhobbsie",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazing Rootwalla"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of Death"
+                },
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Archive Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Deeps"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Trap"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-03-10",
             "player": "EthanBird",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-03-118909#deck_EthanBird",
@@ -159,117 +270,8 @@
                     "count": 2,
                     "name": "The Stone Brain"
                 }
-            ]
-        },
-        {
-            "date": "2025-03-10",
-            "player": "DB_bhobbsie",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-03-118909#deck_DB_bhobbsie",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 4,
-                    "name": "Basking Rootwalla"
-                },
-                {
-                    "count": 4,
-                    "name": "Blazing Rootwalla"
-                },
-                {
-                    "count": 2,
-                    "name": "Fury"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Master of Death"
-                },
-                {
-                    "count": 4,
-                    "name": "Squee, Goblin Nabob"
-                },
-                {
-                    "count": 4,
-                    "name": "Vengevine"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 3,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 4,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 4,
-                    "name": "Noxious Revival"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                }
             ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Archive Trap"
-                },
-                {
-                    "count": 2,
-                    "name": "Echoing Deeps"
-                },
-                {
-                    "count": 1,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 2,
-                    "name": "Fury"
-                },
-                {
-                    "count": 1,
-                    "name": "Karakas"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 3,
-                    "name": "Ravenous Trap"
-                }
-            ]
+            "notes": null
         },
         {
             "date": "2025-03-10",
@@ -419,7 +421,8 @@
                     "count": 2,
                     "name": "Wurmcoil Engine"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

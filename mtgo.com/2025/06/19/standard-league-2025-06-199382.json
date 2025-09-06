@@ -9,21 +9,25 @@
     "decks": [
         {
             "date": "2025-06-18",
-            "player": "Harry13",
+            "player": "Cabezadebolo",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_Harry13",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_Cabezadebolo",
             "mainboard": [
                 {
                     "count": 4,
                     "name": "Cori-Steel Cutter"
                 },
                 {
-                    "count": 3,
-                    "name": "Drake Hatcher"
+                    "count": 4,
+                    "name": "Thundertrap Trainer"
                 },
                 {
-                    "count": 4,
-                    "name": "Monastery Swiftspear"
+                    "count": 1,
+                    "name": "Vivi Ornitier"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
                     "count": 4,
@@ -35,26 +39,30 @@
                 },
                 {
                     "count": 3,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 4,
                     "name": "Into the Flood Maw"
-                },
-                {
-                    "count": 3,
-                    "name": "Monstrous Rage"
-                },
-                {
-                    "count": 2,
-                    "name": "Opera Love Song"
                 },
                 {
                     "count": 4,
                     "name": "Opt"
                 },
                 {
+                    "count": 1,
+                    "name": "Rebel Salvo"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "This Town Ain't Big Enough"
+                },
+                {
                     "count": 4,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 6,
                     "name": "Island"
                 },
                 {
@@ -74,25 +82,37 @@
                     "name": "Spirebluff Canal"
                 },
                 {
-                    "count": 2,
-                    "name": "Starting Town"
-                },
-                {
                     "count": 4,
                     "name": "Sleight of Hand"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Stock Up"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Fiery Annihilation"
+                    "name": "Abrade"
                 },
                 {
                     "count": 1,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Eddymurk Crab"
+                },
+                {
+                    "count": 2,
+                    "name": "Get Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
                     "name": "Lithomantic Barrage"
                 },
                 {
@@ -104,34 +124,399 @@
                     "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 2,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "count": 1,
+                    "name": "Rebel Salvo"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
                 },
                 {
                     "count": 2,
-                    "name": "Soul-Guide Lantern"
+                    "name": "Unable to Scream"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "Fink64",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_Fink64",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivi Ornitier"
+                },
+                {
+                    "count": 4,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
                 },
                 {
                     "count": 2,
                     "name": "Spell Pierce"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "This Town Ain't Big Enough"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "Torch the Tower"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 4,
+                    "name": "Unable to Scream"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "morris",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_morris",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 3,
+                    "name": "Drake Hatcher"
+                },
+                {
+                    "count": 2,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 3,
+                    "name": "Vivi Ornitier"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 3,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 3,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "This Town Ain't Big Enough"
+                },
+                {
+                    "count": 3,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Lithomantic Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 1,
+                    "name": "Rebel Salvo"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
                 },
                 {
                     "count": 2,
                     "name": "Unable to Scream"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "alfonseelric",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_alfonseelric",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Witchstalker Frenzy"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Lithomantic Barrage"
                 },
                 {
                     "count": 1,
-                    "name": "Vivi Ornitier"
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 4,
+                    "name": "Torch the Tower"
                 }
-            ]
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "IWikittiorI",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_IWikittiorI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 2,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Witchstalker Frenzy"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Case of the Crimson Pulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Lithomantic Barrage"
+                },
+                {
+                    "count": 1,
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 2,
+                    "name": "Torch the Tower"
+                }
+            ],
+            "notes": null
         },
         {
             "date": "2025-06-18",
@@ -257,13 +642,14 @@
                     "count": 1,
                     "name": "Unable to Scream"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-06-18",
-            "player": "morris",
+            "player": "SaltyMercy",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_morris",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_SaltyMercy",
             "mainboard": [
                 {
                     "count": 4,
@@ -282,6 +668,10 @@
                     "name": "Vivi Ornitier"
                 },
                 {
+                    "count": 1,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
                     "count": 4,
                     "name": "Stormchaser's Talent"
                 },
@@ -290,7 +680,7 @@
                     "name": "Into the Flood Maw"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Monstrous Rage"
                 },
                 {
@@ -352,11 +742,11 @@
                     "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Rebel Salvo"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
@@ -367,7 +757,238 @@
                     "count": 2,
                     "name": "Unable to Scream"
                 }
-            ]
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "reojund",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_reojund",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Cecil, Dark Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Deep-Cavern Bat"
+                },
+                {
+                    "count": 4,
+                    "name": "Demon Wall"
+                },
+                {
+                    "count": 2,
+                    "name": "Glissa Sunslayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 4,
+                    "name": "Sentinel of the Nameless City"
+                },
+                {
+                    "count": 3,
+                    "name": "Innkeeper's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex // Ritual Chamber"
+                },
+                {
+                    "count": 3,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Cottage"
+                },
+                {
+                    "count": 1,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Wastewood Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Dreams of Steel and Oil"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Lord Skitter, Sewer King"
+                },
+                {
+                    "count": 2,
+                    "name": "Lumbering Worldwagon"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Ascended Animist"
+                },
+                {
+                    "count": 1,
+                    "name": "Outrageous Robbery"
+                },
+                {
+                    "count": 1,
+                    "name": "Urgent Necropsy"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-06-18",
+            "player": "yukiro",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_yukiro",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 2,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Twinmaw Stormbrood"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Opera Love Song"
+                },
+                {
+                    "count": 2,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 12,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Annihilation"
+                },
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 3,
+                    "name": "Torch the Tower"
+                }
+            ],
+            "notes": null
         },
         {
             "date": "2025-06-18",
@@ -497,29 +1118,26 @@
                     "count": 2,
                     "name": "Unable to Scream"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-06-18",
-            "player": "Cabezadebolo",
+            "player": "Harry13",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_Cabezadebolo",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-06-199382#deck_Harry13",
             "mainboard": [
                 {
                     "count": 4,
                     "name": "Cori-Steel Cutter"
                 },
                 {
+                    "count": 3,
+                    "name": "Drake Hatcher"
+                },
+                {
                     "count": 4,
-                    "name": "Thundertrap Trainer"
-                },
-                {
-                    "count": 1,
-                    "name": "Vivi Ornitier"
-                },
-                {
-                    "count": 2,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "name": "Monastery Swiftspear"
                 },
                 {
                     "count": 4,
@@ -531,30 +1149,26 @@
                 },
                 {
                     "count": 3,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
                     "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 3,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 2,
+                    "name": "Opera Love Song"
                 },
                 {
                     "count": 4,
                     "name": "Opt"
                 },
                 {
-                    "count": 1,
-                    "name": "Rebel Salvo"
-                },
-                {
-                    "count": 1,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 2,
-                    "name": "This Town Ain't Big Enough"
-                },
-                {
                     "count": 4,
-                    "name": "Torch the Tower"
-                },
-                {
-                    "count": 6,
                     "name": "Island"
                 },
                 {
@@ -574,37 +1188,25 @@
                     "name": "Spirebluff Canal"
                 },
                 {
+                    "count": 2,
+                    "name": "Starting Town"
+                },
+                {
                     "count": 4,
                     "name": "Sleight of Hand"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Stock Up"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Abrade"
+                    "name": "Fiery Annihilation"
                 },
                 {
                     "count": 1,
-                    "name": "Disdainful Stroke"
-                },
-                {
-                    "count": 1,
-                    "name": "Eddymurk Crab"
-                },
-                {
-                    "count": 2,
-                    "name": "Get Out"
-                },
-                {
-                    "count": 2,
-                    "name": "Ghost Vacuum"
-                },
-                {
-                    "count": 2,
                     "name": "Lithomantic Barrage"
                 },
                 {
@@ -616,18 +1218,35 @@
                     "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 1,
-                    "name": "Rebel Salvo"
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
                 },
                 {
                     "count": 1,
-                    "name": "Spell Pierce"
+                    "name": "This Town Ain't Big Enough"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
                 },
                 {
                     "count": 2,
                     "name": "Unable to Scream"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivi Ornitier"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

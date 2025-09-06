@@ -9,6 +9,85 @@
     "decks": [
         {
             "date": "2025-03-21",
+            "player": "psoriasaurus",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-03-228941#deck_psoriasaurus",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 15,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 4,
+                    "name": "Rockface Village"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorkin Needlehead"
+                },
+                {
+                    "count": 4,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 3,
+                    "name": "Urabrask's Forge"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-03-21",
             "player": "jackpaez",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-03-228941#deck_jackpaez",
@@ -99,85 +178,8 @@
                     "count": 2,
                     "name": "Torch the Tower"
                 }
-            ]
-        },
-        {
-            "date": "2025-03-21",
-            "player": "psoriasaurus",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-03-228941#deck_psoriasaurus",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Emberheart Challenger"
-                },
-                {
-                    "count": 4,
-                    "name": "Heartfire Hero"
-                },
-                {
-                    "count": 4,
-                    "name": "Hired Claw"
-                },
-                {
-                    "count": 4,
-                    "name": "Manifold Mouse"
-                },
-                {
-                    "count": 4,
-                    "name": "Screaming Nemesis"
-                },
-                {
-                    "count": 4,
-                    "name": "Sunspine Lynx"
-                },
-                {
-                    "count": 4,
-                    "name": "Kumano Faces Kakkazan"
-                },
-                {
-                    "count": 4,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 4,
-                    "name": "Monstrous Rage"
-                },
-                {
-                    "count": 15,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 1,
-                    "name": "Ramunap Ruins"
-                },
-                {
-                    "count": 4,
-                    "name": "Rockface Village"
-                }
             ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Magebane Lizard"
-                },
-                {
-                    "count": 4,
-                    "name": "Razorkin Needlehead"
-                },
-                {
-                    "count": 4,
-                    "name": "Redcap Melee"
-                },
-                {
-                    "count": 3,
-                    "name": "Urabrask's Forge"
-                }
-            ]
+            "notes": null
         },
         {
             "date": "2025-03-21",
@@ -283,7 +285,8 @@
                     "count": 2,
                     "name": "Witchstalker Frenzy"
                 }
-            ]
+            ],
+            "notes": null
         },
         {
             "date": "2025-03-21",
@@ -393,7 +396,8 @@
                     "count": 2,
                     "name": "Unlicensed Hearse"
                 }
-            ]
+            ],
+            "notes": null
         }
     ],
     "rounds": [],

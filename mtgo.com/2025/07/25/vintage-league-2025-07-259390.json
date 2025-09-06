@@ -9,21 +9,25 @@
     "decks": [
         {
             "date": "2025-07-24",
-            "player": "Koby",
+            "player": "NathanLipetz",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-07-259390#deck_Koby",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-07-259390#deck_NathanLipetz",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
                 },
                 {
-                    "count": 1,
-                    "name": "Chalice of the Void"
+                    "count": 4,
+                    "name": "Coveted Jewel"
                 },
                 {
                     "count": 3,
                     "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
                 },
                 {
                     "count": 1,
@@ -34,7 +38,7 @@
                     "name": "Mana Vault"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
                     "name": "Manifold Key"
                 },
                 {
@@ -62,14 +66,6 @@
                     "name": "Mystic Forge"
                 },
                 {
-                    "count": 2,
-                    "name": "Nettlecyst"
-                },
-                {
-                    "count": 4,
-                    "name": "Sensei's Divining Top"
-                },
-                {
                     "count": 1,
                     "name": "Sol Ring"
                 },
@@ -83,38 +79,50 @@
                 },
                 {
                     "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
                     "name": "Vexing Bauble"
                 },
                 {
                     "count": 4,
-                    "name": "Glaring Fleshraker"
+                    "name": "Phyrexian Metamorph"
                 },
                 {
                     "count": 1,
-                    "name": "Lodestone Golem"
+                    "name": "Ancestral Recall"
                 },
                 {
                     "count": 4,
-                    "name": "Patchwork Automaton"
+                    "name": "Force of Will"
                 },
                 {
                     "count": 4,
-                    "name": "Scrawling Crawler"
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 4,
+                    "name": "Sink into Stupor"
                 },
                 {
                     "count": 4,
                     "name": "Ancient Tomb"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
                 },
                 {
                     "count": 4,
                     "name": "Mishra's Workshop"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
                     "name": "Talon Gates of Madara"
                 },
                 {
@@ -128,6 +136,14 @@
                 {
                     "count": 1,
                     "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
                 }
             ],
             "sideboard": [
@@ -137,27 +153,39 @@
                 },
                 {
                     "count": 2,
-                    "name": "Dismember"
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
                 },
                 {
                     "count": 2,
                     "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 3,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 3,
-                    "name": "Null Rod"
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
                 },
                 {
                     "count": 1,
-                    "name": "Relic of Progenitus"
+                    "name": "Pithing Needle"
                 },
                 {
-                    "count": 3,
-                    "name": "Stonecoil Serpent"
+                    "count": 1,
+                    "name": "Talon Gates of Madara"
+                },
+                {
+                    "count": 1,
+                    "name": "The Mightstone and Weakstone"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Wurmcoil Engine"
                 }
             ],
             "notes": null
@@ -343,25 +371,21 @@
         },
         {
             "date": "2025-07-24",
-            "player": "NathanLipetz",
+            "player": "Koby",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-07-259390#deck_NathanLipetz",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-07-259390#deck_Koby",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
                 },
                 {
-                    "count": 4,
-                    "name": "Coveted Jewel"
+                    "count": 1,
+                    "name": "Chalice of the Void"
                 },
                 {
                     "count": 3,
                     "name": "Grim Monolith"
-                },
-                {
-                    "count": 1,
-                    "name": "Lotus Petal"
                 },
                 {
                     "count": 1,
@@ -372,7 +396,7 @@
                     "name": "Mana Vault"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "Manifold Key"
                 },
                 {
@@ -400,6 +424,14 @@
                     "name": "Mystic Forge"
                 },
                 {
+                    "count": 2,
+                    "name": "Nettlecyst"
+                },
+                {
+                    "count": 4,
+                    "name": "Sensei's Divining Top"
+                },
+                {
                     "count": 1,
                     "name": "Sol Ring"
                 },
@@ -413,50 +445,38 @@
                 },
                 {
                     "count": 1,
-                    "name": "Trinisphere"
-                },
-                {
-                    "count": 1,
                     "name": "Vexing Bauble"
                 },
                 {
                     "count": 4,
-                    "name": "Phyrexian Metamorph"
+                    "name": "Glaring Fleshraker"
                 },
                 {
                     "count": 1,
-                    "name": "Ancestral Recall"
+                    "name": "Lodestone Golem"
                 },
                 {
                     "count": 4,
-                    "name": "Force of Will"
+                    "name": "Patchwork Automaton"
                 },
                 {
                     "count": 4,
-                    "name": "Paradoxical Outcome"
-                },
-                {
-                    "count": 4,
-                    "name": "Sink into Stupor"
+                    "name": "Scrawling Crawler"
                 },
                 {
                     "count": 4,
                     "name": "Ancient Tomb"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "City of Traitors"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
                 },
                 {
                     "count": 4,
                     "name": "Mishra's Workshop"
                 },
                 {
-                    "count": 1,
+                    "count": 3,
                     "name": "Talon Gates of Madara"
                 },
                 {
@@ -470,14 +490,6 @@
                 {
                     "count": 1,
                     "name": "Karn, the Great Creator"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
                 }
             ],
             "sideboard": [
@@ -487,39 +499,27 @@
                 },
                 {
                     "count": 2,
-                    "name": "Defense Grid"
-                },
-                {
-                    "count": 3,
-                    "name": "Force of Negation"
+                    "name": "Dismember"
                 },
                 {
                     "count": 2,
                     "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 1,
-                    "name": "Mycosynth Lattice"
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Null Rod"
                 },
                 {
                     "count": 1,
-                    "name": "Pithing Needle"
+                    "name": "Relic of Progenitus"
                 },
                 {
-                    "count": 1,
-                    "name": "Talon Gates of Madara"
-                },
-                {
-                    "count": 1,
-                    "name": "The Mightstone and Weakstone"
-                },
-                {
-                    "count": 1,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 2,
-                    "name": "Wurmcoil Engine"
+                    "count": 3,
+                    "name": "Stonecoil Serpent"
                 }
             ],
             "notes": null
