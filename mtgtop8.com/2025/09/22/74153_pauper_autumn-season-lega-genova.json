@@ -1,0 +1,925 @@
+{
+    "tournament": {
+        "date": "2025-09-22",
+        "name": "Autumn Season - Lega Genova",
+        "url": "https://mtgtop8.com/event?e=74153",
+        "format": "Pauper",
+        "players": 25
+    },
+    "decks": [
+        {
+            "date": "2025-09-22",
+            "player": "Kaierman",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762613&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 3,
+                    "name": "Meeting of Minds"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 3,
+                    "name": "Contaminated Landscape"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through card advantage and tempo manipulation. By utilizing cards like God-Pharaoh's Faithful, Snap, Ephemerate, and Archaeomancer, the deck aims to outvalue its opponents and disrupt their game plan. The inclusion of Mulldrifter and Sea Gate Oracle provides additional card draw and filtering options. Lórien Revealed can add extra mana acceleration, while Prohibit and Negate offer counterplay against key threats. The deck also has a backup win condition in Murmuring Mystic. Overall, the deck's strategy is to grind out wins through efficient resource management and incremental advantage."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Himrik",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762614&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                },
+                {
+                    "count": 3,
+                    "name": "Gixian Infiltrator"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Nyxborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Crypt Incursion"
+                },
+                {
+                    "count": 1,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Twisted Landscape"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Life Goes On"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                }
+            ],
+            "notes": "This deck focuses on quick creature advantage and graveyard disruption. By using cards like Refurbished Familiar and Fanatical Offering, the deck can quickly generate creature tokens and gain value from sacrificing them. Cards like Krark-Clan Shaman and Nihil Spellbomb help disrupt opponent's graveyard strategies. The deck also includes removal spells like Cast Down and a mix of card draw and recursion cards to ensure a steady stream of threats. Overall, this deck aims to overwhelm opponents with aggressive creatures while disrupting their game plan through graveyard hate and removal."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Tommasopalagonia",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762615&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Campfire"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Temporal Intervention"
+                },
+                {
+                    "count": 3,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 3,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Nutrient Block"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Witch's Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 13,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crypt Incursion"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Pilfer"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main focus of this Pauper Golgari/Jund Garden control deck is to utilize the combination of efficient removal spells, card draw, and sacrifice effects to control the game and generate value. By using cards like Pestilence and Fanatical Offering alongside creatures like Gurmag Angler and Witch's Familiar, the deck aims to maintain board presence and disrupt the opponent's strategy. The inclusion of Campfire and Nihil Spellbomb also provide additional utility and disruption against graveyard strategies. Overall, the deck seeks to outvalue and outlast opponents through careful resource management and strategic plays."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Silvia Piras",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762616&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 3,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Rally at the Hornburg"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with a fast and aggressive approach. By utilizing low-cost creatures and direct damage spells like Galvanic Blast and Lightning Bolt, the deck aims to put pressure on the opponent early on. Additional cards like Rally at the Hornburg and Goblin Bushwhacker help to boost the attacking power of the creatures, increasing the chances of dealing significant damage quickly. With a primarily red mana base and a mix of creature buffs and burn spells, this deck is designed to be a relentless force in a Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Giovanni Favetta",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762617&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Abjure"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryogen Relic"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Hard Evidence"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 2,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 3,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "This Dimir Control deck focuses on disrupting the opponent's strategy and maintaining board control through a combination of counterspells, removal spells, and efficient card draw. It aims to outvalue opponents by generating card advantage and efficiently dealing with threats while establishing a strong board presence with creatures like Murmuring Mystic and Sneaky Snacker. By utilizing a mix of control elements and threats, this deck aims to control the pace of the game and secure victory through attrition and strategic decision-making."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Efra98",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762619&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 3,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Shambling Ghast"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 9,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Temporal Intervention"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": "The main idea of this deck is to control the opponent's actions and resources by using removal spells like Snuff Out and Defile, while also generating card advantage with Ichor Wellspring and Tithing Blade. The deck aims to stabilize the board with creatures like Troll of Khazad-dûm and Crypt Rats, while also gaining life and card advantage with cards like Blood Fountain and Reckoner's Bargain. The deck also utilizes the land Khalni Garden to generate tokens for defense and offense, creating a resilient board presence to grind out victories over time."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "Fabio Scavone",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762620&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Gixian Infiltrator"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Twisted Landscape"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Troublemaker Ouphe"
+                }
+            ],
+            "notes": "This deck focuses on playing aggressive creatures combined with sacrifice effects and artifact synergies to control the board and disrupt the opponent's strategy. Cards like Gixian Infiltrator and Refurbished Familiar provide early pressure, while Writhing Chrysalis and Ichor Wellspring generate value through sacrificing creatures and artifacts. The inclusion of removal spells like Galvanic Blast and Krark-Clan Shaman help maintain board presence. The deck also utilizes land destruction with Cleansing Wildfire and artifact recursion with Drossforge Bridge to gain a strategic advantage. The goal is to overwhelm the opponent with efficient creatures and disrupt their game plan."
+        },
+        {
+            "date": "2025-09-22",
+            "player": "1gla1",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=74153&d=762618&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 1,
+                    "name": "Thermo-Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively deal damage to the opponent using low-cost creatures and inexpensive burn spells. The deck includes a mix of efficient creatures like Clockwork Percussionist and Goblin Tomb Raider, along with powerful burn spells like Lightning Bolt and Chain Lightning to finish off the opponent. The goal is to overwhelm the opponent with early aggression and close out the game before they have a chance to stabilize. The deck is designed to be fast and relentless, aiming to win the game as quickly as possible."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
