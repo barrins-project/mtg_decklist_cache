@@ -1,0 +1,805 @@
+{
+    "tournament": {
+        "date": "2025-11-05",
+        "name": "MTGO League",
+        "url": "https://mtgtop8.com/event?e=76219",
+        "format": "Vintage",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2025-11-05",
+            "player": "chasehoppe",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=76219&d=778383&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Timetwister"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 3,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 3,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Opal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                }
+            ],
+            "notes": "The deck focuses on utilizing Paradoxical Outcome along with various fast mana sources and card draw spells to generate a large amount of mana and card advantage quickly. It aims to combo off by using Time Vault and Voltaic Key or Manifold Key, while also having disruption with cards like Force of Will and Swords to Plowshares. Lurrus of the Dream-Den serves as a companion that can be cast from exile to provide additional value and recursion for key combo pieces. The deck is built to be efficient, resilient, and capable of winning the game in explosive fashion."
+        },
+        {
+            "date": "2025-11-05",
+            "player": "Gerschi",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=76219&d=778384&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 2,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Virtue's Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                }
+            ],
+            "notes": "The deck focuses on utilizing Paradoxical Outcome to generate card advantage and mana acceleration through various artifacts like Moxen and Sol Ring. It also includes powerful combo pieces such as Time Vault and Voltaic Key to potentially win the game in a single turn. The deck aims to control the game using counterspells like Force of Will and disruption spells like Chain of Vapor, while also having access to powerful tutors like Demonic Tutor and Vampiric Tutor to find key pieces of the combo. Additionally, Lurrus of the Dream-Den can provide additional value and recursion for the deck."
+        },
+        {
+            "date": "2025-11-05",
+            "player": "HanktheObese",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=76219&d=778385&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of Death"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazing Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 2,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly and aggressively flood the board with cheap creatures like Squee, Goblin Nabob, Blazing Rootwalla, and Vengevine, while using cards like Bazaar of Baghdad to filter through the deck and put creatures into the graveyard. This allows for powerful plays like bringing back multiple Vengevines in a single turn. The deck also includes disruption cards like Force of Will and Mindbreak Trap to protect its game plan, making it a potent aggro strategy in the Vintage 1 vs 1 format."
+        },
+        {
+            "date": "2025-11-05",
+            "player": "Werthy89",
+            "result": 4,
+            "anchor_uri": "https://mtgtop8.com/event?e=76219&d=778386&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 2,
+                    "name": "Flame of Anor"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Tezzeret, Cruel Captain"
+                },
+                {
+                    "count": 3,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivi Ornitier"
+                },
+                {
+                    "count": 3,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The deck focuses on quickly assembling powerful card combinations to generate a large amount of mana and draw additional cards. It utilizes fast mana cards like Moxen and Black Lotus to ramp into big plays like Tinker or Bolas's Citadel, while also controlling the opponent's game plan with counterspells like Force of Will. Paradoxical Outcome allows for massive card draw and mana generation, fueling the deck's combo potential. The inclusion of cards like Time Vault and Manifold Key demonstrate the deck's ability to win the game through alternative win conditions beyond traditional combat."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
