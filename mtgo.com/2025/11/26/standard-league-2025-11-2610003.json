@@ -9,52 +9,306 @@
     "decks": [
         {
             "date": "2025-11-25",
-            "player": "tim96",
+            "player": "Izzy90",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_tim96",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Izzy90",
             "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 1,
+                    "name": "Marang River Regent"
+                },
+                {
+                    "count": 1,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Consult the Star Charts"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 4,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 4,
+                    "name": "No More Lies"
+                },
+                {
+                    "count": 2,
+                    "name": "Ride's End"
+                },
+                {
+                    "count": 3,
+                    "name": "Three Steps Ahead"
+                },
+                {
+                    "count": 3,
+                    "name": "Demolition Field"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistrise Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Restless Anchorage"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 3,
+                    "name": "Day of Judgment"
+                },
+                {
+                    "count": 3,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Ultima"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 2,
+                    "name": "Devout Decree"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Tishana's Tidebinder"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Solodin",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Solodin",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Azure Beastbinder"
+                },
                 {
                     "count": 4,
                     "name": "Badgermole Cub"
                 },
                 {
                     "count": 4,
-                    "name": "Enduring Vitality"
+                    "name": "Druneth, Reviver of the Hive"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodpits Drowner"
+                },
+                {
+                    "count": 4,
+                    "name": "Gene Pollinator"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Ouroboroid"
+                },
+                {
+                    "count": 4,
+                    "name": "Pawpatch Recruit"
+                },
+                {
+                    "count": 2,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 2,
+                    "name": "Sab-Sunen, Luxa Embodied"
+                },
+                {
+                    "count": 3,
+                    "name": "Spyglass Siren"
                 },
                 {
                     "count": 1,
-                    "name": "Stormsplitter"
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 2,
+                    "name": "Tyvar, the Pummeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 1,
+                    "name": "Restless Vinestalk"
+                },
+                {
+                    "count": 4,
+                    "name": "Willowrush Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Aetherize"
+                },
+                {
+                    "count": 2,
+                    "name": "Detect Intrusion"
+                },
+                {
+                    "count": 2,
+                    "name": "Keen-Eyed Curator"
+                },
+                {
+                    "count": 2,
+                    "name": "Repulsive Mutation"
+                },
+                {
+                    "count": 2,
+                    "name": "Scrapshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Surrak, Elusive Hunter"
+                },
+                {
+                    "count": 2,
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 3,
+                    "name": "Torpor Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "daibloXSC",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_daibloXSC",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Enduring Vitality"
+                },
+                {
+                    "count": 2,
+                    "name": "Kitsa, Otterball Elite"
+                },
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
                 },
                 {
                     "count": 4,
                     "name": "Thundertrap Trainer"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Valley Floodcaller"
-                },
-                {
-                    "count": 2,
-                    "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
                     "count": 4,
                     "name": "Stormchaser's Talent"
                 },
                 {
-                    "count": 1,
-                    "name": "Get Out"
+                    "count": 3,
+                    "name": "Into the Flood Maw"
                 },
                 {
                     "count": 4,
-                    "name": "Torch the Tower"
+                    "name": "Opt"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Botanical Sanctum"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Breeding Pool"
                 },
                 {
@@ -62,15 +316,237 @@
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
-                    "name": "Hedge Maze"
-                },
-                {
-                    "count": 2,
+                    "count": 3,
                     "name": "Island"
                 },
                 {
+                    "count": 3,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Willowrush Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Bushwhack"
+                },
+                {
+                    "count": 4,
+                    "name": "Splash Portal"
+                },
+                {
+                    "count": 2,
+                    "name": "Stock Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Bounce Off"
+                },
+                {
+                    "count": 2,
+                    "name": "Detect Intrusion"
+                },
+                {
                     "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Octopus Form"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 3,
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 2,
+                    "name": "Unable to Scream"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "RAV92",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_RAV92",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Burnout Bashtronaut"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret, Godseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 3,
+                    "name": "Nova Hellkite"
+                },
+                {
+                    "count": 2,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 3,
+                    "name": "Zhao, the Moon Slayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 1,
+                    "name": "Self-Destruct"
+                },
+                {
+                    "count": 4,
+                    "name": "Turn Inside Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Witchstalker Frenzy"
+                },
+                {
+                    "count": 17,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Muraganda Raceway"
+                },
+                {
+                    "count": 3,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 1,
+                    "name": "Soulstone Sanctuary"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chandra, Spark Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 3,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Stingerback Terror"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 2,
+                    "name": "Twisted Fealty"
+                },
+                {
+                    "count": 1,
+                    "name": "Untimely Malfunction"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "choccy_milk",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_choccy_milk",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Scapegoat"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Stadium Headliner"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of Resonance"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadmaw's Ire"
+                },
+                {
+                    "count": 4,
+                    "name": "Full Bore"
+                },
+                {
+                    "count": 3,
+                    "name": "Might of the Meek"
+                },
+                {
+                    "count": 3,
+                    "name": "Snakeskin Veil"
+                },
+                {
+                    "count": 4,
+                    "name": "Turn Inside Out"
+                },
+                {
+                    "count": 7,
                     "name": "Mountain"
                 },
                 {
@@ -82,42 +558,145 @@
                     "name": "Stomping Ground"
                 },
                 {
-                    "count": 1,
-                    "name": "Thundering Falls"
-                },
-                {
-                    "count": 3,
-                    "name": "Analyze the Pollen"
-                },
-                {
-                    "count": 2,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 1,
-                    "name": "Nature's Rhythm"
-                },
-                {
-                    "count": 1,
-                    "name": "Obliterating Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Song of Totentanz"
-                },
-                {
                     "count": 4,
-                    "name": "Winternight Stories"
+                    "name": "Thornspire Verge"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Detect Intrusion"
+                    "name": "Felonious Rage"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire Magic"
                 },
                 {
                     "count": 2,
+                    "name": "Heritage Reclamation"
+                },
+                {
+                    "count": 3,
+                    "name": "Pawpatch Recruit"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 1,
+                    "name": "Snakeskin Veil"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "kbol_",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_kbol_",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 4,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 3,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Get Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Splash Portal"
+                },
+                {
+                    "count": 3,
+                    "name": "Stock Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut Propulsion"
+                },
+                {
+                    "count": 1,
+                    "name": "Detect Intrusion"
+                },
+                {
+                    "count": 1,
                     "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
                 },
                 {
                     "count": 2,
@@ -125,27 +704,130 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mistrise Village"
-                },
-                {
-                    "count": 2,
-                    "name": "Obliterating Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Quantum Riddler"
+                    "name": "Ghost Vacuum"
                 },
                 {
                     "count": 1,
-                    "name": "Ral, Crackling Wit"
+                    "name": "Negate"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
                     "name": "Soul-Guide Lantern"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Tishana's Tidebinder"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Nandisko",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Nandisko",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bristly Bill, Spine Sower"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Mossborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Sazh's Chocobo"
+                },
+                {
+                    "count": 4,
+                    "name": "Tifa Lockhart"
+                },
+                {
+                    "count": 4,
+                    "name": "Traveling Chocobo"
+                },
+                {
+                    "count": 3,
+                    "name": "Earthbender Ascension"
+                },
+                {
+                    "count": 4,
+                    "name": "Sheltered by Ghosts"
+                },
+                {
+                    "count": 1,
+                    "name": "Royal Treatment"
+                },
+                {
+                    "count": 4,
+                    "name": "Snakeskin Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Ba Sing Se"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 9,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Hollowmurk Siege"
+                },
+                {
+                    "count": 3,
+                    "name": "Origin of Metalbending"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Torpor Orb"
                 }
             ],
             "notes": null
@@ -291,83 +973,198 @@
         },
         {
             "date": "2025-11-25",
-            "player": "Owl1013",
+            "player": "AvocadoToast",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Owl1013",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_AvocadoToast",
             "mainboard": [
                 {
                     "count": 3,
-                    "name": "Grim Bauble"
+                    "name": "Cecil, Dark Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Deep-Cavern Bat"
+                },
+                {
+                    "count": 4,
+                    "name": "Demon Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 2,
+                    "name": "Aang's Iceberg"
+                },
+                {
+                    "count": 2,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex // Ritual Chamber"
+                },
+                {
+                    "count": 1,
+                    "name": "Long Goodbye"
+                },
+                {
+                    "count": 4,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 2,
+                    "name": "Stab"
                 },
                 {
                     "count": 3,
-                    "name": "Entity Tracker"
+                    "name": "Abandoned Air Temple"
                 },
                 {
                     "count": 4,
-                    "name": "Fear of Isolation"
+                    "name": "Bleachbone Verge"
                 },
                 {
                     "count": 4,
-                    "name": "Spyglass Siren"
+                    "name": "Concealed Courtyard"
                 },
                 {
                     "count": 4,
-                    "name": "Nowhere to Run"
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Elspeth, Storm Slayer"
+                },
+                {
+                    "count": 1,
+                    "name": "United Front"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Aang's Iceberg"
+                },
+                {
+                    "count": 3,
+                    "name": "Aven Interrupter"
+                },
+                {
+                    "count": 2,
+                    "name": "Day of Judgment"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Stab"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought-Stalker Warlock"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "fazparte",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_fazparte",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Duelist of the Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Marauding Mako"
+                },
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 3,
+                    "name": "Tiger-Seal"
+                },
+                {
+                    "count": 1,
+                    "name": "Frostcliff Siege"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
                     "count": 4,
                     "name": "Stormchaser's Talent"
                 },
                 {
-                    "count": 2,
-                    "name": "Tinybones Joins Up"
-                },
-                {
-                    "count": 2,
-                    "name": "Shoot the Sheriff"
-                },
-                {
                     "count": 4,
-                    "name": "Gloomlake Verge"
+                    "name": "Torch the Tower"
                 },
                 {
-                    "count": 7,
+                    "count": 8,
                     "name": "Island"
                 },
                 {
                     "count": 3,
-                    "name": "Restless Reef"
-                },
-                {
-                    "count": 5,
-                    "name": "Swamp"
+                    "name": "Mountain"
                 },
                 {
                     "count": 4,
-                    "name": "Watery Grave"
+                    "name": "Multiversal Passage"
                 },
                 {
-                    "count": 3,
-                    "name": "Kaito, Bane of Nightmares"
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
                 },
                 {
                     "count": 4,
                     "name": "Boomerang Basics"
                 },
                 {
-                    "count": 2,
-                    "name": "Stock Up"
-                },
-                {
-                    "count": 2,
-                    "name": "Tragic Trajectory"
+                    "count": 4,
+                    "name": "Winternight Stories"
                 }
             ],
             "sideboard": [
                 {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut Propulsion"
+                },
+                {
                     "count": 2,
-                    "name": "Annul"
+                    "name": "Detect Intrusion"
                 },
                 {
                     "count": 2,
@@ -375,15 +1172,142 @@
                 },
                 {
                     "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Nashi, Searcher in the Dark"
+                    "name": "Fire Magic"
                 },
                 {
                     "count": 1,
-                    "name": "Shoot the Sheriff"
+                    "name": "Frostcliff Siege"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "jakobpablo",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_jakobpablo",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monument to Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Sokka, Bold Boomeranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 1,
+                    "name": "Frostcliff Siege"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Abandon Attachments"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulate Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Combustion Technique"
+                },
+                {
+                    "count": 3,
+                    "name": "Firebending Lesson"
+                },
+                {
+                    "count": 2,
+                    "name": "It'll Quench Ya!"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Agna Qel'a"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Broadside Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 1,
+                    "name": "Iroh's Demonstration"
+                },
+                {
+                    "count": 1,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
                     "count": 2,
@@ -391,126 +1315,15 @@
                 },
                 {
                     "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
                     "name": "The Legend of Kuruk"
                 },
                 {
                     "count": 2,
-                    "name": "Zero Point Ballad"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "RAV92",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_RAV92",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Burnout Bashtronaut"
-                },
-                {
-                    "count": 4,
-                    "name": "Emberheart Challenger"
-                },
-                {
-                    "count": 2,
-                    "name": "Hazoret, Godseeker"
-                },
-                {
-                    "count": 4,
-                    "name": "Hired Claw"
-                },
-                {
-                    "count": 3,
-                    "name": "Nova Hellkite"
-                },
-                {
-                    "count": 2,
-                    "name": "Slickshot Show-Off"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunspine Lynx"
-                },
-                {
-                    "count": 3,
-                    "name": "Zhao, the Moon Slayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 3,
-                    "name": "Lightning Strike"
-                },
-                {
-                    "count": 1,
-                    "name": "Self-Destruct"
-                },
-                {
-                    "count": 4,
-                    "name": "Turn Inside Out"
-                },
-                {
-                    "count": 1,
-                    "name": "Witchstalker Frenzy"
-                },
-                {
-                    "count": 17,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Muraganda Raceway"
-                },
-                {
-                    "count": 3,
-                    "name": "Rockface Village"
-                },
-                {
-                    "count": 1,
-                    "name": "Soulstone Sanctuary"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Chandra, Spark Hunter"
-                },
-                {
-                    "count": 1,
-                    "name": "Fire Magic"
-                },
-                {
-                    "count": 3,
-                    "name": "Magebane Lizard"
-                },
-                {
-                    "count": 2,
-                    "name": "Obliterating Bolt"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 1,
-                    "name": "Stingerback Terror"
-                },
-                {
-                    "count": 3,
-                    "name": "Sunspine Lynx"
-                },
-                {
-                    "count": 2,
-                    "name": "Twisted Fealty"
-                },
-                {
-                    "count": 1,
-                    "name": "Untimely Malfunction"
+                    "name": "Tishana's Tidebinder"
                 }
             ],
             "notes": null
@@ -660,6 +1473,284 @@
         },
         {
             "date": "2025-11-25",
+            "player": "BARNYARD",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_BARNYARD",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Braided Net"
+                },
+                {
+                    "count": 3,
+                    "name": "Clay-Fired Bricks"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryogen Relic"
+                },
+                {
+                    "count": 3,
+                    "name": "Perilous Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Pinnacle Starcage"
+                },
+                {
+                    "count": 4,
+                    "name": "Repurposing Bay"
+                },
+                {
+                    "count": 4,
+                    "name": "Simulacrum Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Spring-Loaded Sawblades"
+                },
+                {
+                    "count": 1,
+                    "name": "The Fire Crystal"
+                },
+                {
+                    "count": 1,
+                    "name": "White Auracite"
+                },
+                {
+                    "count": 2,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Spectral Restitching"
+                },
+                {
+                    "count": 1,
+                    "name": "Adagia, Windswept Bastion"
+                },
+                {
+                    "count": 1,
+                    "name": "Demolition Field"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 4,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunbillow Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 4,
+                    "name": "United Battlefront"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 1,
+                    "name": "Dauntless Scrapbot"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Spring-Loaded Sawblades"
+                },
+                {
+                    "count": 1,
+                    "name": "Thousand Moons Smithy"
+                },
+                {
+                    "count": 3,
+                    "name": "Voice of Victory"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "tim96",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_tim96",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Badgermole Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Enduring Vitality"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormsplitter"
+                },
+                {
+                    "count": 4,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 2,
+                    "name": "Valley Floodcaller"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 3,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 3,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Hedge Maze"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 3,
+                    "name": "Analyze the Pollen"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Nature's Rhythm"
+                },
+                {
+                    "count": 1,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Song of Totentanz"
+                },
+                {
+                    "count": 4,
+                    "name": "Winternight Stories"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Detect Intrusion"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistrise Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 1,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
             "player": "Martin_Dominguez",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Martin_Dominguez",
@@ -761,637 +1852,6 @@
                 {
                     "count": 2,
                     "name": "Unable to Scream"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Izzy90",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Izzy90",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Beza, the Bounding Spring"
-                },
-                {
-                    "count": 1,
-                    "name": "Marang River Regent"
-                },
-                {
-                    "count": 1,
-                    "name": "Overlord of the Mistmoors"
-                },
-                {
-                    "count": 1,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 4,
-                    "name": "Consult the Star Charts"
-                },
-                {
-                    "count": 2,
-                    "name": "Elspeth's Smite"
-                },
-                {
-                    "count": 2,
-                    "name": "Essence Scatter"
-                },
-                {
-                    "count": 4,
-                    "name": "Get Lost"
-                },
-                {
-                    "count": 4,
-                    "name": "No More Lies"
-                },
-                {
-                    "count": 2,
-                    "name": "Ride's End"
-                },
-                {
-                    "count": 3,
-                    "name": "Three Steps Ahead"
-                },
-                {
-                    "count": 3,
-                    "name": "Demolition Field"
-                },
-                {
-                    "count": 4,
-                    "name": "Floodfarm Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Fountainport"
-                },
-                {
-                    "count": 3,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Meticulous Archive"
-                },
-                {
-                    "count": 1,
-                    "name": "Mistrise Village"
-                },
-                {
-                    "count": 4,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Restless Anchorage"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunken Citadel"
-                },
-                {
-                    "count": 3,
-                    "name": "Day of Judgment"
-                },
-                {
-                    "count": 3,
-                    "name": "Stock Up"
-                },
-                {
-                    "count": 2,
-                    "name": "Ultima"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Beza, the Bounding Spring"
-                },
-                {
-                    "count": 2,
-                    "name": "Devout Decree"
-                },
-                {
-                    "count": 2,
-                    "name": "Elspeth's Smite"
-                },
-                {
-                    "count": 2,
-                    "name": "Flashfreeze"
-                },
-                {
-                    "count": 2,
-                    "name": "Negate"
-                },
-                {
-                    "count": 1,
-                    "name": "Overlord of the Mistmoors"
-                },
-                {
-                    "count": 1,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 4,
-                    "name": "Tishana's Tidebinder"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "daibloXSC",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_daibloXSC",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Enduring Vitality"
-                },
-                {
-                    "count": 2,
-                    "name": "Kitsa, Otterball Elite"
-                },
-                {
-                    "count": 4,
-                    "name": "Quantum Riddler"
-                },
-                {
-                    "count": 4,
-                    "name": "Thundertrap Trainer"
-                },
-                {
-                    "count": 3,
-                    "name": "Valley Floodcaller"
-                },
-                {
-                    "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 3,
-                    "name": "Into the Flood Maw"
-                },
-                {
-                    "count": 4,
-                    "name": "Opt"
-                },
-                {
-                    "count": 4,
-                    "name": "Botanical Sanctum"
-                },
-                {
-                    "count": 4,
-                    "name": "Breeding Pool"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 3,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
-                    "name": "Multiversal Passage"
-                },
-                {
-                    "count": 4,
-                    "name": "Willowrush Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 4,
-                    "name": "Bushwhack"
-                },
-                {
-                    "count": 4,
-                    "name": "Splash Portal"
-                },
-                {
-                    "count": 2,
-                    "name": "Stock Up"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Bounce Off"
-                },
-                {
-                    "count": 2,
-                    "name": "Detect Intrusion"
-                },
-                {
-                    "count": 1,
-                    "name": "Ghost Vacuum"
-                },
-                {
-                    "count": 2,
-                    "name": "Octopus Form"
-                },
-                {
-                    "count": 2,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Stock Up"
-                },
-                {
-                    "count": 3,
-                    "name": "Tishana's Tidebinder"
-                },
-                {
-                    "count": 2,
-                    "name": "Unable to Scream"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "AvocadoToast",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_AvocadoToast",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Cecil, Dark Knight"
-                },
-                {
-                    "count": 4,
-                    "name": "Deep-Cavern Bat"
-                },
-                {
-                    "count": 4,
-                    "name": "Demon Wall"
-                },
-                {
-                    "count": 4,
-                    "name": "Preacher of the Schism"
-                },
-                {
-                    "count": 2,
-                    "name": "Aang's Iceberg"
-                },
-                {
-                    "count": 2,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 4,
-                    "name": "Unholy Annex // Ritual Chamber"
-                },
-                {
-                    "count": 1,
-                    "name": "Long Goodbye"
-                },
-                {
-                    "count": 4,
-                    "name": "Shoot the Sheriff"
-                },
-                {
-                    "count": 2,
-                    "name": "Stab"
-                },
-                {
-                    "count": 3,
-                    "name": "Abandoned Air Temple"
-                },
-                {
-                    "count": 4,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Concealed Courtyard"
-                },
-                {
-                    "count": 4,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 1,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Soulstone Sanctuary"
-                },
-                {
-                    "count": 7,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 3,
-                    "name": "Elspeth, Storm Slayer"
-                },
-                {
-                    "count": 1,
-                    "name": "United Front"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aang's Iceberg"
-                },
-                {
-                    "count": 3,
-                    "name": "Aven Interrupter"
-                },
-                {
-                    "count": 2,
-                    "name": "Day of Judgment"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 1,
-                    "name": "Stab"
-                },
-                {
-                    "count": 3,
-                    "name": "Thought-Stalker Warlock"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "kbol_",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_kbol_",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Quantum Riddler"
-                },
-                {
-                    "count": 4,
-                    "name": "Thundertrap Trainer"
-                },
-                {
-                    "count": 3,
-                    "name": "Roaring Furnace // Steaming Sauna"
-                },
-                {
-                    "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 1,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 1,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 2,
-                    "name": "Get Out"
-                },
-                {
-                    "count": 2,
-                    "name": "Opt"
-                },
-                {
-                    "count": 4,
-                    "name": "Torch the Tower"
-                },
-                {
-                    "count": 7,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Multiversal Passage"
-                },
-                {
-                    "count": 4,
-                    "name": "Riverpyre Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 1,
-                    "name": "Thundering Falls"
-                },
-                {
-                    "count": 2,
-                    "name": "Ral, Crackling Wit"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 4,
-                    "name": "Splash Portal"
-                },
-                {
-                    "count": 3,
-                    "name": "Stock Up"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 1,
-                    "name": "Annul"
-                },
-                {
-                    "count": 1,
-                    "name": "Cut Propulsion"
-                },
-                {
-                    "count": 1,
-                    "name": "Detect Intrusion"
-                },
-                {
-                    "count": 1,
-                    "name": "Disdainful Stroke"
-                },
-                {
-                    "count": 1,
-                    "name": "Essence Scatter"
-                },
-                {
-                    "count": 2,
-                    "name": "Fire Magic"
-                },
-                {
-                    "count": 1,
-                    "name": "Ghost Vacuum"
-                },
-                {
-                    "count": 1,
-                    "name": "Negate"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 1,
-                    "name": "Tishana's Tidebinder"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Ted10",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Ted10",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Ardyn, the Usurper"
-                },
-                {
-                    "count": 4,
-                    "name": "Bringer of the Last Gift"
-                },
-                {
-                    "count": 3,
-                    "name": "Harvester of Misery"
-                },
-                {
-                    "count": 4,
-                    "name": "Kavaero, Mind-Bitten"
-                },
-                {
-                    "count": 4,
-                    "name": "Oblivious Bookworm"
-                },
-                {
-                    "count": 4,
-                    "name": "Overlord of the Balemurk"
-                },
-                {
-                    "count": 2,
-                    "name": "Quantum Riddler"
-                },
-                {
-                    "count": 1,
-                    "name": "Valgavoth, Terror Eater"
-                },
-                {
-                    "count": 4,
-                    "name": "Awaken the Honored Dead"
-                },
-                {
-                    "count": 4,
-                    "name": "Bitter Triumph"
-                },
-                {
-                    "count": 2,
-                    "name": "Zuko's Conviction"
-                },
-                {
-                    "count": 3,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 4,
-                    "name": "Breeding Pool"
-                },
-                {
-                    "count": 1,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 3,
-                    "name": "Gloomlake Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Undercity Sewers"
-                },
-                {
-                    "count": 1,
-                    "name": "Underground Mortuary"
-                },
-                {
-                    "count": 4,
-                    "name": "Watery Grave"
-                },
-                {
-                    "count": 3,
-                    "name": "Willowrush Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Analyze the Pollen"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 3,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Emet-Selch, Unsundered"
-                },
-                {
-                    "count": 2,
-                    "name": "Gran-Gran"
-                },
-                {
-                    "count": 1,
-                    "name": "Harvester of Misery"
-                },
-                {
-                    "count": 2,
-                    "name": "Heritage Reclamation"
-                },
-                {
-                    "count": 4,
-                    "name": "Intimidation Tactics"
                 }
             ],
             "notes": null
@@ -1503,101 +1963,6 @@
                 {
                     "count": 2,
                     "name": "Unable to Scream"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "choccy_milk",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_choccy_milk",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Callous Sell-Sword"
-                },
-                {
-                    "count": 4,
-                    "name": "Emberheart Challenger"
-                },
-                {
-                    "count": 4,
-                    "name": "Frantic Scapegoat"
-                },
-                {
-                    "count": 4,
-                    "name": "Slickshot Show-Off"
-                },
-                {
-                    "count": 4,
-                    "name": "Stadium Headliner"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of Resonance"
-                },
-                {
-                    "count": 3,
-                    "name": "Dreadmaw's Ire"
-                },
-                {
-                    "count": 4,
-                    "name": "Full Bore"
-                },
-                {
-                    "count": 3,
-                    "name": "Might of the Meek"
-                },
-                {
-                    "count": 3,
-                    "name": "Snakeskin Veil"
-                },
-                {
-                    "count": 4,
-                    "name": "Turn Inside Out"
-                },
-                {
-                    "count": 7,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 4,
-                    "name": "Stomping Ground"
-                },
-                {
-                    "count": 4,
-                    "name": "Thornspire Verge"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Felonious Rage"
-                },
-                {
-                    "count": 3,
-                    "name": "Fire Magic"
-                },
-                {
-                    "count": 2,
-                    "name": "Heritage Reclamation"
-                },
-                {
-                    "count": 3,
-                    "name": "Pawpatch Recruit"
-                },
-                {
-                    "count": 4,
-                    "name": "Questing Druid"
-                },
-                {
-                    "count": 1,
-                    "name": "Snakeskin Veil"
                 }
             ],
             "notes": null
@@ -1832,6 +2197,248 @@
                 {
                     "count": 1,
                     "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Owl1013",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Owl1013",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Grim Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Entity Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Isolation"
+                },
+                {
+                    "count": 4,
+                    "name": "Spyglass Siren"
+                },
+                {
+                    "count": 4,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Tinybones Joins Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 4,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Restless Reef"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Trajectory"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Nashi, Searcher in the Dark"
+                },
+                {
+                    "count": 1,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "The Legend of Kuruk"
+                },
+                {
+                    "count": 2,
+                    "name": "Zero Point Ballad"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Ted10",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2025-11-2610003#deck_Ted10",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ardyn, the Usurper"
+                },
+                {
+                    "count": 4,
+                    "name": "Bringer of the Last Gift"
+                },
+                {
+                    "count": 3,
+                    "name": "Harvester of Misery"
+                },
+                {
+                    "count": 4,
+                    "name": "Kavaero, Mind-Bitten"
+                },
+                {
+                    "count": 4,
+                    "name": "Oblivious Bookworm"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 2,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 1,
+                    "name": "Valgavoth, Terror Eater"
+                },
+                {
+                    "count": 4,
+                    "name": "Awaken the Honored Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 2,
+                    "name": "Zuko's Conviction"
+                },
+                {
+                    "count": 3,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Willowrush Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Analyze the Pollen"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Emet-Selch, Unsundered"
+                },
+                {
+                    "count": 2,
+                    "name": "Gran-Gran"
+                },
+                {
+                    "count": 1,
+                    "name": "Harvester of Misery"
+                },
+                {
+                    "count": 2,
+                    "name": "Heritage Reclamation"
+                },
+                {
+                    "count": 4,
+                    "name": "Intimidation Tactics"
                 }
             ],
             "notes": null
