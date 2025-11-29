@@ -9,75 +9,867 @@
     "decks": [
         {
             "date": "2025-11-25",
-            "player": "KidRenan",
+            "player": "Croccolone",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_KidRenan",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Croccolone",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Darval, Whose Web Protects"
+                    "count": 3,
+                    "name": "Black Mage's Rod"
                 },
                 {
                     "count": 1,
-                    "name": "Eagles of the North"
+                    "name": "Campfire"
                 },
                 {
                     "count": 4,
-                    "name": "Kor Skyfisher"
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 1,
+                    "name": "Chromatic Sphere"
                 },
                 {
                     "count": 4,
-                    "name": "Lunarch Veteran"
+                    "name": "Chromatic Star"
                 },
                 {
                     "count": 2,
-                    "name": "Novice Inspector"
+                    "name": "Conjurer's Bauble"
                 },
                 {
                     "count": 4,
-                    "name": "Raffine's Informant"
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 2,
+                    "name": "Golem Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Foundry Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Pactdoll Terror"
+                },
+                {
+                    "count": 1,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 1,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Conduit Pylons"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "ichitaro",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_ichitaro",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Abandon Attachments"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lórien Revealed"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Kanisch",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Kanisch",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 2,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Skittering Kitten"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Stazer14",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Stazer14",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 1,
+                    "name": "Wekhdu, Midnight Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 3,
+                    "name": "Razortrap Gorge"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Valimoth",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Valimoth",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Rally at the Hornburg"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 2,
+                    "name": "Mine Collapse"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Zanzibarhotcake",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Zanzibarhotcake",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckless Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Skittering Kitten"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "NasalNozzle",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_NasalNozzle",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 4,
+                    "name": "Nyxborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Sagu Wildling"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 2,
+                    "name": "Healer of the Glade"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Emergence"
+                },
+                {
+                    "count": 3,
+                    "name": "Spinewoods Paladin"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "caronte1991",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_caronte1991",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 16,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Deem Inferior"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lórien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "mnaga",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_mnaga",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 3,
+                    "name": "Outlaw Medic"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
                 },
                 {
                     "count": 4,
                     "name": "Squadron Hawk"
                 },
                 {
-                    "count": 2,
-                    "name": "Summon: Choco/Mog"
+                    "count": 4,
+                    "name": "Journey to Nowhere"
                 },
                 {
                     "count": 4,
-                    "name": "Thraben Inspector"
+                    "name": "The Modern Age"
                 },
                 {
-                    "count": 2,
-                    "name": "Guardians' Pledge"
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
                 },
                 {
                     "count": 4,
                     "name": "Prismatic Strands"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Thraben Charm"
                 },
                 {
                     "count": 2,
-                    "name": "Idyllic Grange"
-                },
-                {
-                    "count": 17,
-                    "name": "Plains"
+                    "name": "Azorius Guildgate"
                 },
                 {
                     "count": 4,
-                    "name": "Battle Screech"
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lórien Revealed"
                 }
             ],
             "sideboard": [
                 {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
                     "count": 1,
-                    "name": "Destroy Evil"
+                    "name": "Dispel"
                 },
                 {
                     "count": 4,
@@ -85,19 +877,106 @@
                 },
                 {
                     "count": 2,
-                    "name": "Holy Light"
-                },
-                {
-                    "count": 3,
-                    "name": "Journey to Nowhere"
+                    "name": "Envelop"
                 },
                 {
                     "count": 4,
-                    "name": "Martyr of Sands"
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "newbarola",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_newbarola",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 16,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Deem Inferior"
                 },
                 {
                     "count": 1,
-                    "name": "Standard Bearer"
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lórien Revealed"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Nullify"
                 }
             ],
             "notes": null
@@ -227,13 +1106,17 @@
         },
         {
             "date": "2025-11-25",
-            "player": "Stazer14",
+            "player": "Dreampunked",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Stazer14",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Dreampunked",
             "mainboard": [
                 {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
                     "count": 4,
-                    "name": "Kitchen Imp"
+                    "name": "Kessig Flamebreather"
                 },
                 {
                     "count": 4,
@@ -244,44 +1127,24 @@
                     "name": "Voldaren Epicure"
                 },
                 {
-                    "count": 1,
-                    "name": "Wekhdu, Midnight Hunter"
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
                 },
                 {
                     "count": 4,
-                    "name": "Fiery Temper"
+                    "name": "Lava Dart"
                 },
                 {
                     "count": 4,
                     "name": "Lightning Bolt"
                 },
                 {
-                    "count": 1,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 4,
-                    "name": "Jagged Barrens"
-                },
-                {
-                    "count": 8,
+                    "count": 18,
                     "name": "Mountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Rakdos Carnarium"
-                },
-                {
-                    "count": 3,
-                    "name": "Razortrap Gorge"
-                },
-                {
-                    "count": 2,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Alms of the Vein"
                 },
                 {
                     "count": 4,
@@ -294,155 +1157,28 @@
                 {
                     "count": 4,
                     "name": "Highway Robbery"
-                },
-                {
-                    "count": 4,
-                    "name": "Vampire's Kiss"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 2,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 2,
-                    "name": "Extract a Confession"
-                },
-                {
-                    "count": 3,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "Pyroblast"
                 },
                 {
                     "count": 3,
                     "name": "Red Elemental Blast"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Lintefang",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Lintefang",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Archaeomancer"
                 },
                 {
                     "count": 4,
-                    "name": "God-Pharaoh's Faithful"
-                },
-                {
-                    "count": 4,
-                    "name": "Mulldrifter"
+                    "name": "Relic of Progenitus"
                 },
                 {
                     "count": 2,
-                    "name": "Murmuring Mystic"
-                },
-                {
-                    "count": 3,
-                    "name": "Sea Gate Oracle"
-                },
-                {
-                    "count": 4,
-                    "name": "Sunscape Familiar"
+                    "name": "Searing Blaze"
                 },
                 {
                     "count": 2,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 1,
-                    "name": "Ghostly Flicker"
-                },
-                {
-                    "count": 3,
-                    "name": "Meeting of Minds"
-                },
-                {
-                    "count": 2,
-                    "name": "Negate"
-                },
-                {
-                    "count": 2,
-                    "name": "Prohibit"
-                },
-                {
-                    "count": 4,
-                    "name": "Snap"
-                },
-                {
-                    "count": 4,
-                    "name": "Azorius Chancery"
-                },
-                {
-                    "count": 3,
-                    "name": "Contaminated Landscape"
-                },
-                {
-                    "count": 1,
-                    "name": "Glacial Floodplain"
-                },
-                {
-                    "count": 8,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Mortuary Mire"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Lórien Revealed"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 3,
-                    "name": "Circle of Protection: Blue"
-                },
-                {
-                    "count": 1,
-                    "name": "Circle of Protection: Red"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Last Breath"
-                },
-                {
-                    "count": 2,
-                    "name": "Negate"
-                },
-                {
-                    "count": 2,
-                    "name": "Stonehorn Dignitary"
+                    "name": "Smash to Smithereens"
                 }
             ],
             "notes": null
@@ -538,172 +1274,6 @@
                 {
                     "count": 2,
                     "name": "Serpentine Curve"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "vikizin",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_vikizin",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 4,
-                    "name": "Kessig Flamebreather"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 4,
-                    "name": "Grab the Prize"
-                },
-                {
-                    "count": 4,
-                    "name": "Highway Robbery"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 4,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 3,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 4,
-                    "name": "Searing Blaze"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "caronte1991",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_caronte1991",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Cryptic Serpent"
-                },
-                {
-                    "count": 2,
-                    "name": "Murmuring Mystic"
-                },
-                {
-                    "count": 4,
-                    "name": "Tolarian Terror"
-                },
-                {
-                    "count": 4,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 4,
-                    "name": "Force Spike"
-                },
-                {
-                    "count": 4,
-                    "name": "Mental Note"
-                },
-                {
-                    "count": 4,
-                    "name": "Thought Scour"
-                },
-                {
-                    "count": 16,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Deem Inferior"
-                },
-                {
-                    "count": 2,
-                    "name": "Deep Analysis"
-                },
-                {
-                    "count": 4,
-                    "name": "Lórien Revealed"
-                },
-                {
-                    "count": 4,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 2,
-                    "name": "Sleep of the Dead"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Annul"
-                },
-                {
-                    "count": 3,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 4,
-                    "name": "Gut Shot"
-                },
-                {
-                    "count": 2,
-                    "name": "Hydroblast"
                 }
             ],
             "notes": null
@@ -920,21 +1490,17 @@
         },
         {
             "date": "2025-11-25",
-            "player": "Kanisch",
+            "player": "_Numsgil_",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Kanisch",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck__Numsgil_",
             "mainboard": [
                 {
                     "count": 3,
                     "name": "Guttersnipe"
                 },
                 {
-                    "count": 2,
-                    "name": "Kessig Flamebreather"
-                },
-                {
                     "count": 4,
-                    "name": "Skittering Kitten"
+                    "name": "Kessig Flamebreather"
                 },
                 {
                     "count": 4,
@@ -965,7 +1531,7 @@
                     "name": "Mountain"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Faithless Looting"
                 },
                 {
@@ -979,113 +1545,208 @@
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "End the Festivities"
                 },
                 {
+                    "count": 1,
+                    "name": "Guttersnipe"
+                },
+                {
                     "count": 4,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 3,
                     "name": "Relic of Progenitus"
                 },
                 {
                     "count": 2,
-                    "name": "Searing Blaze"
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
         },
         {
             "date": "2025-11-25",
-            "player": "mnaga",
+            "player": "PedroStark",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_mnaga",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_PedroStark",
             "mainboard": [
                 {
+                    "count": 3,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
                     "count": 1,
-                    "name": "Guardian of the Guildpact"
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Rally at the Hornburg"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
                 },
                 {
                     "count": 3,
-                    "name": "Outlaw Medic"
-                },
-                {
-                    "count": 4,
-                    "name": "Sacred Cat"
-                },
-                {
-                    "count": 4,
-                    "name": "Squadron Hawk"
-                },
-                {
-                    "count": 4,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 4,
-                    "name": "The Modern Age"
-                },
-                {
-                    "count": 4,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
+                    "name": "End the Festivities"
                 },
                 {
                     "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 4,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 2,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 2,
-                    "name": "Azorius Guildgate"
-                },
-                {
-                    "count": 4,
-                    "name": "Basilisk Gate"
-                },
-                {
-                    "count": 4,
-                    "name": "Citadel Gate"
-                },
-                {
-                    "count": 2,
-                    "name": "Heap Gate"
+                    "name": "Flash of Defiance"
                 },
                 {
                     "count": 1,
-                    "name": "Idyllic Beachfront"
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Suplex"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "Lintefang",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Lintefang",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
                 },
                 {
                     "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 3,
+                    "name": "Meeting of Minds"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 3,
+                    "name": "Contaminated Landscape"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 8,
                     "name": "Island"
                 },
                 {
-                    "count": 4,
-                    "name": "Sea Gate"
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
                 },
                 {
                     "count": 4,
                     "name": "Lórien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
                 }
             ],
             "sideboard": [
@@ -1094,20 +1755,107 @@
                     "name": "Blue Elemental Blast"
                 },
                 {
+                    "count": 3,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
                     "count": 1,
                     "name": "Dispel"
                 },
                 {
-                    "count": 4,
-                    "name": "Dust to Dust"
+                    "count": 2,
+                    "name": "Last Breath"
                 },
                 {
                     "count": 2,
-                    "name": "Envelop"
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-11-25",
+            "player": "vikizin",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_vikizin",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
                 },
                 {
                     "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
                     "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
                 }
             ],
             "notes": null
@@ -1257,843 +2005,95 @@
         },
         {
             "date": "2025-11-25",
-            "player": "Zanzibarhotcake",
+            "player": "KidRenan",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Zanzibarhotcake",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 3,
-                    "name": "Reckless Lackey"
-                },
-                {
-                    "count": 4,
-                    "name": "Skittering Kitten"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Grab the Prize"
-                },
-                {
-                    "count": 4,
-                    "name": "Highway Robbery"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 4,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Relic of Progenitus"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "NasalNozzle",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_NasalNozzle",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_KidRenan",
             "mainboard": [
                 {
                     "count": 2,
-                    "name": "Avenging Hunter"
+                    "name": "Darval, Whose Web Protects"
                 },
                 {
-                    "count": 3,
-                    "name": "Elvish Mystic"
-                },
-                {
-                    "count": 3,
-                    "name": "Fyndhorn Elves"
+                    "count": 1,
+                    "name": "Eagles of the North"
                 },
                 {
                     "count": 4,
-                    "name": "Generous Ent"
+                    "name": "Kor Skyfisher"
                 },
                 {
                     "count": 4,
-                    "name": "Llanowar Elves"
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 2,
+                    "name": "Novice Inspector"
                 },
                 {
                     "count": 4,
-                    "name": "Masked Vandal"
+                    "name": "Raffine's Informant"
                 },
                 {
                     "count": 4,
-                    "name": "Nyxborn Hydra"
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 2,
+                    "name": "Summon: Choco/Mog"
                 },
                 {
                     "count": 4,
-                    "name": "Priest of Titania"
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardians' Pledge"
                 },
                 {
                     "count": 4,
-                    "name": "Quirion Ranger"
+                    "name": "Prismatic Strands"
                 },
                 {
                     "count": 4,
-                    "name": "Sagu Wildling"
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 17,
+                    "name": "Plains"
                 },
                 {
                     "count": 4,
-                    "name": "Timberwatch Elf"
-                },
-                {
-                    "count": 12,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Lead the Stampede"
-                },
-                {
-                    "count": 4,
-                    "name": "Winding Way"
+                    "name": "Battle Screech"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Avenging Hunter"
+                    "name": "Destroy Evil"
                 },
                 {
                     "count": 4,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 1,
-                    "name": "Gingerbread Cabin"
+                    "name": "Dust to Dust"
                 },
                 {
                     "count": 2,
-                    "name": "Healer of the Glade"
-                },
-                {
-                    "count": 4,
-                    "name": "Monstrous Emergence"
+                    "name": "Holy Light"
                 },
                 {
                     "count": 3,
-                    "name": "Spinewoods Paladin"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Dreampunked",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Dreampunked",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Guttersnipe"
+                    "name": "Journey to Nowhere"
                 },
                 {
                     "count": 4,
-                    "name": "Kessig Flamebreather"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 4,
-                    "name": "Grab the Prize"
-                },
-                {
-                    "count": 4,
-                    "name": "Highway Robbery"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Searing Blaze"
-                },
-                {
-                    "count": 2,
-                    "name": "Smash to Smithereens"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "ichitaro",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_ichitaro",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Gurmag Angler"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Tolarian Terror"
-                },
-                {
-                    "count": 4,
-                    "name": "Abandon Attachments"
-                },
-                {
-                    "count": 4,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 3,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 4,
-                    "name": "Mental Note"
-                },
-                {
-                    "count": 4,
-                    "name": "Snuff Out"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 4,
-                    "name": "Thought Scour"
-                },
-                {
-                    "count": 4,
-                    "name": "Contaminated Aquifer"
+                    "name": "Martyr of Sands"
                 },
                 {
                     "count": 1,
-                    "name": "Ice Tunnel"
-                },
-                {
-                    "count": 10,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Deep Analysis"
-                },
-                {
-                    "count": 4,
-                    "name": "Lórien Revealed"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Annul"
-                },
-                {
-                    "count": 1,
-                    "name": "Arms of Hadar"
-                },
-                {
-                    "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 2,
-                    "name": "Steel Sabotage"
-                },
-                {
-                    "count": 2,
-                    "name": "Suffocating Fumes"
-                },
-                {
-                    "count": 2,
-                    "name": "Unexpected Fangs"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Valimoth",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Valimoth",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Experimental Synthesizer"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Clockwork Percussionist"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Bushwhacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Tomb Raider"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 1,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 4,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 14,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 1,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 4,
-                    "name": "Rally at the Hornburg"
-                },
-                {
-                    "count": 4,
-                    "name": "Reckless Impulse"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 3,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 2,
-                    "name": "Mine Collapse"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 4,
-                    "name": "Smash to Smithereens"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "_Numsgil_",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck__Numsgil_",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 4,
-                    "name": "Kessig Flamebreather"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 4,
-                    "name": "Grab the Prize"
-                },
-                {
-                    "count": 4,
-                    "name": "Highway Robbery"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 1,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 4,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Smash to Smithereens"
-                },
-                {
-                    "count": 4,
-                    "name": "Tormod's Crypt"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "newbarola",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_newbarola",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Cryptic Serpent"
-                },
-                {
-                    "count": 2,
-                    "name": "Murmuring Mystic"
-                },
-                {
-                    "count": 4,
-                    "name": "Tolarian Terror"
-                },
-                {
-                    "count": 4,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 4,
-                    "name": "Force Spike"
-                },
-                {
-                    "count": 4,
-                    "name": "Mental Note"
-                },
-                {
-                    "count": 4,
-                    "name": "Thought Scour"
-                },
-                {
-                    "count": 16,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Deem Inferior"
-                },
-                {
-                    "count": 1,
-                    "name": "Deep Analysis"
-                },
-                {
-                    "count": 4,
-                    "name": "Lórien Revealed"
-                },
-                {
-                    "count": 3,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 2,
-                    "name": "Sleep of the Dead"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Annul"
-                },
-                {
-                    "count": 1,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 3,
-                    "name": "Gut Shot"
-                },
-                {
-                    "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Nullify"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "PedroStark",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_PedroStark",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Experimental Synthesizer"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Clockwork Percussionist"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Bushwhacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Tomb Raider"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 1,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 4,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 14,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Chain Lightning"
-                },
-                {
-                    "count": 4,
-                    "name": "Rally at the Hornburg"
-                },
-                {
-                    "count": 4,
-                    "name": "Wrenn's Resolve"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 3,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 1,
-                    "name": "Flash of Defiance"
-                },
-                {
-                    "count": 1,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Suplex"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-11-25",
-            "player": "Croccolone",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2025-11-269987#deck_Croccolone",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Black Mage's Rod"
-                },
-                {
-                    "count": 1,
-                    "name": "Campfire"
-                },
-                {
-                    "count": 4,
-                    "name": "Candy Trail"
-                },
-                {
-                    "count": 1,
-                    "name": "Chromatic Sphere"
-                },
-                {
-                    "count": 4,
-                    "name": "Chromatic Star"
-                },
-                {
-                    "count": 2,
-                    "name": "Conjurer's Bauble"
-                },
-                {
-                    "count": 4,
-                    "name": "Expedition Map"
-                },
-                {
-                    "count": 2,
-                    "name": "Golem Foundry"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichor Wellspring"
-                },
-                {
-                    "count": 4,
-                    "name": "Prophetic Prism"
-                },
-                {
-                    "count": 1,
-                    "name": "Fangren Marauder"
-                },
-                {
-                    "count": 1,
-                    "name": "Foundry Inspector"
-                },
-                {
-                    "count": 3,
-                    "name": "Pactdoll Terror"
-                },
-                {
-                    "count": 1,
-                    "name": "Crop Rotation"
-                },
-                {
-                    "count": 4,
-                    "name": "Eviscerator's Insight"
-                },
-                {
-                    "count": 1,
-                    "name": "Fanatical Offering"
-                },
-                {
-                    "count": 2,
-                    "name": "Weather the Storm"
-                },
-                {
-                    "count": 1,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 2,
-                    "name": "Conduit Pylons"
-                },
-                {
-                    "count": 3,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Mine"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Power Plant"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Tower"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Breath Weapon"
-                },
-                {
-                    "count": 2,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 2,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 1,
-                    "name": "Fangren Marauder"
-                },
-                {
-                    "count": 1,
-                    "name": "Fiery Cannonade"
-                },
-                {
-                    "count": 2,
-                    "name": "Moment's Peace"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Weather the Storm"
+                    "name": "Standard Bearer"
                 }
             ],
             "notes": null
