@@ -9,14 +9,10 @@
     "decks": [
         {
             "date": "2025-12-05",
-            "player": "qaN",
+            "player": "leBibi",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/duel-commander-league-2025-12-0510029#deck_qaN",
+            "anchor_uri": "https://www.mtgo.com/decklist/duel-commander-league-2025-12-0510029#deck_leBibi",
             "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Arcum's Astrolabe"
-                },
                 {
                     "count": 1,
                     "name": "Ghost Vacuum"
@@ -43,23 +39,27 @@
                 },
                 {
                     "count": 1,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 1,
                     "name": "Staff of the Storyteller"
                 },
                 {
                     "count": 1,
-                    "name": "Tangle Wire"
-                },
-                {
-                    "count": 1,
-                    "name": "Umezawa's Jitte"
-                },
-                {
-                    "count": 1,
-                    "name": "Winter Moon"
-                },
-                {
-                    "count": 1,
                     "name": "Ademi of the Silkchutes"
+                },
+                {
+                    "count": 1,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 1,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 1,
+                    "name": "Aven Interrupter"
                 },
                 {
                     "count": 1,
@@ -83,6 +83,10 @@
                 },
                 {
                     "count": 1,
+                    "name": "Drannith Magistrate"
+                },
+                {
+                    "count": 1,
                     "name": "Elite Spellbinder"
                 },
                 {
@@ -103,7 +107,15 @@
                 },
                 {
                     "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
                     "name": "Mother of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Novice Inspector"
                 },
                 {
                     "count": 1,
@@ -115,10 +127,6 @@
                 },
                 {
                     "count": 1,
-                    "name": "Palace Jailer"
-                },
-                {
-                    "count": 1,
                     "name": "Ranger-Captain of Eos"
                 },
                 {
@@ -127,15 +135,15 @@
                 },
                 {
                     "count": 1,
-                    "name": "Samwise the Stouthearted"
+                    "name": "Remorseful Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Restoration Angel"
                 },
                 {
                     "count": 1,
                     "name": "Sanctifier en-Vec"
-                },
-                {
-                    "count": 1,
-                    "name": "Seasoned Dungeoneer"
                 },
                 {
                     "count": 1,
@@ -155,11 +163,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "Steel Seraph"
+                    "name": "Stoneforge Mystic"
                 },
                 {
                     "count": 1,
-                    "name": "Stoneforge Mystic"
+                    "name": "Tax Collector"
                 },
                 {
                     "count": 1,
@@ -167,7 +175,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "The Duke, Rebel Sentry"
+                    "name": "Thalia, Heretic Cathar"
                 },
                 {
                     "count": 1,
@@ -207,7 +215,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "Virtue of Loyalty"
+                    "name": "Swift Reconfiguration"
+                },
+                {
+                    "count": 1,
+                    "name": "Touch the Spirit Realm"
                 },
                 {
                     "count": 1,
@@ -219,19 +231,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mana Tithe"
-                },
-                {
-                    "count": 1,
-                    "name": "March of Otherworldly Light"
+                    "name": "Path to Exile"
                 },
                 {
                     "count": 1,
                     "name": "Razorgrass Ambush"
-                },
-                {
-                    "count": 1,
-                    "name": "Reprieve"
                 },
                 {
                     "count": 1,
@@ -243,15 +247,7 @@
                 },
                 {
                     "count": 1,
-                    "name": "Abandoned Air Temple"
-                },
-                {
-                    "count": 1,
                     "name": "City of Traitors"
-                },
-                {
-                    "count": 1,
-                    "name": "Command Beacon"
                 },
                 {
                     "count": 1,
@@ -279,18 +275,14 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mishra's Factory"
+                    "name": "Lazotep Quarry"
                 },
                 {
                     "count": 1,
-                    "name": "Mutavault"
+                    "name": "Plains"
                 },
                 {
-                    "count": 1,
-                    "name": "Rishadan Port"
-                },
-                {
-                    "count": 24,
+                    "count": 28,
                     "name": "Snow-Covered Plains"
                 },
                 {
@@ -304,14 +296,6 @@
                 {
                     "count": 1,
                     "name": "Urza's Saga"
-                },
-                {
-                    "count": 1,
-                    "name": "The Wandering Emperor"
-                },
-                {
-                    "count": 1,
-                    "name": "Cataclysm"
                 },
                 {
                     "count": 1,
@@ -1034,6 +1018,325 @@
                 {
                     "count": 1,
                     "name": "Invasion of Gobakhan"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Phelia, Exuberant Shepherd"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-05",
+            "player": "qaN",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/duel-commander-league-2025-12-0510029#deck_qaN",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 1,
+                    "name": "Glimmer Lens"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Pre-War Formalwear"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Skullclamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Staff of the Storyteller"
+                },
+                {
+                    "count": 1,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Ademi of the Silkchutes"
+                },
+                {
+                    "count": 1,
+                    "name": "Benevolent Bodyguard"
+                },
+                {
+                    "count": 1,
+                    "name": "Blade Splicer"
+                },
+                {
+                    "count": 1,
+                    "name": "Cathar Commando"
+                },
+                {
+                    "count": 1,
+                    "name": "Cloud, Midgar Mercenary"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Elite Spellbinder"
+                },
+                {
+                    "count": 1,
+                    "name": "Esper Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 1,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Guide of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Ocelot Pride"
+                },
+                {
+                    "count": 1,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 1,
+                    "name": "Palace Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ranger-Captain of Eos"
+                },
+                {
+                    "count": 1,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 1,
+                    "name": "Samwise the Stouthearted"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 1,
+                    "name": "Seasoned Dungeoneer"
+                },
+                {
+                    "count": 1,
+                    "name": "Skrelv, Defector Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Starfield Shepherd"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Seraph"
+                },
+                {
+                    "count": 1,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 1,
+                    "name": "The Duke, Rebel Sentry"
+                },
+                {
+                    "count": 1,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Toby, Beastie Befriender"
+                },
+                {
+                    "count": 1,
+                    "name": "Voice of Victory"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch Enchanter"
+                },
+                {
+                    "count": 1,
+                    "name": "On Thin Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Ossification"
+                },
+                {
+                    "count": 1,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 1,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 1,
+                    "name": "Static Prison"
+                },
+                {
+                    "count": 1,
+                    "name": "Virtue of Loyalty"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Tithe"
+                },
+                {
+                    "count": 1,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Razorgrass Ambush"
+                },
+                {
+                    "count": 1,
+                    "name": "Reprieve"
+                },
+                {
+                    "count": 1,
+                    "name": "Reverent Mantra"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Abandoned Air Temple"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Command Beacon"
+                },
+                {
+                    "count": 1,
+                    "name": "Crystal Vein"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo Castle"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 1,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 1,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 24,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Talon Gates of Madara"
+                },
+                {
+                    "count": 1,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 1,
+                    "name": "Cataclysm"
+                },
+                {
+                    "count": 1,
+                    "name": "Oust"
                 }
             ],
             "sideboard": [
