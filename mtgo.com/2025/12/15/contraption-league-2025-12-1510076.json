@@ -9,99 +9,214 @@
     "decks": [
         {
             "date": "2025-12-15",
-            "player": "spring_onion",
+            "player": "ice100",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_spring_onion",
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_ice100",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 3,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 4,
+                    "name": "Multani's Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 2,
+                    "name": "Tribal Forcemage"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 16,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "gazurmah",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_gazurmah",
             "mainboard": [
                 {
                     "count": 2,
                     "name": "Cursed Scroll"
                 },
                 {
-                    "count": 1,
-                    "name": "Phyrexian Furnace"
-                },
-                {
                     "count": 4,
-                    "name": "The Rack"
-                },
-                {
-                    "count": 4,
-                    "name": "Hypnotic Specter"
-                },
-                {
-                    "count": 4,
-                    "name": "Ravenous Rats"
-                },
-                {
-                    "count": 3,
-                    "name": "Skittering Skirge"
-                },
-                {
-                    "count": 4,
-                    "name": "Bottomless Pit"
-                },
-                {
-                    "count": 4,
-                    "name": "Dark Ritual"
-                },
-                {
-                    "count": 3,
-                    "name": "Smother"
+                    "name": "Ball Lightning"
                 },
                 {
                     "count": 1,
-                    "name": "Snuff Out"
+                    "name": "Goblin Patrol"
                 },
                 {
                     "count": 4,
-                    "name": "Mishra's Factory"
-                },
-                {
-                    "count": 15,
-                    "name": "Swamp"
+                    "name": "Grim Lavamancer"
                 },
                 {
                     "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 3,
-                    "name": "Cabal Therapy"
+                    "name": "Jackal Pup"
                 },
                 {
                     "count": 4,
-                    "name": "Duress"
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Flame Rift"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 3,
-                    "name": "Dystopia"
-                },
-                {
-                    "count": 4,
-                    "name": "Engineered Plague"
+                    "name": "Anarchy"
                 },
                 {
                     "count": 2,
-                    "name": "Perish"
-                },
-                {
-                    "count": 2,
-                    "name": "Phyrexian Negator"
+                    "name": "Earthquake"
                 },
                 {
                     "count": 1,
-                    "name": "Vendetta"
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 1,
+                    "name": "Mogg Salvage"
                 },
                 {
                     "count": 2,
-                    "name": "Withered Wretch"
+                    "name": "Overload"
+                },
+                {
+                    "count": 1,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
@@ -338,21 +453,25 @@
         },
         {
             "date": "2025-12-15",
-            "player": "Navas",
+            "player": "AKnightWhoSaysNi",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Navas",
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_AKnightWhoSaysNi",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Phyrexian Dreadnought"
+                    "name": "Mox Diamond"
                 },
                 {
                     "count": 4,
-                    "name": "Accumulated Knowledge"
+                    "name": "Meddling Mage"
                 },
                 {
                     "count": 2,
-                    "name": "Chain of Vapor"
+                    "name": "Mystic Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Dryad"
                 },
                 {
                     "count": 4,
@@ -363,337 +482,12 @@
                     "name": "Daze"
                 },
                 {
-                    "count": 2,
-                    "name": "Flash of Insight"
-                },
-                {
                     "count": 4,
-                    "name": "Foil"
-                },
-                {
-                    "count": 3,
                     "name": "Gush"
                 },
                 {
-                    "count": 3,
-                    "name": "Impulse"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "Opt"
-                },
-                {
-                    "count": 4,
-                    "name": "Stifle"
-                },
-                {
-                    "count": 4,
-                    "name": "Vision Charm"
-                },
-                {
-                    "count": 16,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Mishra's Factory"
-                },
-                {
-                    "count": 4,
-                    "name": "Portent"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Annul"
-                },
-                {
-                    "count": 2,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 2,
-                    "name": "Dominate"
-                },
-                {
-                    "count": 2,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Parallax Tide"
-                },
-                {
-                    "count": 2,
-                    "name": "Powder Keg"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "Yisu94",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Yisu94",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Anger"
-                },
-                {
-                    "count": 1,
-                    "name": "Caller of the Claw"
-                },
-                {
-                    "count": 3,
-                    "name": "Deranged Hermit"
-                },
-                {
-                    "count": 4,
-                    "name": "Fyndhorn Elves"
-                },
-                {
-                    "count": 1,
-                    "name": "Kamahl, Fist of Krosa"
-                },
-                {
-                    "count": 4,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 2,
-                    "name": "Masticore"
-                },
-                {
-                    "count": 4,
-                    "name": "Multani's Acolyte"
-                },
-                {
-                    "count": 3,
-                    "name": "Nantuko Vigilante"
-                },
-                {
-                    "count": 4,
-                    "name": "Priest of Titania"
-                },
-                {
-                    "count": 4,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 1,
-                    "name": "Squee, Goblin Nabob"
-                },
-                {
-                    "count": 4,
-                    "name": "Wirewood Symbiote"
-                },
-                {
-                    "count": 1,
-                    "name": "Yavimaya Granger"
-                },
-                {
-                    "count": 4,
-                    "name": "Survival of the Fittest"
-                },
-                {
-                    "count": 10,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Gaea's Cradle"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Wooded Foothills"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Gaea's Blessing"
-                },
-                {
-                    "count": 1,
-                    "name": "Genesis"
-                },
-                {
-                    "count": 4,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 2,
-                    "name": "Tranquil Domain"
-                },
-                {
-                    "count": 4,
-                    "name": "Wall of Blossoms"
-                },
-                {
-                    "count": 1,
-                    "name": "Wellwisher"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "_spiritcrusher_",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck__spiritcrusher_",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Grim Lavamancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Jackal Pup"
-                },
-                {
-                    "count": 4,
-                    "name": "Mogg Fanatic"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Mongrel"
-                },
-                {
-                    "count": 2,
-                    "name": "Rancor"
-                },
-                {
-                    "count": 1,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Incinerate"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 3,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 3,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Karplusan Forest"
-                },
-                {
-                    "count": 5,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Treetop Village"
-                },
-                {
-                    "count": 2,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 4,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 4,
-                    "name": "Call of the Herd"
-                },
-                {
-                    "count": 3,
-                    "name": "Firebolt"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Crumble"
-                },
-                {
-                    "count": 1,
-                    "name": "Earthquake"
-                },
-                {
-                    "count": 3,
-                    "name": "Hidden Gibbons"
-                },
-                {
-                    "count": 1,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 2,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Simoon"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Tranquil Domain"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "WANDERING_LOTUS",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_WANDERING_LOTUS",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Phyrexian Furnace"
-                },
-                {
-                    "count": 1,
-                    "name": "Bane of the Living"
-                },
-                {
-                    "count": 3,
-                    "name": "Eternal Dragon"
-                },
-                {
-                    "count": 4,
-                    "name": "Exalted Angel"
-                },
-                {
-                    "count": 3,
-                    "name": "Skeletal Scrying"
                 },
                 {
                     "count": 4,
@@ -701,192 +495,295 @@
                 },
                 {
                     "count": 4,
-                    "name": "Caves of Koilos"
+                    "name": "City of Brass"
                 },
                 {
-                    "count": 2,
-                    "name": "Dust Bowl"
+                    "count": 4,
+                    "name": "Flooded Strand"
                 },
                 {
-                    "count": 10,
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
                     "name": "Plains"
                 },
                 {
-                    "count": 10,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 3,
-                    "name": "Decree of Justice"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 4,
-                    "name": "Gerrard's Verdict"
-                },
-                {
-                    "count": 4,
-                    "name": "Vindicate"
-                },
-                {
-                    "count": 3,
-                    "name": "Wrath of God"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aura of Silence"
-                },
-                {
-                    "count": 3,
-                    "name": "Circle of Protection: Red"
+                    "count": 1,
+                    "name": "Undiscovered Paradise"
                 },
                 {
                     "count": 2,
-                    "name": "Haunting Echoes"
+                    "name": "Armageddon"
                 },
                 {
                     "count": 2,
-                    "name": "Infest"
-                },
-                {
-                    "count": 2,
-                    "name": "Phyrexian Arena"
-                },
-                {
-                    "count": 2,
-                    "name": "Seal of Cleansing"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "Thiim",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Thiim",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Mox Diamond"
-                },
-                {
-                    "count": 4,
-                    "name": "Sphere of Resistance"
-                },
-                {
-                    "count": 4,
-                    "name": "Terravore"
-                },
-                {
-                    "count": 4,
-                    "name": "Oath of Druids"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 1,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Forgotten Cave"
-                },
-                {
-                    "count": 4,
-                    "name": "Karplusan Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Factory"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Rishadan Port"
-                },
-                {
-                    "count": 4,
-                    "name": "Treetop Village"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 4,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 1,
-                    "name": "Earthquake"
-                },
-                {
-                    "count": 1,
-                    "name": "Hull Breach"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 4,
-                    "name": "Thermokarst"
-                },
-                {
-                    "count": 4,
-                    "name": "Winter's Grasp"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
                     "name": "Call of the Herd"
                 },
                 {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                }
+            ],
+            "sideboard": [
+                {
                     "count": 1,
-                    "name": "Hull Breach"
+                    "name": "Annul"
                 },
                 {
                     "count": 2,
-                    "name": "Naturalize"
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Totem"
                 },
                 {
                     "count": 2,
-                    "name": "Phyrexian Furnace"
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
                 },
                 {
                     "count": 1,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "HeyNongMan",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_HeyNongMan",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 20,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Pyromancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyrokinesis"
                 },
                 {
                     "count": 2,
                     "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "TRQ10",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_TRQ10",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
                 },
                 {
                     "count": 1,
-                    "name": "Zuran Orb"
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Mirri's Guile"
+                },
+                {
+                    "count": 2,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 4,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 3,
+                    "name": "Xantid Swarm"
                 }
             ],
             "notes": null
@@ -1135,293 +1032,99 @@
         },
         {
             "date": "2025-12-15",
-            "player": "Firetruck",
+            "player": "WANDERING_LOTUS",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Firetruck",
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_WANDERING_LOTUS",
             "mainboard": [
                 {
-                    "count": 4,
-                    "name": "Mox Diamond"
-                },
-                {
-                    "count": 4,
-                    "name": "Sphere of Resistance"
-                },
-                {
-                    "count": 4,
-                    "name": "Terravore"
-                },
-                {
-                    "count": 4,
-                    "name": "Oath of Druids"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 2,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Karplusan Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Factory"
-                },
-                {
                     "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Rishadan Port"
-                },
-                {
-                    "count": 4,
-                    "name": "Treetop Village"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 4,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 1,
-                    "name": "Earthquake"
-                },
-                {
-                    "count": 2,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 1,
-                    "name": "Stone Rain"
-                },
-                {
-                    "count": 3,
-                    "name": "Thermokarst"
-                },
-                {
-                    "count": 3,
-                    "name": "Winter's Grasp"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Hidden Gibbons"
-                },
-                {
-                    "count": 2,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 2,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 3,
-                    "name": "Zuran Orb"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "HeyNongMan",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_HeyNongMan",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Gempalm Incinerator"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Lackey"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Matron"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Piledriver"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Ringleader"
-                },
-                {
-                    "count": 1,
-                    "name": "Goblin Sharpshooter"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Warchief"
-                },
-                {
-                    "count": 4,
-                    "name": "Mogg Fanatic"
-                },
-                {
-                    "count": 3,
-                    "name": "Siege-Gang Commander"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 20,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Anarchy"
-                },
-                {
-                    "count": 1,
-                    "name": "Goblin Pyromancer"
-                },
-                {
-                    "count": 3,
                     "name": "Phyrexian Furnace"
                 },
                 {
-                    "count": 2,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Pyrokinesis"
-                },
-                {
-                    "count": 2,
-                    "name": "Red Elemental Blast"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-15",
-            "player": "ice100",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_ice100",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Birchlore Rangers"
+                    "count": 1,
+                    "name": "Bane of the Living"
                 },
                 {
                     "count": 3,
-                    "name": "Deranged Hermit"
+                    "name": "Eternal Dragon"
                 },
                 {
                     "count": 4,
-                    "name": "Fyndhorn Elves"
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Skeletal Scrying"
                 },
                 {
                     "count": 4,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 1,
-                    "name": "Masticore"
+                    "name": "Swords to Plowshares"
                 },
                 {
                     "count": 4,
-                    "name": "Multani's Acolyte"
-                },
-                {
-                    "count": 1,
-                    "name": "Nantuko Vigilante"
-                },
-                {
-                    "count": 4,
-                    "name": "Priest of Titania"
-                },
-                {
-                    "count": 4,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 1,
-                    "name": "Squee, Goblin Nabob"
+                    "name": "Caves of Koilos"
                 },
                 {
                     "count": 2,
-                    "name": "Tribal Forcemage"
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 10,
+                    "name": "Plains"
+                },
+                {
+                    "count": 10,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Justice"
                 },
                 {
                     "count": 4,
-                    "name": "Wirewood Symbiote"
+                    "name": "Duress"
                 },
                 {
                     "count": 4,
-                    "name": "Survival of the Fittest"
-                },
-                {
-                    "count": 16,
-                    "name": "Forest"
+                    "name": "Gerrard's Verdict"
                 },
                 {
                     "count": 4,
-                    "name": "Gaea's Cradle"
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of God"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 4,
-                    "name": "Call of the Herd"
-                },
-                {
-                    "count": 1,
-                    "name": "Caller of the Claw"
-                },
-                {
-                    "count": 1,
-                    "name": "Masticore"
-                },
-                {
-                    "count": 1,
-                    "name": "Nantuko Vigilante"
-                },
-                {
-                    "count": 4,
-                    "name": "Naturalize"
+                    "count": 2,
+                    "name": "Aura of Silence"
                 },
                 {
                     "count": 3,
-                    "name": "Tormod's Crypt"
+                    "name": "Circle of Protection: Red"
                 },
                 {
-                    "count": 1,
-                    "name": "Uktabi Orangutan"
+                    "count": 2,
+                    "name": "Haunting Echoes"
+                },
+                {
+                    "count": 2,
+                    "name": "Infest"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
@@ -1634,6 +1337,541 @@
         },
         {
             "date": "2025-12-15",
+            "player": "fabbow",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_fabbow",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Patrol"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Goblin Cadets"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 3,
+                    "name": "Overload"
+                },
+                {
+                    "count": 3,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "spring_onion",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_spring_onion",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "The Rack"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Skittering Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Bottomless Pit"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 3,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 15,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 3,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Perish"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Withered Wretch"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "Navas",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Navas",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Gush"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 16,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Dominate"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 2,
+                    "name": "Powder Keg"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "_spiritcrusher_",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck__spiritcrusher_",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 2,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 3,
+                    "name": "Firebolt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 3,
+                    "name": "Hidden Gibbons"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Simoon"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "Thiim",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Thiim",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Winter's Grasp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Zuran Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
             "player": "FaMecHiMiCa",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_FaMecHiMiCa",
@@ -1737,73 +1975,176 @@
         },
         {
             "date": "2025-12-15",
-            "player": "gazurmah",
+            "player": "Yisu94",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_gazurmah",
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Yisu94",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Cursed Scroll"
-                },
-                {
-                    "count": 4,
-                    "name": "Ball Lightning"
+                    "count": 1,
+                    "name": "Anger"
                 },
                 {
                     "count": 1,
-                    "name": "Goblin Patrol"
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 3,
+                    "name": "Deranged Hermit"
                 },
                 {
                     "count": 4,
-                    "name": "Grim Lavamancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Jackal Pup"
-                },
-                {
-                    "count": 4,
-                    "name": "Mogg Fanatic"
-                },
-                {
-                    "count": 4,
-                    "name": "Seal of Fire"
-                },
-                {
-                    "count": 2,
-                    "name": "Sulfuric Vortex"
-                },
-                {
-                    "count": 4,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Incinerate"
+                    "name": "Fyndhorn Elves"
                 },
                 {
                     "count": 1,
-                    "name": "Lava Dart"
+                    "name": "Kamahl, Fist of Krosa"
                 },
                 {
                     "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 1,
-                    "name": "Price of Progress"
+                    "name": "Llanowar Elves"
                 },
                 {
                     "count": 2,
-                    "name": "Barbarian Ring"
+                    "name": "Masticore"
                 },
                 {
                     "count": 4,
-                    "name": "Bloodstained Mire"
+                    "name": "Multani's Acolyte"
+                },
+                {
+                    "count": 3,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Granger"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
                 },
                 {
                     "count": 10,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
                     "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 1,
+                    "name": "Wellwisher"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-15",
+            "player": "Firetruck",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/contraption-league-2025-12-1510076#deck_Firetruck",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
                 },
                 {
                     "count": 4,
@@ -1811,41 +2152,49 @@
                 },
                 {
                     "count": 1,
-                    "name": "Flame Rift"
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Stone Rain"
+                },
+                {
+                    "count": 3,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 3,
+                    "name": "Winter's Grasp"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Anarchy"
+                    "count": 3,
+                    "name": "Hidden Gibbons"
                 },
                 {
                     "count": 2,
-                    "name": "Earthquake"
-                },
-                {
-                    "count": 1,
-                    "name": "Flaring Pain"
-                },
-                {
-                    "count": 1,
-                    "name": "Mogg Salvage"
+                    "name": "Naturalize"
                 },
                 {
                     "count": 2,
-                    "name": "Overload"
-                },
-                {
-                    "count": 1,
-                    "name": "Price of Progress"
-                },
-                {
-                    "count": 4,
-                    "name": "Pyroblast"
+                    "name": "Pyroclasm"
                 },
                 {
                     "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
                     "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Zuran Orb"
                 }
             ],
             "notes": null
