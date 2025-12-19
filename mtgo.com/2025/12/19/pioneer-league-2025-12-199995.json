@@ -1,156 +1,33 @@
 {
     "tournament": {
-        "date": "2025-12-16",
+        "date": "2025-12-18",
         "name": "Pioneer League",
-        "url": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995",
+        "url": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995",
         "format": "Pioneer",
         "players": 0
     },
     "decks": [
         {
-            "date": "2025-12-17",
+            "date": "2025-12-19",
             "player": "Mathilde8",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995#deck_Mathilde8",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995#deck_Mathilde8",
             "mainboard": [
                 {
+                    "count": 1,
+                    "name": "Ademi of the Silkchutes"
+                },
+                {
                     "count": 4,
-                    "name": "Cori-Steel Cutter"
+                    "name": "Archon of Emeria"
                 },
                 {
                     "count": 3,
-                    "name": "Experimental Synthesizer"
+                    "name": "Aven Interrupter"
                 },
-                {
-                    "count": 4,
-                    "name": "Emberheart Challenger"
-                },
-                {
-                    "count": 4,
-                    "name": "Monastery Swiftspear"
-                },
-                {
-                    "count": 1,
-                    "name": "Slickshot Show-Off"
-                },
-                {
-                    "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 4,
-                    "name": "Academic Dispute"
-                },
-                {
-                    "count": 2,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 2,
-                    "name": "Consider"
-                },
-                {
-                    "count": 3,
-                    "name": "Reckless Rage"
-                },
-                {
-                    "count": 1,
-                    "name": "Den of the Bugbear"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Riverpyre Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 3,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 2,
-                    "name": "Stock Up"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Accumulate Wisdom"
-                },
-                {
-                    "count": 1,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 1,
-                    "name": "Environmental Sciences"
-                },
-                {
-                    "count": 1,
-                    "name": "Firebending Lesson"
-                },
-                {
-                    "count": 1,
-                    "name": "It'll Quench Ya!"
-                },
-                {
-                    "count": 1,
-                    "name": "Octopus Form"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 2,
-                    "name": "Rending Volley"
-                },
-                {
-                    "count": 2,
-                    "name": "Scorching Shot"
-                },
-                {
-                    "count": 2,
-                    "name": "Torch the Tower"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-17",
-            "player": "albertoSD",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995#deck_albertoSD",
-            "mainboard": [
                 {
                     "count": 4,
                     "name": "Badgermole Cub"
-                },
-                {
-                    "count": 2,
-                    "name": "Beza, the Bounding Spring"
                 },
                 {
                     "count": 4,
@@ -158,14 +35,14 @@
                 },
                 {
                     "count": 4,
+                    "name": "Enduring Innocence"
+                },
+                {
+                    "count": 4,
                     "name": "Llanowar Elves"
                 },
                 {
                     "count": 3,
-                    "name": "Lovestruck Beast"
-                },
-                {
-                    "count": 4,
                     "name": "Ouroboroid"
                 },
                 {
@@ -174,46 +51,34 @@
                 },
                 {
                     "count": 3,
-                    "name": "Voice of Resurgence"
-                },
-                {
-                    "count": 2,
-                    "name": "Water Tribe Rallier"
-                },
-                {
-                    "count": 2,
-                    "name": "Werefox Bodyguard"
+                    "name": "Thalia, Guardian of Thraben"
                 },
                 {
                     "count": 4,
-                    "name": "Werewolf Pack Leader"
-                },
-                {
-                    "count": 2,
-                    "name": "Dromoka's Command"
+                    "name": "Collected Company"
                 },
                 {
                     "count": 2,
                     "name": "Abandoned Air Temple"
                 },
                 {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
                     "count": 2,
                     "name": "Branchloft Pathway"
                 },
                 {
-                    "count": 1,
-                    "name": "Eiganjo, Seat of the Empire"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
+                    "count": 4,
+                    "name": "Brushland"
                 },
                 {
                     "count": 2,
-                    "name": "Hushwood Verge"
+                    "name": "Forest"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Plains"
                 },
                 {
@@ -228,31 +93,27 @@
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Beza, the Bounding Spring"
+                    "name": "Ademi of the Silkchutes"
                 },
                 {
                     "count": 1,
-                    "name": "Deafening Silence"
+                    "name": "Aven Interrupter"
                 },
                 {
                     "count": 1,
-                    "name": "Dromoka's Command"
-                },
-                {
-                    "count": 1,
-                    "name": "Elesh Norn, Mother of Machines"
+                    "name": "Containment Priest"
                 },
                 {
                     "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 3,
                     "name": "Elspeth, Storm Slayer"
                 },
                 {
                     "count": 1,
-                    "name": "God-Eternal Oketra"
-                },
-                {
-                    "count": 2,
-                    "name": "Knight of Autumn"
+                    "name": "Kutzil's Flanker"
                 },
                 {
                     "count": 4,
@@ -260,52 +121,52 @@
                 },
                 {
                     "count": 2,
-                    "name": "Voice of Victory"
+                    "name": "Werefox Bodyguard"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2025-12-17",
-            "player": "I-z",
+            "date": "2025-12-19",
+            "player": "capellomauro",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995#deck_I-z",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995#deck_capellomauro",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Cori-Steel Cutter"
+                    "name": "Favored Hoplite"
                 },
                 {
                     "count": 4,
-                    "name": "Emberheart Challenger"
+                    "name": "Illuminator Virtuoso"
                 },
                 {
                     "count": 4,
                     "name": "Monastery Swiftspear"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Slickshot Show-Off"
                 },
                 {
-                    "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 4,
-                    "name": "Academic Dispute"
-                },
-                {
                     "count": 3,
-                    "name": "Burst Lightning"
+                    "name": "Sheltered by Ghosts"
                 },
                 {
                     "count": 2,
-                    "name": "Consider"
+                    "name": "Defiant Strike"
+                },
+                {
+                    "count": 1,
+                    "name": "Gods Willing"
+                },
+                {
+                    "count": 4,
+                    "name": "Loran's Escape"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
                 },
                 {
                     "count": 2,
@@ -313,94 +174,94 @@
                 },
                 {
                     "count": 1,
-                    "name": "Den of the Bugbear"
+                    "name": "Sejiri Shelter"
                 },
                 {
                     "count": 1,
-                    "name": "Island"
+                    "name": "Spikefield Hazard"
                 },
                 {
                     "count": 4,
-                    "name": "Mountain"
+                    "name": "Battlefield Forge"
                 },
                 {
-                    "count": 3,
-                    "name": "Riverpyre Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Shivan Reef"
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
                 },
                 {
                     "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
+                    "name": "Inspiring Vantage"
                 },
                 {
                     "count": 3,
-                    "name": "Boomerang Basics"
+                    "name": "Needleverge Pathway"
                 },
                 {
-                    "count": 2,
-                    "name": "Fire-Brained Scheme"
+                    "count": 4,
+                    "name": "Sacred Foundry"
                 },
                 {
-                    "count": 2,
-                    "name": "Stock Up"
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 4,
+                    "name": "Honor"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Accumulate Wisdom"
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
                 },
                 {
                     "count": 1,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 1,
-                    "name": "Environmental Sciences"
-                },
-                {
-                    "count": 1,
-                    "name": "Firebending Lesson"
-                },
-                {
-                    "count": 1,
-                    "name": "It'll Quench Ya!"
-                },
-                {
-                    "count": 1,
-                    "name": "Octopus Form"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroclasm"
+                    "name": "Gods Willing"
                 },
                 {
                     "count": 2,
+                    "name": "Light of Hope"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 1,
                     "name": "Rending Volley"
                 },
                 {
                     "count": 2,
-                    "name": "Scorching Shot"
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheltered by Ghosts"
                 },
                 {
                     "count": 2,
-                    "name": "Torch the Tower"
+                    "name": "Showdown of the Skalds"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2025-12-17",
-            "player": "PedraStone",
+            "date": "2025-12-19",
+            "player": "stalonge",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995#deck_PedraStone",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995#deck_stalonge",
             "mainboard": [
                 {
                     "count": 4,
@@ -417,10 +278,6 @@
                 {
                     "count": 4,
                     "name": "Monastery Swiftspear"
-                },
-                {
-                    "count": 1,
-                    "name": "Slickshot Show-Off"
                 },
                 {
                     "count": 4,
@@ -443,11 +300,11 @@
                     "name": "Reckless Rage"
                 },
                 {
-                    "count": 2,
-                    "name": "Torch the Tower"
+                    "count": 1,
+                    "name": "Den of the Bugbear"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Mountain"
                 },
                 {
@@ -473,12 +330,16 @@
                 {
                     "count": 3,
                     "name": "Boomerang Basics"
+                },
+                {
+                    "count": 3,
+                    "name": "Stock Up"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Abandon Attachments"
+                    "name": "Accumulate Wisdom"
                 },
                 {
                     "count": 1,
@@ -490,6 +351,10 @@
                 },
                 {
                     "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
                     "name": "It'll Quench Ya!"
                 },
                 {
@@ -497,7 +362,134 @@
                     "name": "Octopus Form"
                 },
                 {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Torch the Tower"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-19",
+            "player": "Mateusf34",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995#deck_Mateusf34",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
                     "count": 3,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 3,
+                    "name": "Academic Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Accumulate Wisdom"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Firebending Lesson"
+                },
+                {
+                    "count": 1,
+                    "name": "Octopus Form"
+                },
+                {
+                    "count": 2,
                     "name": "Pyroclasm"
                 },
                 {
@@ -515,131 +507,95 @@
                 {
                     "count": 2,
                     "name": "Stock Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2025-12-17",
-            "player": "dingzhen",
+            "date": "2025-12-19",
+            "player": "tchuco",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-179995#deck_dingzhen",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-199995#deck_tchuco",
             "mainboard": [
                 {
-                    "count": 3,
-                    "name": "Cryogen Relic"
-                },
-                {
-                    "count": 2,
-                    "name": "Grim Bauble"
-                },
-                {
                     "count": 4,
-                    "name": "Fear of Isolation"
-                },
-                {
-                    "count": 1,
-                    "name": "Yorion, Sky Nomad"
-                },
-                {
-                    "count": 4,
-                    "name": "Hopeless Nightmare"
+                    "name": "Bloodtithe Harvester"
                 },
                 {
                     "count": 3,
-                    "name": "Momentum Breaker"
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred, the Apocalypse"
                 },
                 {
                     "count": 4,
-                    "name": "Nowhere to Run"
+                    "name": "Fable of the Mirror-Breaker"
                 },
                 {
                     "count": 4,
-                    "name": "Stormchaser's Talent"
+                    "name": "Unholy Annex // Ritual Chamber"
                 },
                 {
                     "count": 2,
-                    "name": "The Meathook Massacre"
+                    "name": "Abrade"
                 },
                 {
                     "count": 4,
                     "name": "Fatal Push"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Go for the Throat"
                 },
                 {
-                    "count": 4,
-                    "name": "This Town Ain't Big Enough"
-                },
-                {
-                    "count": 4,
-                    "name": "Clearwater Pathway"
-                },
-                {
-                    "count": 4,
-                    "name": "Darkslick Shores"
-                },
-                {
                     "count": 1,
-                    "name": "Fetid Pools"
-                },
-                {
-                    "count": 2,
-                    "name": "Field of Ruin"
-                },
-                {
-                    "count": 1,
-                    "name": "Geier Reach Sanitarium"
+                    "name": "Torch the Tower"
                 },
                 {
                     "count": 4,
-                    "name": "Gloomlake Verge"
-                },
-                {
-                    "count": 2,
-                    "name": "Hive of the Eye Tyrant"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Otawara, Soaring City"
+                    "name": "Blackcleave Cliffs"
                 },
                 {
                     "count": 3,
-                    "name": "Shipwreck Marsh"
+                    "name": "Blazemire Verge"
                 },
                 {
-                    "count": 2,
-                    "name": "Swamp"
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
                 },
                 {
                     "count": 1,
-                    "name": "Takenuma, Abandoned Mire"
+                    "name": "Sokenzan, Crucible of Defiance"
                 },
                 {
-                    "count": 2,
-                    "name": "Underground River"
+                    "count": 3,
+                    "name": "Swamp"
                 },
                 {
                     "count": 1,
                     "name": "Urborg, Tomb of Yawgmoth"
                 },
                 {
-                    "count": 4,
-                    "name": "Watery Grave"
-                },
-                {
                     "count": 2,
-                    "name": "Narset, Parter of Veils"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
+                    "name": "Duress"
                 },
                 {
                     "count": 4,
@@ -648,16 +604,20 @@
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Aether Gust"
+                    "count": 2,
+                    "name": "Anger of the Gods"
                 },
                 {
-                    "count": 3,
-                    "name": "Annul"
+                    "count": 2,
+                    "name": "Anoint with Affliction"
                 },
                 {
                     "count": 1,
-                    "name": "Bitter Triumph"
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Gix's Command"
                 },
                 {
                     "count": 1,
@@ -665,23 +625,23 @@
                 },
                 {
                     "count": 2,
-                    "name": "Mystical Dispute"
+                    "name": "Hidetsugu Consumes All"
                 },
                 {
                     "count": 2,
-                    "name": "Narset, Parter of Veils"
+                    "name": "Invoke Despair"
                 },
                 {
-                    "count": 2,
-                    "name": "Negate"
+                    "count": 1,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
                 },
                 {
                     "count": 2,
                     "name": "Unlicensed Hearse"
-                },
-                {
-                    "count": 1,
-                    "name": "Yorion, Sky Nomad"
                 }
             ],
             "notes": null
