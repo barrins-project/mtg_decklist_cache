@@ -9,6 +9,169 @@
     "decks": [
         {
             "date": "2025-12-23",
+            "player": "Ecoscuro",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-12-2310011#deck_Ecoscuro",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Anticausal Vestige"
+                },
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Sire of Seven Deaths"
+                },
+                {
+                    "count": 3,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Wastescape Battlemage"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoes of Eternity"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 3,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 3,
+                    "name": "Secluded Courtyard"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 4,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-23",
             "player": "PS17",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-12-2310011#deck_PS17",
@@ -462,17 +625,29 @@
         },
         {
             "date": "2025-12-23",
-            "player": "Ecoscuro",
+            "player": "Bluedragon1981",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-12-2310011#deck_Ecoscuro",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2025-12-2310011#deck_Bluedragon1981",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
                 },
                 {
+                    "count": 4,
+                    "name": "Coveted Jewel"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Monolith"
+                },
+                {
                     "count": 1,
                     "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
                 },
                 {
                     "count": 1,
@@ -488,6 +663,10 @@
                 },
                 {
                     "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
                     "name": "Mox Sapphire"
                 },
                 {
@@ -495,7 +674,7 @@
                     "name": "Mystic Forge"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Sensei's Divining Top"
                 },
                 {
@@ -503,97 +682,85 @@
                     "name": "Sol Ring"
                 },
                 {
-                    "count": 1,
-                    "name": "Thorn of Amethyst"
+                    "count": 4,
+                    "name": "The One Ring"
                 },
                 {
                     "count": 1,
-                    "name": "Trinisphere"
+                    "name": "Time Vault"
                 },
                 {
                     "count": 1,
                     "name": "Vexing Bauble"
                 },
                 {
-                    "count": 2,
-                    "name": "Anticausal Vestige"
-                },
-                {
                     "count": 4,
-                    "name": "Glaring Fleshraker"
+                    "name": "Phyrexian Metamorph"
                 },
                 {
                     "count": 1,
-                    "name": "Sire of Seven Deaths"
-                },
-                {
-                    "count": 3,
-                    "name": "Sowing Mycospawn"
-                },
-                {
-                    "count": 3,
-                    "name": "Thought-Knot Seer"
+                    "name": "Ancestral Recall"
                 },
                 {
                     "count": 4,
-                    "name": "Wastescape Battlemage"
-                },
-                {
-                    "count": 2,
-                    "name": "Echoes of Eternity"
+                    "name": "Force of Will"
                 },
                 {
                     "count": 4,
-                    "name": "Kozilek's Command"
+                    "name": "Paradoxical Outcome"
                 },
                 {
                     "count": 3,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 4,
                     "name": "Ancient Tomb"
                 },
                 {
                     "count": 4,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Eldrazi Temple"
+                    "name": "Mishra's Workshop"
                 },
                 {
                     "count": 3,
-                    "name": "Eye of Ugin"
+                    "name": "Talon Gates of Madara"
                 },
                 {
                     "count": 1,
-                    "name": "Gaea's Cradle"
-                },
-                {
-                    "count": 3,
-                    "name": "Secluded Courtyard"
+                    "name": "Tolarian Academy"
                 },
                 {
                     "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 3,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 1,
-                    "name": "Yavimaya, Cradle of Growth"
+                    "name": "Urza's Saga"
                 },
                 {
                     "count": 1,
                     "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 3,
+                    "name": "Tezzeret, Cruel Captain"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Crucible of Worlds"
+                    "count": 4,
+                    "name": "Argentum Masticore"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
                     "name": "Dismember"
                 },
                 {
@@ -601,24 +768,16 @@
                     "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Maze of Ith"
+                    "count": 3,
+                    "name": "Hullbreacher"
                 },
                 {
                     "count": 1,
                     "name": "Mycosynth Lattice"
                 },
                 {
-                    "count": 4,
-                    "name": "Null Rod"
-                },
-                {
                     "count": 1,
-                    "name": "The Tabernacle at Pendrell Vale"
+                    "name": "Trinisphere"
                 }
             ],
             "notes": null
