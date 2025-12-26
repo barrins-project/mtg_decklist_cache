@@ -9,8 +9,6 @@
 Un cache local des listes de decks **Magic: The Gathering** extraites depuis des sources publiques comme **MTGO** ou **MTGTop8**, au format JSON.
 Ce dépôt centralise les données brutes avant leur traitement, enrichissement ou intégration dans une base de données.
 
----
-
 ## 📁 Organisation des fichiers
 
 Chaque fichier JSON représente un tournoi. Les données sont organisées hiérarchiquement selon la **source**, l’**année**, le **mois** et le **jour** :
@@ -28,12 +26,10 @@ Chaque fichier JSON représente un tournoi. Les données sont organisées hiéra
 │   └── YYYY/
 │       └── MM/
 │           └── DD/
-│               ├── 1111\_event.json
+│               ├── 1111_event.json
 │               └── ...
 
 ````
-
----
 
 ## 📦 Schéma des données
 
@@ -89,9 +85,7 @@ export type Standing = {
   gwp: number;
   ogwp: number;
 };
-````
-
----
+```
 
 ## 🧰 Utilisation
 
@@ -101,7 +95,6 @@ Ce dépôt est utilisé par :
 * [`mtg_viewer`](#) *(accès restreint)* — chargement et ingestion des fichiers JSON dans une base PostgreSQL.
 * Des notebooks de data science — pour l’analyse du métagame, la classification d’archétypes, ou l’entraînement de modèles de ML.
 
----
 
 ## 🗃️ Bonnes pratiques
 
@@ -109,14 +102,10 @@ Ce dépôt est utilisé par :
 * Chaque fichier doit contenir un champ `decks`, même s’il est vide (`[]`).
 * Le nom des fichiers doit être unique par tournoi.
 
----
-
 ## 🤝 Contribuer
 
 Ce dépôt ne doit pas être modifié manuellement.
 Les ajouts doivent passer par les outils automatisés (`mtg_scraper`) ou une PR coordonnée avec les mainteneurs du backend `mtg_viewer`.
-
----
 
 ## 📜 Licence
 
