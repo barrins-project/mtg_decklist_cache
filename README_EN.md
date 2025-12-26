@@ -8,8 +8,6 @@
 A local cache of **Magic: The Gathering** decklists extracted from public sources such as **MTGO** or **MTGTop8**, stored in JSON format.
 This repository centralizes raw data before any processing, enrichment, or integration into a database.
 
----
-
 ## 📁 File Organization
 
 Each JSON file represents a tournament. Files are organized hierarchically by **source**, **year**, **month**, and **day**:
@@ -27,12 +25,10 @@ Each JSON file represents a tournament. Files are organized hierarchically by **
 │   └── YYYY/
 │       └── MM/
 │           └── DD/
-│               ├── 1111\_event.json
+│               ├── 1111_event.json
 │               └── ...
 
-````
-
----
+```
 
 ## 📦 Data Schema
 
@@ -88,9 +84,7 @@ export type Standing = {
   gwp: number;
   ogwp: number;
 };
-````
-
----
+```
 
 ## 🧰 Usage
 
@@ -100,22 +94,16 @@ This repository is used by:
 * [`mtg_viewer`](#) *(restricted access)* — to load and ingest JSON files into a PostgreSQL database.
 * Data science notebooks — for metagame analysis, archetype classification, or machine learning training.
 
----
-
 ## 🗃️ Best Practices
 
 * All files must be encoded in **UTF-8**.
 * Each file must contain a `decks` field, even if it's empty (`[]`).
 * File names must be unique per tournament.
 
----
-
 ## 🤝 Contributing
 
 This repository is not meant to be edited manually.
 All updates should go through the import tools (`mtg_scraper`) or via a PR coordinated with the maintainers of the `mtg_viewer` backend.
-
----
 
 ## 📜 License
 
@@ -125,5 +113,3 @@ MIT — free to use, adapt, or extend.
 
 **Parent project:** [barrins-project](https://github.com/barrins-project)
 💬 For any questions: GitHub Issues or the project's private Discord.
-
-```
