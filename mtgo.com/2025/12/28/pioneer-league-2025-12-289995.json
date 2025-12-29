@@ -9,10 +9,18 @@
     "decks": [
         {
             "date": "2025-12-28",
-            "player": "jeorge",
+            "player": "fives",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_jeorge",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_fives",
             "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 3,
+                    "name": "Experimental Synthesizer"
+                },
                 {
                     "count": 4,
                     "name": "Emberheart Challenger"
@@ -23,15 +31,11 @@
                 },
                 {
                     "count": 4,
-                    "name": "Screaming Nemesis"
-                },
-                {
-                    "count": 4,
                     "name": "Soul-Scar Mage"
                 },
                 {
                     "count": 4,
-                    "name": "Kumano Faces Kakkazan"
+                    "name": "Stormchaser's Talent"
                 },
                 {
                     "count": 4,
@@ -39,31 +43,39 @@
                 },
                 {
                     "count": 4,
-                    "name": "Burst Lightning"
+                    "name": "Fiery Impulse"
                 },
                 {
-                    "count": 4,
-                    "name": "Monstrous Rage"
-                },
-                {
-                    "count": 4,
-                    "name": "Reckless Rage"
+                    "count": 2,
+                    "name": "Into the Flood Maw"
                 },
                 {
                     "count": 1,
                     "name": "Den of the Bugbear"
                 },
                 {
-                    "count": 14,
+                    "count": 4,
                     "name": "Mountain"
                 },
                 {
                     "count": 4,
-                    "name": "Ramunap Ruins"
+                    "name": "Riverpyre Verge"
                 },
                 {
-                    "count": 1,
-                    "name": "Sokenzan, Crucible of Defiance"
+                    "count": 3,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Boomerang Basics"
                 },
                 {
                     "count": 4,
@@ -72,32 +84,167 @@
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Abandon Attachments"
+                    "count": 3,
+                    "name": "Annul"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 1,
                     "name": "Firebending Lesson"
+                },
+                {
+                    "count": 1,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 1,
+                    "name": "Iroh's Demonstration"
+                },
+                {
+                    "count": 1,
+                    "name": "It'll Quench Ya!"
+                },
+                {
+                    "count": 1,
+                    "name": "Octopus Form"
                 },
                 {
                     "count": 2,
                     "name": "Pyroclasm"
                 },
                 {
-                    "count": 4,
-                    "name": "Redcap Melee"
-                },
-                {
-                    "count": 2,
-                    "name": "Rending Volley"
-                },
-                {
-                    "count": 2,
+                    "count": 3,
                     "name": "Scorching Shot"
                 },
                 {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2025-12-28",
+            "player": "rhmaha",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_rhmaha",
+            "mainboard": [
+                {
                     "count": 2,
-                    "name": "Soul-Guide Lantern"
+                    "name": "Gifted Aetherborn"
+                },
+                {
+                    "count": 3,
+                    "name": "Graveyard Trespasser"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunset Saboteur"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex // Ritual Chamber"
+                },
+                {
+                    "count": 1,
+                    "name": "Archenemy's Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 14,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 3,
+                    "name": "Languish"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Enfeeblement"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunset Saboteur"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
                 }
             ],
             "notes": null
@@ -231,141 +378,10 @@
         },
         {
             "date": "2025-12-28",
-            "player": "rhmaha",
+            "player": "jeorge",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_rhmaha",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_jeorge",
             "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 3,
-                    "name": "Graveyard Trespasser"
-                },
-                {
-                    "count": 2,
-                    "name": "Sheoldred, the Apocalypse"
-                },
-                {
-                    "count": 2,
-                    "name": "Sunset Saboteur"
-                },
-                {
-                    "count": 4,
-                    "name": "Unholy Annex // Ritual Chamber"
-                },
-                {
-                    "count": 1,
-                    "name": "Archenemy's Charm"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Go for the Throat"
-                },
-                {
-                    "count": 2,
-                    "name": "Sheoldred's Edict"
-                },
-                {
-                    "count": 4,
-                    "name": "Castle Locthwain"
-                },
-                {
-                    "count": 2,
-                    "name": "Field of Ruin"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 14,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Takenuma, Abandoned Mire"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 2,
-                    "name": "Liliana of the Veil"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Invoke Despair"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Cut Down"
-                },
-                {
-                    "count": 2,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Go Blank"
-                },
-                {
-                    "count": 1,
-                    "name": "Invoke Despair"
-                },
-                {
-                    "count": 2,
-                    "name": "Kalitas, Traitor of Ghet"
-                },
-                {
-                    "count": 3,
-                    "name": "Languish"
-                },
-                {
-                    "count": 1,
-                    "name": "Ray of Enfeeblement"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunset Saboteur"
-                },
-                {
-                    "count": 2,
-                    "name": "Unlicensed Hearse"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2025-12-28",
-            "player": "fives",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-289995#deck_fives",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Cori-Steel Cutter"
-                },
-                {
-                    "count": 3,
-                    "name": "Experimental Synthesizer"
-                },
                 {
                     "count": 4,
                     "name": "Emberheart Challenger"
@@ -376,11 +392,15 @@
                 },
                 {
                     "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
                     "name": "Soul-Scar Mage"
                 },
                 {
                     "count": 4,
-                    "name": "Stormchaser's Talent"
+                    "name": "Kumano Faces Kakkazan"
                 },
                 {
                     "count": 4,
@@ -388,39 +408,31 @@
                 },
                 {
                     "count": 4,
-                    "name": "Fiery Impulse"
+                    "name": "Burst Lightning"
                 },
                 {
-                    "count": 2,
-                    "name": "Into the Flood Maw"
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Rage"
                 },
                 {
                     "count": 1,
                     "name": "Den of the Bugbear"
                 },
                 {
-                    "count": 4,
+                    "count": 14,
                     "name": "Mountain"
                 },
                 {
                     "count": 4,
-                    "name": "Riverpyre Verge"
+                    "name": "Ramunap Ruins"
                 },
                 {
-                    "count": 3,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 3,
-                    "name": "Boomerang Basics"
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
                 },
                 {
                     "count": 4,
@@ -429,44 +441,32 @@
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Annul"
+                    "count": 1,
+                    "name": "Abandon Attachments"
                 },
                 {
-                    "count": 1,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 1,
+                    "count": 2,
                     "name": "Firebending Lesson"
-                },
-                {
-                    "count": 1,
-                    "name": "Into the Flood Maw"
-                },
-                {
-                    "count": 1,
-                    "name": "Iroh's Demonstration"
-                },
-                {
-                    "count": 1,
-                    "name": "It'll Quench Ya!"
-                },
-                {
-                    "count": 1,
-                    "name": "Octopus Form"
                 },
                 {
                     "count": 2,
                     "name": "Pyroclasm"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
                     "name": "Scorching Shot"
                 },
                 {
-                    "count": 1,
-                    "name": "Spell Pierce"
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
                 }
             ],
             "notes": null
