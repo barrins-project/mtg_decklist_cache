@@ -9,10 +9,14 @@
     "decks": [
         {
             "date": "2026-01-17",
-            "player": "Munchlax446",
+            "player": "blackdecks99",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-01-1710011#deck_Munchlax446",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-01-1710011#deck_blackdecks99",
             "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
                 {
                     "count": 4,
                     "name": "Serum Powder"
@@ -22,7 +26,7 @@
                     "name": "Golgari Grave-Troll"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Golgari Thug"
                 },
                 {
@@ -50,7 +54,7 @@
                     "name": "Shambling Shell"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Silversmote Ghoul"
                 },
                 {
@@ -71,37 +75,200 @@
                 },
                 {
                     "count": 4,
-                    "name": "Noxious Revival"
-                },
-                {
-                    "count": 4,
                     "name": "Bazaar of Baghdad"
                 },
                 {
                     "count": 4,
                     "name": "Creeping Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
                 }
             ],
             "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
                 {
                     "count": 4,
                     "name": "Force of Vigor"
                 },
                 {
                     "count": 4,
-                    "name": "Ravenous Trap"
+                    "name": "Leyline of the Void"
                 },
                 {
                     "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 3,
                     "name": "Sickening Shoal"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-01-17",
+            "player": "MathiasHardStyle",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-01-1710011#deck_MathiasHardStyle",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 4,
+                    "name": "Coveted Jewel"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 4,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 4,
+                    "name": "Talon Gates of Madara"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Tezzeret, Cruel Captain"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Argentum Masticore"
                 },
                 {
                     "count": 2,
-                    "name": "Tormod's Crypt"
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Hullbreacher"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
                 }
             ],
             "notes": null
@@ -339,14 +506,10 @@
         },
         {
             "date": "2026-01-17",
-            "player": "blackdecks99",
+            "player": "Munchlax446",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-01-1710011#deck_blackdecks99",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-01-1710011#deck_Munchlax446",
             "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
                 {
                     "count": 4,
                     "name": "Serum Powder"
@@ -356,7 +519,7 @@
                     "name": "Golgari Grave-Troll"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Golgari Thug"
                 },
                 {
@@ -384,7 +547,7 @@
                     "name": "Shambling Shell"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Silversmote Ghoul"
                 },
                 {
@@ -405,33 +568,37 @@
                 },
                 {
                     "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
                     "name": "Bazaar of Baghdad"
                 },
                 {
                     "count": 4,
                     "name": "Creeping Chill"
-                },
-                {
-                    "count": 1,
-                    "name": "Gitaxian Probe"
                 }
             ],
             "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
                 {
                     "count": 4,
                     "name": "Force of Vigor"
                 },
                 {
                     "count": 4,
-                    "name": "Leyline of the Void"
+                    "name": "Ravenous Trap"
                 },
                 {
                     "count": 4,
-                    "name": "Noxious Revival"
+                    "name": "Sickening Shoal"
                 },
                 {
-                    "count": 3,
-                    "name": "Sickening Shoal"
+                    "count": 2,
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
