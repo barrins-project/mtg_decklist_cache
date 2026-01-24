@@ -7,6 +7,57 @@
         "players": 0
     },
     "decks": [],
-    "rounds": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "Capitano_CL",
+                    "player_2": "DigelCam",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "claudioh",
+                    "player_2": "gazmon48",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "AdvogadoPaloma",
+                    "player_2": "MisterTwin",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "blastoids",
+                    "player_2": "Mateusf34",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "Capitano_CL",
+                    "player_2": "claudioh",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "AdvogadoPaloma",
+                    "player_2": "blastoids",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "Capitano_CL",
+                    "player_2": "AdvogadoPaloma",
+                    "result": "2-0"
+                }
+            ]
+        }
+    ],
     "standings": []
 }

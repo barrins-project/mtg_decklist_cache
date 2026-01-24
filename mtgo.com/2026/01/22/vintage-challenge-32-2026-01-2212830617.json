@@ -7,6 +7,57 @@
         "players": 0
     },
     "decks": [],
-    "rounds": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "Aaa258",
+                    "player_2": "MeninooNey",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "blackdecks99",
+                    "player_2": "AFX",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "jibeta",
+                    "player_2": "xfile",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "jake-upLVT",
+                    "player_2": "LasVegasChaos",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "Aaa258",
+                    "player_2": "blackdecks99",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "jibeta",
+                    "player_2": "jake-upLVT",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "Aaa258",
+                    "player_2": "jibeta",
+                    "result": "2-0"
+                }
+            ]
+        }
+    ],
     "standings": []
 }
