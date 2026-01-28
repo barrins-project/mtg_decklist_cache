@@ -1,0 +1,969 @@
+{
+    "tournament": {
+        "date": "2026-01-24",
+        "name": "Liga Paulista - 1a Etapa",
+        "url": "https://mtgtop8.com/event?e=79629",
+        "format": "Premodern",
+        "players": 33
+    },
+    "decks": [
+        {
+            "date": "2026-01-24",
+            "player": "Cláudio Moraes",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804988&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Flame Rift"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyrostatic Pillar"
+                },
+                {
+                    "count": 20,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Overload"
+                },
+                {
+                    "count": 2,
+                    "name": "Mogg Salvage"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent quickly with low-cost, efficient creatures and burn spells. By dealing damage rapidly and efficiently, the deck aims to close out the game before the opponent has a chance to stabilize. The key strategy revolves around aggressive, fast-paced plays to continuously apply pressure and force the opponent to react defensively, ultimately leading to victory. The deck's streamlined approach emphasizes speed, aggression, and direct damage to achieve a swift win."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Gabriel François",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804989&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Academy Rector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 1,
+                    "name": "Nostalgic Dreams"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Greater Good"
+                },
+                {
+                    "count": 1,
+                    "name": "Pandemonium"
+                },
+                {
+                    "count": 1,
+                    "name": "Saproling Burst"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 3,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Hickory Woodlot"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 3,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Form of the Dragon"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Solitude"
+                }
+            ],
+            "notes": "This deck focuses on assembling combo pieces to quickly generate card advantage and power while disrupting opponents through hand disruption and removal spells. By combining Phyrexian Dreadnought with Greater Good, players can draw cards and dig for more combo pieces. Academy Rector can be sacrificed to search for key enchantments like Pandemonium or Replenish. With the right sequencing of spells and mana acceleration, this deck can overwhelm opponents with powerful creatures and combo interactions."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Renato Ferri",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804990&f=PREM",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 1,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 2,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Snake"
+                },
+                {
+                    "count": 1,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Tradewind Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Man-o'-War"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 4,
+                    "name": "Opposition"
+                },
+                {
+                    "count": 1,
+                    "name": "Reflecting Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 3,
+                    "name": "Natural Order"
+                },
+                {
+                    "count": 1,
+                    "name": "Phantom Nishoba"
+                }
+            ],
+            "notes": "The deck focuses on consistently generating card advantage and board control through creatures with strong utility abilities and efficient removal spells. By leveraging the power of Survival of the Fittest, the deck can quickly assemble key combo pieces while disrupting the opponent's game plan with counter spells and bounce effects. Additionally, the deck's mana base is optimized for ramping into powerful threats like Deranged Hermit and Masticore, allowing for a versatile and adaptive play style that can adapt to various matchups and strategies."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Rodrigo Souza",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804991&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Devourer"
+                },
+                {
+                    "count": 3,
+                    "name": "Chromatic Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Altar of Dementia"
+                },
+                {
+                    "count": 1,
+                    "name": "Sky Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Mind Stone"
+                },
+                {
+                    "count": 4,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 4,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 4,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Crystal Vein"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Xantid Swarm"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Welder"
+                },
+                {
+                    "count": 2,
+                    "name": "Overload"
+                },
+                {
+                    "count": 1,
+                    "name": "Hoodwink"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 1,
+                    "name": "Slice and Dice"
+                }
+            ],
+            "notes": "The main strategy of this deck focuses on utilizing Tinker to search for and play powerful artifacts like Phyrexian Devourer or Altar of Dementia, before finishing off opponents with a combo involving Fling. The deck also includes cards like Defense Grid and Tsabo's Web to disrupt opponents' plans and slow down the game, giving the player more time to assemble their combo. The mana base consists of a mix of versatile lands that can produce multiple colored mana sources, allowing for flexibility in casting spells."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Victor Silotto",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804994&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 4,
+                    "name": "Winter's Grasp"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Zuran Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game through disruption while utilizing Oath of Druids as a key win condition. By utilizing mana denial tactics with cards like Sphere of Resistance and Wasteland, the deck aims to slow down the opponent's strategy. Oath of Druids allows the player to cheat out powerful creatures like Terravore early in the game, putting pressure on the opponent. The deck also includes removal spells like Naturalize and mass removal like Earthquake and Pyroclasm to handle threats. The goal is to disrupt the opponent's game plan while quickly establishing a dominant board presence."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Peterson Paiva",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804992&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Putrid Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Rorix Bladewing"
+                },
+                {
+                    "count": 1,
+                    "name": "Visara the Dreadful"
+                },
+                {
+                    "count": 2,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 4,
+                    "name": "Akroma, Angel of Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Spirit of the Night"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Careful Study"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 2,
+                    "name": "Sickening Dreams"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground River"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Ihsan's Shade"
+                },
+                {
+                    "count": 1,
+                    "name": "Multani, Maro-Sorcerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Iridescent Angel"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly fill up the graveyard with powerful creatures using cards like Putrid Imp, Careful Study, and Entomb, then reanimate them using spells like Animate Dead and Exhume. This allows the player to cheat powerful creatures like Rorix Bladewing, Akroma, Angel of Wrath, and Visara the Dreadful into play early in the game, overwhelming the opponent with massive threats. The deck aims to win through creature-based combos and aggressive plays, utilizing the graveyard as a resource to bring back game-winning creatures."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Clayton Leite De Farias",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804995&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 3,
+                    "name": "Gush"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 17,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Flare"
+                },
+                {
+                    "count": 2,
+                    "name": "Dominate"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly assemble the Phyrexian Dreadnought combo using Stifle to counter the triggered ability. The deck aims to control the game with counterspells like Counterspell and Foil, while also utilizing draw spells like Accumulated Knowledge and Portent to find key pieces. The inclusion of flash creatures like Boomerang and Vision Charm adds versatility to the deck. Overall, the deck is designed to efficiently combo off and disrupt the opponent's gameplan in a premodern 1 vs 1 format."
+        },
+        {
+            "date": "2026-01-24",
+            "player": "Luiz Paulo Feliciano",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=79629&d=804993&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Nimble Mongoose"
+                },
+                {
+                    "count": 3,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 3,
+                    "name": "Werebear"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 3,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Rith's Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "Kor Haven"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Reprisal"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Harmonic Convergence"
+                }
+            ],
+            "notes": "The main concept of this deck is to establish early board presence and limit the opponent's resources through aggressive land destruction with cards like Armageddon and Wasteland. By utilizing efficient creatures like Nimble Mongoose and Werebear, as well as powerful finishers like Terravore, the deck aims to overwhelm the opponent quickly. Weathered Wayfarer helps to find important lands like Rishadan Port or Kor Haven, while Sylvan Library provides card advantage and consistency. Overall, the strategy is to disrupt the opponent's game plan while maintaining a strong offense to secure victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
