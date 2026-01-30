@@ -1,0 +1,489 @@
+{
+    "tournament": {
+        "date": "2026-01-29",
+        "name": "FNM",
+        "url": "https://mtgtop8.com/event?e=79698",
+        "format": "Pauper",
+        "players": 13
+    },
+    "decks": [
+        {
+            "date": "2026-01-29",
+            "player": "Nahuel Carnero",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=79698&d=805467&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": "The deck focuses on quickly dealing damage to the opponent through a combination of burn spells and aggressive creatures. By efficiently utilizing cheap spells like Lightning Bolt and Lava Dart, along with creatures like Guttersnipe and Sneaky Snacker, the deck aims to control the board and ultimately finish off the opponent with direct damage from cards like Fireblast and Fiery Temper. The strategy revolves around maintaining pressure on the opponent while also being able to quickly close out the game with burst damage."
+        },
+        {
+            "date": "2026-01-29",
+            "player": "Rufo Tha Duck",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=79698&d=805468&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Balustrade Spy"
+                },
+                {
+                    "count": 2,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Gatecreeper Vine"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Land Grant"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 2,
+                    "name": "Lotleth Giant"
+                },
+                {
+                    "count": 3,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 2,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Sagu Wildling"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Tinder Wall"
+                },
+                {
+                    "count": 1,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 1,
+                    "name": "Nylea's Disciple"
+                },
+                {
+                    "count": 3,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 3,
+                    "name": "Vitu-Ghazi Inspector"
+                }
+            ],
+            "notes": "The main concept of this deck is to use Balustrade Spy's ability to mill your entire library into your graveyard and then use Dread Return to reanimate Lotleth Giant, dealing damage to your opponent equal to the number of creature cards in your graveyard. The deck aims to quickly and efficiently set up this combo using cards like Land Grant, Lead the Stampede, and Winding Way to find the necessary pieces while also ramping with mana creatures like Gatecreeper Vine and Saruli Caretaker. The deck is designed to win the game in a single explosive turn."
+        },
+        {
+            "date": "2026-01-29",
+            "player": "Mauricio Mazuecos",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79698&d=805469&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Black Mage's Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Cryogen Relic"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Hunter's Blowgun"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                }
+            ],
+            "notes": "The deck focuses on quickly playing low-cost artifacts to enable Affinity for cards like Myr Enforcer. It utilizes artifacts like Drossforge Bridge and Mistvault Bridge to reduce costs, while also using Galvanic Blast for direct damage. Furthermore, it includes cards like Nihil Spellbomb for graveyard hate and Thoughtcast for card draw. Krark-Clan Shaman serves as a board wipe against opponents' creatures, allowing for a fast-paced aggressive strategy. Overall, the deck aims to overwhelm the opponent with a swarm of artifacts and efficient spells."
+        },
+        {
+            "date": "2026-01-29",
+            "player": "Juan Riveros",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79698&d=805470&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Black Mage's Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Cryogen Relic"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Hunter's Blowgun"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenku Artificer"
+                }
+            ],
+            "notes": "The deck focuses on utilizing artifacts to create a fast and aggressive playstyle, aiming to overwhelm the opponent with a combination of artifact creatures and burn spells. By combining efficiency in casting spells with card draw abilities, the deck can maintain pressure and card advantage throughout the game. Utilizing a variety of artifact lands and mana sources, the deck can quickly deploy threats and disrupt the opponent's game plan. The synergy between cards like Myr Enforcer and Thoughtcast allows for explosive turns, while cards like Galvanic Blast provide direct damage to control the board and finish off opponents."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
