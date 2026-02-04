@@ -1,0 +1,541 @@
+{
+    "tournament": {
+        "date": "2026-01-31",
+        "name": "Pioneer Spark",
+        "url": "https://mtgtop8.com/event?e=79927",
+        "format": "Pioneer",
+        "players": 9
+    },
+    "decks": [
+        {
+            "date": "2026-01-31",
+            "player": "Ippo Ishikawa",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=79927&d=807540&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Witchstalker Frenzy"
+                },
+                {
+                    "count": 1,
+                    "name": "Opera Love Song"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunspine Lynx"
+                },
+                {
+                    "count": 2,
+                    "name": "Hexing Squelcher"
+                },
+                {
+                    "count": 3,
+                    "name": "Robber of the Rich"
+                },
+                {
+                    "count": 4,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 3,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with aggressive red creatures and burn spells. By utilizing cards like Bonecrusher Giant, Robber of the Rich, and Emberheart Challenger, the deck aims to apply constant pressure on the opponent's life total. The burn spells such as Burst Lightning and Lightning Strike provide additional reach and removal, while cards like Chandra, Torch of Defiance and Monstrous Rage provide extra value and pump up the team. The deck also features some utility creatures like Hexing Squelcher and Sunspine Lynx to add flexibility and disrupt the opponent's game plan."
+        },
+        {
+            "date": "2026-01-31",
+            "player": "Mrcrocodile",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=79927&d=807541&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Analyze the Pollen"
+                },
+                {
+                    "count": 1,
+                    "name": "Culling Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakshasa's Bargain"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 2,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Superior Spider-Man"
+                },
+                {
+                    "count": 3,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Wistfulness"
+                },
+                {
+                    "count": 4,
+                    "name": "Deceit"
+                },
+                {
+                    "count": 1,
+                    "name": "Willowrush Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Wastewood Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 2,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 2,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Zagoth Triome"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "The End"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 3,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Casualties of War"
+                },
+                {
+                    "count": 1,
+                    "name": "Day of Black Sun"
+                },
+                {
+                    "count": 1,
+                    "name": "Deadly Cover-Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Oko, Lorwyn Liege"
+                },
+                {
+                    "count": 1,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 3,
+                    "name": "Culling Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                }
+            ],
+            "notes": "The key concept of this Sultai Control deck is to disrupt and control the opponent's game plan through a combination of hand disruption, removal spells, and powerful creatures. By using cards like Thoughtseize and Fatal Push to disrupt the opponent's hand and board state, while also deploying threats like Sheoldred, the Apocalypse and Overlord of the Balemurk, the deck aims to outvalue the opponent and grind them out over the course of the game. Additionally, the deck uses a land base that provides flexibility and consistency in casting its spells."
+        },
+        {
+            "date": "2026-01-31",
+            "player": "Beginnertcg",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79927&d=807543&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Esper Origins"
+                },
+                {
+                    "count": 1,
+                    "name": "Weftstalker Ardent"
+                },
+                {
+                    "count": 3,
+                    "name": "Formidable Speaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Mirror Image"
+                },
+                {
+                    "count": 4,
+                    "name": "Carnage, Crimson Chaos"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Tinybones Joins Up"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 2,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Blazemire Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 2,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Thornspire Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 1,
+                    "name": "Commercial District"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Lithomantic Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormkeld Vanguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Culling Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Elegy Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred, the Apocalypse"
+                }
+            ],
+            "notes": "The deck focuses on utilizing combo pieces such as Fable of the Mirror-Breaker and Mirror Image to create powerful synergies. With cards like Carnage, Crimson Chaos and Bloodtithe Harvester, the deck aims to control the board while quickly assembling its combo pieces. Thoughtseize and Fatal Push help disrupt the opponent's strategy, allowing the deck to execute its game plan effectively. The mana base is designed to support the combo pieces while also providing flexibility in casting spells. Overall, the deck aims to quickly assemble its combo pieces and overwhelm the opponent with its synergies."
+        },
+        {
+            "date": "2026-01-31",
+            "player": "Bityanko Bityanko",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=79927&d=807542&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
+                    "name": "Blazemire Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 3,
+                    "name": "Graveyard Trespasser"
+                },
+                {
+                    "count": 3,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 2,
+                    "name": "Anoint with Affliction"
+                },
+                {
+                    "count": 3,
+                    "name": "Invoke Despair"
+                }
+            ],
+            "notes": "The main focus of this Rakdos Aggro deck is to quickly apply pressure on the opponent using aggressive creatures and removal spells. The deck aims to disrupt the opponent's game plan with cards like Thoughtseize and Fatal Push, while simultaneously putting pressure on them with creatures like Graveyard Trespasser and Bloodtithe Harvester. The deck also includes powerful finishers like Sheoldred, the Apocalypse and Fable of the Mirror-Breaker to close out games quickly. Overall, the deck's key concept is to overwhelm the opponent with a combination of aggression and disruption."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
