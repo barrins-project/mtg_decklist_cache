@@ -1,28 +1,32 @@
 {
     "tournament": {
-        "date": "2026-02-10",
+        "date": "2026-02-11",
         "name": "Vintage League",
-        "url": "https://www.mtgo.com/decklist/vintage-league-2026-02-1110228",
+        "url": "https://www.mtgo.com/decklist/vintage-league-2026-02-1210228",
         "format": "Vintage",
         "players": 0
     },
     "decks": [
         {
-            "date": "2026-02-11",
-            "player": "Sergitor",
+            "date": "2026-02-12",
+            "player": "crK",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-02-1110228#deck_Sergitor",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-02-1210228#deck_crK",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
                 },
                 {
-                    "count": 4,
-                    "name": "Coveted Jewel"
+                    "count": 1,
+                    "name": "Chalice of the Void"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 4,
                     "name": "Grim Monolith"
                 },
                 {
@@ -34,7 +38,7 @@
                     "name": "Mana Vault"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "Manifold Key"
                 },
                 {
@@ -62,6 +66,18 @@
                     "name": "Mystic Forge"
                 },
                 {
+                    "count": 2,
+                    "name": "Paradox Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Sensei's Divining Top"
+                },
+                {
                     "count": 1,
                     "name": "Sol Ring"
                 },
@@ -83,23 +99,7 @@
                 },
                 {
                     "count": 4,
-                    "name": "Phyrexian Metamorph"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 4,
-                    "name": "Paradoxical Outcome"
-                },
-                {
-                    "count": 4,
-                    "name": "Sink into Stupor"
+                    "name": "Glaring Fleshraker"
                 },
                 {
                     "count": 4,
@@ -107,14 +107,18 @@
                 },
                 {
                     "count": 1,
-                    "name": "Island"
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Inventors' Fair"
                 },
                 {
                     "count": 4,
                     "name": "Mishra's Workshop"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Talon Gates of Madara"
                 },
                 {
@@ -130,26 +134,18 @@
                     "name": "Karn, the Great Creator"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "Tezzeret, Cruel Captain"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Argentum Masticore"
                 },
                 {
                     "count": 2,
-                    "name": "Force of Negation"
+                    "name": "Dismember"
                 },
                 {
                     "count": 2,
@@ -157,32 +153,32 @@
                 },
                 {
                     "count": 2,
-                    "name": "Hullbreacher"
-                },
-                {
-                    "count": 2,
-                    "name": "Kappa Cannoneer"
-                },
-                {
-                    "count": 1,
                     "name": "Mindbreak Trap"
                 },
                 {
                     "count": 1,
-                    "name": "Mycosynth Lattice"
+                    "name": "Portable Hole"
                 },
                 {
                     "count": 2,
-                    "name": "Wurmcoil Engine"
+                    "name": "Scrawling Crawler"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonecoil Serpent"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2026-02-11",
-            "player": "ice_nine_BIGFAN",
+            "date": "2026-02-12",
+            "player": "Michelino",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-02-1110228#deck_ice_nine_BIGFAN",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-02-1210228#deck_Michelino",
             "mainboard": [
                 {
                     "count": 1,
@@ -198,27 +194,23 @@
                 },
                 {
                     "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
                     "name": "Mox Sapphire"
                 },
                 {
-                    "count": 4,
-                    "name": "Collector Ouphe"
+                    "count": 1,
+                    "name": "Snapcaster Mage"
                 },
                 {
                     "count": 3,
-                    "name": "Hullbreacher"
-                },
-                {
-                    "count": 2,
-                    "name": "Murktide Regent"
-                },
-                {
-                    "count": 4,
-                    "name": "Psychic Frog"
-                },
-                {
-                    "count": 2,
-                    "name": "Abrupt Decay"
+                    "name": "Wan Shi Tong, Librarian"
                 },
                 {
                     "count": 1,
@@ -230,22 +222,14 @@
                 },
                 {
                     "count": 1,
-                    "name": "Daze"
-                },
-                {
-                    "count": 1,
                     "name": "Dig Through Time"
-                },
-                {
-                    "count": 2,
-                    "name": "Fatal Push"
                 },
                 {
                     "count": 2,
                     "name": "Flusterstorm"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Force of Negation"
                 },
                 {
@@ -253,8 +237,8 @@
                     "name": "Force of Will"
                 },
                 {
-                    "count": 1,
-                    "name": "Gush"
+                    "count": 2,
+                    "name": "Mana Drain"
                 },
                 {
                     "count": 1,
@@ -262,35 +246,47 @@
                 },
                 {
                     "count": 2,
-                    "name": "Spell Pierce"
+                    "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 1,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 1,
-                    "name": "Hedge Maze"
+                    "count": 2,
+                    "name": "Swords to Plowshares"
                 },
                 {
                     "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
                     "name": "Misty Rainforest"
                 },
                 {
-                    "count": 3,
-                    "name": "Polluted Delta"
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
                 },
                 {
                     "count": 1,
                     "name": "Strip Mine"
                 },
                 {
-                    "count": 2,
-                    "name": "Tropical Island"
+                    "count": 3,
+                    "name": "Tundra"
                 },
                 {
-                    "count": 3,
-                    "name": "Underground Sea"
+                    "count": 1,
+                    "name": "Urza's Saga"
                 },
                 {
                     "count": 3,
@@ -298,144 +294,73 @@
                 },
                 {
                     "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
                     "name": "Gitaxian Probe"
                 },
                 {
                     "count": 2,
+                    "name": "Lórien Revealed"
+                },
+                {
+                    "count": 4,
                     "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Stock Up"
                 },
                 {
                     "count": 1,
                     "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Treasure Cruise"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Abrupt Decay"
-                },
-                {
                     "count": 2,
-                    "name": "Crime/Punishment"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
+                    "name": "Containment Priest"
                 },
                 {
                     "count": 1,
-                    "name": "The Tabernacle at Pendrell Vale"
-                },
-                {
-                    "count": 4,
-                    "name": "Void Mirror"
-                },
-                {
-                    "count": 3,
-                    "name": "Yixlid Jailer"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-02-11",
-            "player": "JustABee5",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-02-1110228#deck_JustABee5",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 1,
-                    "name": "Golgari Grave-Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Golgari Thug"
-                },
-                {
-                    "count": 4,
-                    "name": "Grief"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichorid"
-                },
-                {
-                    "count": 4,
-                    "name": "Narcomoeba"
-                },
-                {
-                    "count": 4,
-                    "name": "Prized Amalgam"
-                },
-                {
-                    "count": 4,
-                    "name": "Shambling Shell"
-                },
-                {
-                    "count": 4,
-                    "name": "Silversmote Ghoul"
-                },
-                {
-                    "count": 4,
-                    "name": "Stinkweed Imp"
-                },
-                {
-                    "count": 4,
                     "name": "Force of Negation"
                 },
                 {
-                    "count": 4,
-                    "name": "Force of Will"
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
                 },
                 {
                     "count": 1,
-                    "name": "Mental Misstep"
+                    "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 4,
-                    "name": "Creeping Chill"
+                    "count": 2,
+                    "name": "Overencumbered"
                 },
                 {
                     "count": 1,
-                    "name": "Gitaxian Probe"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Force of Vigor"
+                    "name": "Pithing Needle"
                 },
                 {
-                    "count": 4,
-                    "name": "Leyline of the Void"
+                    "count": 1,
+                    "name": "Seal of Cleansing"
                 },
                 {
-                    "count": 4,
-                    "name": "Noxious Revival"
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
                 },
                 {
                     "count": 3,
-                    "name": "Sickening Shoal"
+                    "name": "Stony Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
                 }
             ],
             "notes": null
