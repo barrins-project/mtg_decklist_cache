@@ -100,135 +100,286 @@
         },
         {
             "date": "2026-03-15",
-            "player": "GlimpseOfRandomness",
+            "player": "heavyplayed",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_GlimpseOfRandomness",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_heavyplayed",
             "mainboard": [
                 {
-                    "count": 4,
-                    "name": "Argothian Enchantress"
+                    "count": 1,
+                    "name": "Akroma, Angel of Wrath"
                 },
                 {
                     "count": 1,
-                    "name": "Elephant Grass"
+                    "name": "Battlefield Scrounger"
                 },
                 {
                     "count": 4,
-                    "name": "Enchantress's Presence"
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Spirit Guide"
                 },
                 {
                     "count": 4,
-                    "name": "Exploration"
-                },
-                {
-                    "count": 3,
-                    "name": "Mirri's Guile"
-                },
-                {
-                    "count": 2,
-                    "name": "Opalescence"
-                },
-                {
-                    "count": 2,
-                    "name": "Parallax Wave"
-                },
-                {
-                    "count": 3,
-                    "name": "Seal of Cleansing"
-                },
-                {
-                    "count": 2,
-                    "name": "Solitary Confinement"
-                },
-                {
-                    "count": 4,
-                    "name": "Sterling Grove"
+                    "name": "Hermit Druid"
                 },
                 {
                     "count": 1,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Growth"
-                },
-                {
-                    "count": 3,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 4,
-                    "name": "Brushland"
-                },
-                {
-                    "count": 4,
-                    "name": "Serra's Sanctum"
-                },
-                {
-                    "count": 5,
-                    "name": "Snow-Covered Forest"
-                },
-                {
-                    "count": 3,
-                    "name": "Snow-Covered Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
+                    "name": "Karmic Guide"
                 },
                 {
                     "count": 1,
-                    "name": "Replenish"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aura of Silence"
-                },
-                {
-                    "count": 2,
-                    "name": "Defense Grid"
-                },
-                {
-                    "count": 2,
-                    "name": "Elephant Grass"
+                    "name": "Palinchron"
                 },
                 {
                     "count": 1,
-                    "name": "Gaea's Blessing"
+                    "name": "Phyrexian Devourer"
+                },
+                {
+                    "count": 1,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Triskelion"
+                },
+                {
+                    "count": 2,
+                    "name": "Volrath's Shapeshifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 1,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
                 },
                 {
                     "count": 1,
                     "name": "Krosan Reclamation"
                 },
                 {
-                    "count": 1,
-                    "name": "Replenish"
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 3,
+                    "name": "Reflecting Pool"
                 },
                 {
                     "count": 1,
-                    "name": "Sacred Ground"
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 1,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Auramancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Crumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghitu Slinger"
+                },
+                {
+                    "count": 1,
+                    "name": "Monk Realist"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
                 },
                 {
                     "count": 1,
                     "name": "Swords to Plowshares"
                 },
                 {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
                     "count": 2,
+                    "name": "Xantid Swarm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-03-15",
+            "player": "Pizzapiebob",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_Pizzapiebob",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 1,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Mogg Salvage"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
                     "name": "Tormod's Crypt"
                 },
                 {
-                    "count": 1,
-                    "name": "Tsabo's Web"
-                },
-                {
-                    "count": 1,
-                    "name": "Worship"
+                    "count": 3,
+                    "name": "Tranquil Domain"
                 }
             ],
             "notes": null
@@ -343,6 +494,117 @@
                 },
                 {
                     "count": 2,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-03-15",
+            "player": "goldfishturn",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_goldfishturn",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Anger"
+                },
+                {
+                    "count": 3,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 4,
+                    "name": "Multani's Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 2,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Skyshroud Poacher"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 3,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Granger"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 10,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Reclamation"
+                },
+                {
+                    "count": 2,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
                     "name": "Tormod's Crypt"
                 }
             ],
@@ -691,119 +953,135 @@
         },
         {
             "date": "2026-03-15",
-            "player": "Pizzapiebob",
+            "player": "GlimpseOfRandomness",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_Pizzapiebob",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-03-1510365#deck_GlimpseOfRandomness",
             "mainboard": [
                 {
-                    "count": 3,
-                    "name": "Gempalm Incinerator"
+                    "count": 4,
+                    "name": "Argothian Enchantress"
                 },
                 {
                     "count": 1,
-                    "name": "Goblin King"
+                    "name": "Elephant Grass"
                 },
                 {
                     "count": 4,
-                    "name": "Goblin Lackey"
+                    "name": "Enchantress's Presence"
                 },
                 {
                     "count": 4,
-                    "name": "Goblin Matron"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Piledriver"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Ringleader"
-                },
-                {
-                    "count": 1,
-                    "name": "Goblin Sharpshooter"
-                },
-                {
-                    "count": 1,
-                    "name": "Goblin Tinkerer"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Warchief"
-                },
-                {
-                    "count": 4,
-                    "name": "Mogg Fanatic"
+                    "name": "Exploration"
                 },
                 {
                     "count": 3,
-                    "name": "Siege-Gang Commander"
-                },
-                {
-                    "count": 1,
-                    "name": "Skirk Prospector"
-                },
-                {
-                    "count": 3,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Karplusan Forest"
-                },
-                {
-                    "count": 8,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Rishadan Port"
+                    "name": "Mirri's Guile"
                 },
                 {
                     "count": 2,
-                    "name": "Wasteland"
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitary Confinement"
                 },
                 {
                     "count": 4,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
                     "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Crumble"
+                    "count": 2,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Elephant Grass"
                 },
                 {
                     "count": 1,
-                    "name": "Goblin Sharpshooter"
+                    "name": "Gaea's Blessing"
                 },
                 {
                     "count": 1,
-                    "name": "Mogg Salvage"
+                    "name": "Krosan Reclamation"
                 },
                 {
                     "count": 1,
-                    "name": "Naturalize"
+                    "name": "Replenish"
                 },
                 {
                     "count": 1,
-                    "name": "Pyrokinesis"
+                    "name": "Sacred Ground"
                 },
                 {
-                    "count": 4,
-                    "name": "Red Elemental Blast"
+                    "count": 1,
+                    "name": "Swords to Plowshares"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Tormod's Crypt"
                 },
                 {
-                    "count": 3,
-                    "name": "Tranquil Domain"
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
                 }
             ],
             "notes": null
