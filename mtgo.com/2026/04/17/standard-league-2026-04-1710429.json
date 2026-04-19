@@ -9,10 +9,14 @@
     "decks": [
         {
             "date": "2026-04-17",
-            "player": "L1X0",
+            "player": "_ZNT_",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_L1X0",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck__ZNT_",
             "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Lumbering Worldwagon"
+                },
                 {
                     "count": 4,
                     "name": "Badgermole Cub"
@@ -30,35 +34,27 @@
                     "name": "Mightform Harmonizer"
                 },
                 {
-                    "count": 3,
-                    "name": "Mossborn Hydra"
-                },
-                {
                     "count": 4,
                     "name": "Sazh's Chocobo"
-                },
-                {
-                    "count": 1,
-                    "name": "Surrak, Elusive Hunter"
                 },
                 {
                     "count": 4,
                     "name": "Earthbender Ascension"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Meltstrider's Resolve"
                 },
                 {
-                    "count": 4,
-                    "name": "Royal Treatment"
+                    "count": 1,
+                    "name": "Archdruid's Charm"
                 },
                 {
                     "count": 3,
                     "name": "Ba Sing Se"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Escape Tunnel"
                 },
                 {
@@ -66,78 +62,86 @@
                     "name": "Fabled Passage"
                 },
                 {
-                    "count": 13,
+                    "count": 15,
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Promising Vein"
+                },
+                {
+                    "count": 3,
+                    "name": "Esper Origins"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Leatherhead, Swamp Stalker"
+                    "name": "Archdruid's Charm"
                 },
                 {
                     "count": 2,
-                    "name": "Meltstrider's Resolve"
+                    "name": "Keen-Eyed Curator"
                 },
                 {
-                    "count": 2,
-                    "name": "Origin of Metalbending"
+                    "count": 4,
+                    "name": "Mossborn Hydra"
                 },
                 {
                     "count": 2,
                     "name": "Pawpatch Formation"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Sapling Nursery"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrapshooter"
                 },
                 {
                     "count": 2,
                     "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 2,
-                    "name": "Torpor Orb"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-04-17",
-            "player": "tarkanmag",
+            "player": "toondoslav",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_tarkanmag",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_toondoslav",
             "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Belion, the Parched"
-                },
                 {
                     "count": 4,
                     "name": "Eddymurk Crab"
                 },
                 {
-                    "count": 3,
-                    "name": "Eluge, the Shoreless Sea"
+                    "count": 1,
+                    "name": "Hearth Elemental"
                 },
                 {
                     "count": 4,
-                    "name": "Sunderflock"
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Roaring Furnace // Steaming Sauna"
                 },
                 {
                     "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 2,
                     "name": "Bounce Off"
                 },
                 {
-                    "count": 3,
-                    "name": "Consult the Star Charts"
+                    "count": 4,
+                    "name": "Burst Lightning"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Get Out"
                 },
                 {
@@ -145,20 +149,32 @@
                     "name": "Opt"
                 },
                 {
-                    "count": 3,
-                    "name": "Three Steps Ahead"
+                    "count": 1,
+                    "name": "Sear"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
                 },
                 {
                     "count": 2,
-                    "name": "Unsummon"
+                    "name": "Multiversal Passage"
                 },
                 {
-                    "count": 1,
-                    "name": "Agna Qel'a"
+                    "count": 4,
+                    "name": "Riverpyre Verge"
                 },
                 {
-                    "count": 19,
-                    "name": "Island"
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
                 },
                 {
                     "count": 4,
@@ -166,37 +182,49 @@
                 },
                 {
                     "count": 4,
-                    "name": "Winternight Stories"
+                    "name": "Stock Up"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Aetherize"
-                },
-                {
-                    "count": 2,
                     "name": "Annul"
                 },
                 {
-                    "count": 2,
-                    "name": "Detect Intrusion"
+                    "count": 1,
+                    "name": "Broadside Barrage"
+                },
+                {
+                    "count": 1,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 1,
+                    "name": "Hearth Elemental"
                 },
                 {
                     "count": 2,
-                    "name": "Glen Elendra's Answer"
+                    "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "Sear"
+                },
+                {
+                    "count": 2,
                     "name": "Soul-Guide Lantern"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Spell Snare"
                 },
                 {
-                    "count": 2,
-                    "name": "The Legend of Kuruk"
+                    "count": 3,
+                    "name": "Sunderflock"
                 }
             ],
             "notes": null
@@ -437,40 +465,36 @@
         },
         {
             "date": "2026-04-17",
-            "player": "toondoslav",
+            "player": "tarkanmag",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_toondoslav",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_tarkanmag",
             "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Belion, the Parched"
+                },
                 {
                     "count": 4,
                     "name": "Eddymurk Crab"
                 },
                 {
-                    "count": 1,
-                    "name": "Hearth Elemental"
+                    "count": 3,
+                    "name": "Eluge, the Shoreless Sea"
                 },
                 {
                     "count": 4,
-                    "name": "Slickshot Show-Off"
-                },
-                {
-                    "count": 1,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "name": "Sunderflock"
                 },
                 {
                     "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 2,
                     "name": "Bounce Off"
                 },
                 {
-                    "count": 4,
-                    "name": "Burst Lightning"
+                    "count": 3,
+                    "name": "Consult the Star Charts"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Get Out"
                 },
                 {
@@ -478,32 +502,20 @@
                     "name": "Opt"
                 },
                 {
-                    "count": 1,
-                    "name": "Sear"
-                },
-                {
-                    "count": 7,
-                    "name": "Island"
+                    "count": 3,
+                    "name": "Three Steps Ahead"
                 },
                 {
                     "count": 2,
-                    "name": "Multiversal Passage"
+                    "name": "Unsummon"
                 },
                 {
-                    "count": 4,
-                    "name": "Riverpyre Verge"
+                    "count": 1,
+                    "name": "Agna Qel'a"
                 },
                 {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
+                    "count": 19,
+                    "name": "Island"
                 },
                 {
                     "count": 4,
@@ -511,63 +523,47 @@
                 },
                 {
                     "count": 4,
-                    "name": "Stock Up"
+                    "name": "Winternight Stories"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
+                    "name": "Aetherize"
+                },
+                {
+                    "count": 2,
                     "name": "Annul"
                 },
                 {
-                    "count": 1,
-                    "name": "Broadside Barrage"
-                },
-                {
-                    "count": 1,
-                    "name": "Fire Magic"
-                },
-                {
-                    "count": 1,
-                    "name": "Ghost Vacuum"
-                },
-                {
-                    "count": 1,
-                    "name": "Hearth Elemental"
+                    "count": 2,
+                    "name": "Detect Intrusion"
                 },
                 {
                     "count": 2,
-                    "name": "Ral, Crackling Wit"
-                },
-                {
-                    "count": 1,
-                    "name": "Sear"
-                },
-                {
-                    "count": 2,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Spell Snare"
+                    "name": "Glen Elendra's Answer"
                 },
                 {
                     "count": 3,
-                    "name": "Sunderflock"
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "The Legend of Kuruk"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-04-17",
-            "player": "_ZNT_",
+            "player": "L1X0",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck__ZNT_",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck_L1X0",
             "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Lumbering Worldwagon"
-                },
                 {
                     "count": 4,
                     "name": "Badgermole Cub"
@@ -585,27 +581,35 @@
                     "name": "Mightform Harmonizer"
                 },
                 {
+                    "count": 3,
+                    "name": "Mossborn Hydra"
+                },
+                {
                     "count": 4,
                     "name": "Sazh's Chocobo"
+                },
+                {
+                    "count": 1,
+                    "name": "Surrak, Elusive Hunter"
                 },
                 {
                     "count": 4,
                     "name": "Earthbender Ascension"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Meltstrider's Resolve"
                 },
                 {
-                    "count": 1,
-                    "name": "Archdruid's Charm"
+                    "count": 4,
+                    "name": "Royal Treatment"
                 },
                 {
                     "count": 3,
                     "name": "Ba Sing Se"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Escape Tunnel"
                 },
                 {
@@ -613,46 +617,42 @@
                     "name": "Fabled Passage"
                 },
                 {
-                    "count": 15,
+                    "count": 13,
                     "name": "Forest"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Promising Vein"
-                },
-                {
-                    "count": 3,
-                    "name": "Esper Origins"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Archdruid's Charm"
+                    "name": "Leatherhead, Swamp Stalker"
                 },
                 {
                     "count": 2,
-                    "name": "Keen-Eyed Curator"
+                    "name": "Meltstrider's Resolve"
                 },
                 {
-                    "count": 4,
-                    "name": "Mossborn Hydra"
+                    "count": 2,
+                    "name": "Origin of Metalbending"
                 },
                 {
                     "count": 2,
                     "name": "Pawpatch Formation"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Sapling Nursery"
-                },
-                {
-                    "count": 1,
-                    "name": "Scrapshooter"
                 },
                 {
                     "count": 2,
                     "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Torpor Orb"
                 }
             ],
             "notes": null
