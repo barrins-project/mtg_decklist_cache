@@ -1,0 +1,957 @@
+{
+    "tournament": {
+        "date": "2026-04-20",
+        "name": "MTGO League",
+        "url": "https://mtgtop8.com/event?e=83806",
+        "format": "Premodern",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2026-04-20",
+            "player": "Kampo",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836651&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Peek"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 17,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 1,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Flare"
+                },
+                {
+                    "count": 2,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "The primary focus of this deck is to quickly assemble the combo of Phyrexian Dreadnought and Stifle to create a powerful threat while preventing the opponent from countering or stopping the combo. The deck includes various cards to dig for the combo pieces, protect them, and disrupt the opponent's game plan. By efficiently utilizing counterspells and card draw spells, the deck aims to execute its game plan smoothly and efficiently, ultimately achieving victory through the powerful synergy between Phyrexian Dreadnought and Stifle."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "Iwouldliketorespond",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836652&f=PREM",
+            "mainboard": [
+                {
+                    "count": 16,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Sapphire Medallion"
+                },
+                {
+                    "count": 4,
+                    "name": "Helm of Awakening"
+                },
+                {
+                    "count": 4,
+                    "name": "Cloud of Faeries"
+                },
+                {
+                    "count": 3,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 3,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Meditate"
+                },
+                {
+                    "count": 4,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi's Isle"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Words of Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 2,
+                    "name": "Cunning Wish"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                }
+            ],
+            "notes": "The main focus of this deck is to generate as much mana as possible using cards like Sapphire Medallion and Helm of Awakening to cast a large number of spells in a single turn. This is achieved through using cards like Cloud of Faeries and Snap to untap lands and generate more mana, eventually leading to a combo finish with Brain Freeze to mill the opponent's entire library. The deck also includes card draw and tutoring effects to help find key pieces of the combo, ultimately aiming to win the game through a storm of spells."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "abuba",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836653&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Skittering Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 17,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 3,
+                    "name": "Pox"
+                },
+                {
+                    "count": 3,
+                    "name": "Bottomless Pit"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 3,
+                    "name": "Funeral Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Innocent Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "The Rack"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Smog"
+                },
+                {
+                    "count": 1,
+                    "name": "Megrim"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Spitter"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Infest"
+                },
+                {
+                    "count": 4,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Bottle Gnomes"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                }
+            ],
+            "notes": "The Mono Black Control deck's strategy revolves around disrupting the opponent's hand with discard cards like Duress and Cabal Therapy, while also controlling the board with removal spells like Smother and Innocent Blood. The deck aims to lock down the opponent by forcing them to discard cards and sacrifice creatures, all while applying pressure with cards like The Rack and Ravenous Rats. With cards like Pox and Bottomless Pit to further disrupt the opponent's resources, the Mono Black Control deck looks to grind out a victory through attrition and resource denial."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "Muril0Ambra",
+            "result": 4,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836654&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Bane of the Living"
+                },
+                {
+                    "count": 4,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 1,
+                    "name": "Spawning Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Nantuko Shade"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Graveborn Muse"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 17,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Graveborn Muse"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 1,
+                    "name": "Plaguebearer"
+                },
+                {
+                    "count": 4,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 1,
+                    "name": "Drain Life"
+                }
+            ],
+            "notes": "The Mono Black Aggro deck focuses on aggressively attacking the opponent while disrupting their game plan with discard spells like Cabal Therapy and Duress. The deck aims to maintain board control with creatures like Withered Wretch and Nantuko Shade while using efficient removal spells like Smother and Chainer's Edict to deal with threats. The mana acceleration provided by Dark Ritual allows for explosive starts, and Mishra's Factory provides additional creature threats. The deck aims to overwhelm the opponent quickly and efficiently to secure a victory."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "goldfishturn",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836655&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 3,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 2,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 10,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Multani's Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Granger"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 3,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyshroud Poacher"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 2,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 1,
+                    "name": "Thornscape Battlemage"
+                },
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly generate mana through creatures like Llanowar Elves and Priest of Titania to ramp into powerful threats like Deranged Hermit and Masticore. The deck also utilizes cards like Wirewood Symbiote and Quirion Ranger to untap creatures for additional mana production. Survival of the Fittest is used to tutor for key creatures like Multani's Acolyte or Squee, Goblin Nabob. The goal is to overwhelm the opponent with a fast and aggressive Elf tribal strategy, leveraging the power of Gaea's Cradle for explosive plays."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "Wizard_2002",
+            "result": 6,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836656&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 3,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Justice"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 1,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 2,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of God"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi's Response"
+                }
+            ],
+            "notes": "The deck focuses on using control through counterspells and removal spells, while also gaining card advantage with cards like Fact or Fiction and Standstill. It aims to keep the opponent's threats in check while developing its own board presence with efficient creatures like Exalted Angel and Mishra's Factory. It also has ways to disrupt the opponent's lands with Dust Bowl and has access to mass removal with cards like Wrath of God. Overall, the deck is designed to control the game and grind out victories through attrition."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "elpariah",
+            "result": 7,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836657&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 2,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 3,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Mirri's Guile"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphere of Law"
+                },
+                {
+                    "count": 3,
+                    "name": "Xantid Swarm"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Compost"
+                }
+            ],
+            "notes": "The main concept of this deck is to create a powerful combo using enchantments to control the board and generate card advantage. The deck focuses on playing enchantresses like Argothian Enchantress to draw cards whenever you cast an enchantment, while also utilizing cards like Enchantress's Presence and Mirri's Guile to filter through your deck. The key combo involves using cards like Opalescence and Parallax Wave to manipulate the board state, while also having cards like Solitary Confinement to protect yourself. The deck also includes cards like Replenish and Sterling Grove to further enhance your enchantment strategy."
+        },
+        {
+            "date": "2026-04-20",
+            "player": "Williambax",
+            "result": 8,
+            "anchor_uri": "https://mtgtop8.com/event?e=83806&d=836658&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 1,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of God"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Presence of the Master"
+                },
+                {
+                    "count": 3,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Meddling Mage"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by utilizing counter spells, removal, and card advantage to eventually overwhelm the opponent. By using cards like Counterspell, Swords to Plowshares, and Fact or Fiction, the deck aims to control the board and disrupt the opponent's strategy. Standstill is a key card in this archetype, allowing the player to draw cards while forcing the opponent to make difficult decisions. The deck also includes win conditions like Exalted Angel and Decree of Justice to close out the game once the opponent has been neutralized."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
