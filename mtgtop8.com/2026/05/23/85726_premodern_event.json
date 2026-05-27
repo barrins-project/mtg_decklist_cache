@@ -1,0 +1,973 @@
+{
+    "tournament": {
+        "date": "2026-05-23",
+        "name": "Event",
+        "url": "https://mtgtop8.com/event?e=85726",
+        "format": "Premodern",
+        "players": 17
+    },
+    "decks": [
+        {
+            "date": "2026-05-23",
+            "player": "Nicolas Fama",
+            "result": 1,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851231&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 1,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Thornscape Apprentice"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 3,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Thicket"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Zuran Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Cataclysm"
+                }
+            ],
+            "notes": "This deck focuses on aggressive play using cards like Meddling Mage and Terravore to pressure the opponent's life total. Weathered Wayfarer helps find important lands like Gemstone Mine and Wasteland. Armageddon is used to disrupt the opponent's mana base while also benefiting from it with cards like Terravore. The deck aims to establish early board presence, disrupt the opponent's resources, and close out the game quickly. The inclusion of cards like Swords to Plowshares and Seal of Cleansing provide additional removal and disruption options to help secure victory."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Sebastian Bosco",
+            "result": 2,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851232&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Goon"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Reclamation"
+                }
+            ],
+            "notes": "The main concept of this Aggro Goblins deck is to overwhelm the opponent with fast and efficient creatures, such as Goblin Lackey, Goblin Piledriver, and Siege-Gang Commander. This deck aims to quickly build a board presence and push through damage to win the game as quickly as possible. With cards like Goblin Matron to search for key pieces and Gempalm Incinerator for removal, this deck is designed to be aggressive and put pressure on the opponent from the start. The inclusion of Lightning Bolt and Wasteland adds some control elements to disrupt the opponent's strategy."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Javier Luna",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851233&f=PREM",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 1,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Goon"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Overload"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                }
+            ],
+            "notes": "This goblin aggro deck focuses on deploying strong, cheap creatures quickly to overwhelm opponents before they can establish a defense. With cards like Goblin Lackey and Goblin Matron to search for key pieces, combined with haste from Goblin Warchief and power boosts from Goblin Piledriver, the deck aims to end the game swiftly. The inclusion of removal spells like Gempalm Incinerator and utility creatures like Siege-Gang Commander add versatility to the strategy, while mana disruption from Wasteland and Rishadan Port helps in disrupting the opponent's game plan."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Fede Lanzi",
+            "result": 3,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851234&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Bane of the Living"
+                },
+                {
+                    "count": 2,
+                    "name": "Graveborn Muse"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 2,
+                    "name": "Knight of Stromgald"
+                },
+                {
+                    "count": 2,
+                    "name": "Nantuko Shade"
+                },
+                {
+                    "count": 1,
+                    "name": "Plaguebearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Pit"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 15,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Drain Life"
+                },
+                {
+                    "count": 3,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Gloom"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent quickly by playing efficient and aggressive creatures like Hypnotic Specter, Nantuko Shade, and Knight of Stromgald. Utilizing powerful disruption spells like Duress, Cabal Therapy, and Unmask to control the opponent's hand and keep them on the back foot. The deck also incorporates removal spells like Chainer's Edict and Snuff Out to deal with any threats on the board. The mana base is streamlined with efficient lands like Mishra's Factory and Wasteland to ensure consistency in casting spells and maintaining board presence."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Kiel Cruz",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851236&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Eternal Dragon"
+                },
+                {
+                    "count": 2,
+                    "name": "Bane of the Living"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Skeletal Scrying"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Gerrard's Verdict"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Justice"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 9,
+                    "name": "Plains"
+                },
+                {
+                    "count": 9,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Reflecting Pool"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Cleansing Meditation"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunting Echoes"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Akroma's Vengeance"
+                },
+                {
+                    "count": 1,
+                    "name": "Planar Birth"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through removal spells and hand disruption, while also generating card advantage with cards like Skeletal Scrying. The deck aims to answer threats with cards like Swords to Plowshares and Vindicate, while also being able to create a board presence with creatures like Exalted Angel and Eternal Dragon. The deck also has ways to deal with mass creature boards with cards like Decree of Justice and Wrath of God. With a mix of removal, card advantage, and threats, the deck aims to outvalue and outlast the opponent."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Demian Vernieri",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851235&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 2,
+                    "name": "Absorb"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Justice"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 3,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 1,
+                    "name": "Humility"
+                },
+                {
+                    "count": 3,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 1,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi's Response"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Arcane Laboratory"
+                },
+                {
+                    "count": 1,
+                    "name": "Presence of the Master"
+                }
+            ],
+            "notes": "The deck focuses on using control elements to disrupt the opponent's strategy while using resource denial through cards like Standstill and Dust Bowl. It aims to control the game by countering threats, removing key permanents, and eventually overwhelming the opponent with card advantage and powerful finishers like Decree of Justice. The mana base is designed to provide consistent access to all necessary colors while also being able to activate manlands like Mishra's Factory and Faerie Conclave for additional threats. The key strategy is to outvalue and outlast the opponent through careful resource management."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Martin Oviedo",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851238&f=PREM",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Graveborn Muse"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 2,
+                    "name": "Knight of Stromgald"
+                },
+                {
+                    "count": 3,
+                    "name": "Nantuko Shade"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 17,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 3,
+                    "name": "Gloom"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The Mono Black Aggro deck aims to overwhelm opponents with early creature pressure and disruption spells. By utilizing low-cost aggressive creatures like Hypnotic Specter and Nantuko Shade, along with discard spells like Duress and Cabal Therapy, the deck aims to disrupt the opponent's game plan while dealing consistent damage. The inclusion of Wasteland also helps in disrupting the opponent's mana base. With a focus on early aggression and disruption, this deck aims to quickly close out games before the opponent can stabilize."
+        },
+        {
+            "date": "2026-05-23",
+            "player": "Damian Albenis",
+            "result": 5,
+            "anchor_uri": "https://mtgtop8.com/event?e=85726&d=851237&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 3,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 3,
+                    "name": "Winter's Grasp"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 2,
+                    "name": "Stone Rain"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Zuran Orb"
+                }
+            ],
+            "notes": "The main concept of this deck is centered around utilizing control elements like Pyroclasm, Naturalize, and Earthquake to disrupt the opponent's game plan while also ramping up with cards like Mox Diamond and Terravore. Oath of Druids serves as a key piece of the deck, allowing for powerful creatures to be put into play early on. The land destruction package with cards like Wasteland and Stone Rain further stifles the opponent's resources, while also utilizing creature lands like Mishra's Factory and Treetop Village for additional threats. Overall, the deck focuses on controlling the game and quickly deploying powerful creatures to secure victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}
