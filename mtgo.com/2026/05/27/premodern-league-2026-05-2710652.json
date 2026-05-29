@@ -9,24 +9,36 @@
     "decks": [
         {
             "date": "2026-05-27",
-            "player": "Gwaihir3011",
+            "player": "Negator87",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Gwaihir3011",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Negator87",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Attunement"
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 1,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
                 },
                 {
                     "count": 3,
-                    "name": "Decree of Silence"
+                    "name": "Exploration"
                 },
                 {
                     "count": 4,
+                    "name": "Mirri's Guile"
+                },
+                {
+                    "count": 2,
                     "name": "Opalescence"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Parallax Wave"
                 },
                 {
@@ -34,16 +46,480 @@
                     "name": "Seal of Cleansing"
                 },
                 {
-                    "count": 3,
-                    "name": "Frantic Search"
+                    "count": 2,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 4,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Abeyance"
                 },
                 {
                     "count": 3,
-                    "name": "Intuition"
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Forest"
                 },
                 {
                     "count": 3,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 2,
+                    "name": "Xantid Swarm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "montreal_premodern",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_montreal_premodern",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 1,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 3,
+                    "name": "Forsaken City"
+                },
+                {
+                    "count": 19,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 1,
+                    "name": "Upheaval"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 2,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Tears"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "Bobitobobi",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Bobitobobi",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 1,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Mirri's Guile"
+                },
+                {
+                    "count": 2,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 3,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 2,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Reclamation"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 2,
+                    "name": "Xantid Swarm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "Demian77",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Demian77",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 3,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Peek"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 17,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Flare"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "NicoStuzzi",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_NicoStuzzi",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Humility"
+                },
+                {
+                    "count": 4,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
                     "name": "Mana Leak"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
                 },
                 {
                     "count": 4,
@@ -54,8 +530,16 @@
                     "name": "Adarkar Wastes"
                 },
                 {
-                    "count": 4,
-                    "name": "Ancient Tomb"
+                    "count": 1,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Conclave"
                 },
                 {
                     "count": 4,
@@ -66,46 +550,50 @@
                     "name": "Island"
                 },
                 {
-                    "count": 5,
+                    "count": 1,
+                    "name": "Kor Haven"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
                     "name": "Plains"
                 },
                 {
                     "count": 3,
-                    "name": "Skycloud Expanse"
+                    "name": "Decree of Justice"
                 },
                 {
-                    "count": 4,
-                    "name": "Replenish"
+                    "count": 2,
+                    "name": "Wrath of God"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
-                    "name": "Abeyance"
+                    "count": 4,
+                    "name": "Annul"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 4,
                     "name": "Blue Elemental Blast"
                 },
                 {
                     "count": 1,
-                    "name": "Conversion"
+                    "name": "Circle of Protection: Red"
                 },
                 {
                     "count": 2,
-                    "name": "Exalted Angel"
+                    "name": "Teferi's Response"
                 },
                 {
-                    "count": 4,
-                    "name": "Meddling Mage"
-                },
-                {
-                    "count": 3,
-                    "name": "Orim's Chant"
-                },
-                {
-                    "count": 1,
-                    "name": "Wrath of God"
+                    "count": 2,
+                    "name": "Thawing Glaciers"
                 }
             ],
             "notes": null
@@ -245,403 +733,6 @@
                 {
                     "count": 2,
                     "name": "Xantid Swarm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "trussell48",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_trussell48",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Argothian Enchantress"
-                },
-                {
-                    "count": 1,
-                    "name": "Elephant Grass"
-                },
-                {
-                    "count": 4,
-                    "name": "Enchantress's Presence"
-                },
-                {
-                    "count": 4,
-                    "name": "Exploration"
-                },
-                {
-                    "count": 4,
-                    "name": "Mirri's Guile"
-                },
-                {
-                    "count": 2,
-                    "name": "Opalescence"
-                },
-                {
-                    "count": 2,
-                    "name": "Parallax Wave"
-                },
-                {
-                    "count": 3,
-                    "name": "Seal of Cleansing"
-                },
-                {
-                    "count": 2,
-                    "name": "Solitary Confinement"
-                },
-                {
-                    "count": 3,
-                    "name": "Sterling Grove"
-                },
-                {
-                    "count": 1,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Growth"
-                },
-                {
-                    "count": 1,
-                    "name": "Abeyance"
-                },
-                {
-                    "count": 2,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 4,
-                    "name": "Brushland"
-                },
-                {
-                    "count": 6,
-                    "name": "Forest"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Serra's Sanctum"
-                },
-                {
-                    "count": 4,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 1,
-                    "name": "Replenish"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Abeyance"
-                },
-                {
-                    "count": 2,
-                    "name": "Aura of Silence"
-                },
-                {
-                    "count": 1,
-                    "name": "Gaea's Blessing"
-                },
-                {
-                    "count": 1,
-                    "name": "Karmic Justice"
-                },
-                {
-                    "count": 1,
-                    "name": "Krosan Reclamation"
-                },
-                {
-                    "count": 1,
-                    "name": "Ray of Revelation"
-                },
-                {
-                    "count": 1,
-                    "name": "Replenish"
-                },
-                {
-                    "count": 1,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 1,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 2,
-                    "name": "Tsabo's Web"
-                },
-                {
-                    "count": 2,
-                    "name": "Xantid Swarm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "PedraStone",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_PedraStone",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Powder Keg"
-                },
-                {
-                    "count": 4,
-                    "name": "Phyrexian Dreadnought"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Daze"
-                },
-                {
-                    "count": 2,
-                    "name": "Flash of Insight"
-                },
-                {
-                    "count": 4,
-                    "name": "Foil"
-                },
-                {
-                    "count": 4,
-                    "name": "Gush"
-                },
-                {
-                    "count": 2,
-                    "name": "Impulse"
-                },
-                {
-                    "count": 1,
-                    "name": "Misdirection"
-                },
-                {
-                    "count": 4,
-                    "name": "Opt"
-                },
-                {
-                    "count": 1,
-                    "name": "Peek"
-                },
-                {
-                    "count": 4,
-                    "name": "Stifle"
-                },
-                {
-                    "count": 1,
-                    "name": "Thwart"
-                },
-                {
-                    "count": 4,
-                    "name": "Vision Charm"
-                },
-                {
-                    "count": 17,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Portent"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Annul"
-                },
-                {
-                    "count": 4,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Brain Freeze"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 3,
-                    "name": "Essence Flare"
-                },
-                {
-                    "count": 2,
-                    "name": "Tsabo's Web"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "Memories_of_the_Time",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Memories_of_the_Time",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Deranged Hermit"
-                },
-                {
-                    "count": 1,
-                    "name": "Genesis"
-                },
-                {
-                    "count": 1,
-                    "name": "Gigapede"
-                },
-                {
-                    "count": 1,
-                    "name": "Krosan Tusker"
-                },
-                {
-                    "count": 2,
-                    "name": "Mogg Bombers"
-                },
-                {
-                    "count": 1,
-                    "name": "Ravenous Baloth"
-                },
-                {
-                    "count": 1,
-                    "name": "Spore Frog"
-                },
-                {
-                    "count": 4,
-                    "name": "Veteran Explorer"
-                },
-                {
-                    "count": 4,
-                    "name": "Wall of Blossoms"
-                },
-                {
-                    "count": 4,
-                    "name": "Pernicious Deed"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 4,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 1,
-                    "name": "City of Brass"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Karplusan Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Llanowar Wastes"
-                },
-                {
-                    "count": 2,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Treetop Village"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 3,
-                    "name": "Buried Alive"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning Wish"
-                },
-                {
-                    "count": 3,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 1,
-                    "name": "Diabolic Intent"
-                },
-                {
-                    "count": 3,
-                    "name": "Living Death"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Buried Alive"
-                },
-                {
-                    "count": 1,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 1,
-                    "name": "Duress"
-                },
-                {
-                    "count": 1,
-                    "name": "Haunting Echoes"
-                },
-                {
-                    "count": 1,
-                    "name": "Innocent Blood"
-                },
-                {
-                    "count": 1,
-                    "name": "Living Death"
-                },
-                {
-                    "count": 1,
-                    "name": "Powder Keg"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 1,
-                    "name": "Reverent Silence"
-                },
-                {
-                    "count": 1,
-                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
@@ -819,202 +910,135 @@
         },
         {
             "date": "2026-05-27",
-            "player": "Demian77",
+            "player": "Todeshorst",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Demian77",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Todeshorst",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Phyrexian Dreadnought"
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
                 },
                 {
                     "count": 1,
-                    "name": "Chain of Vapor"
+                    "name": "Aura of Silence"
                 },
                 {
                     "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Daze"
-                },
-                {
-                    "count": 2,
-                    "name": "Flash of Insight"
-                },
-                {
-                    "count": 4,
-                    "name": "Foil"
-                },
-                {
-                    "count": 4,
-                    "name": "Gush"
-                },
-                {
-                    "count": 3,
-                    "name": "Impulse"
+                    "name": "Oath of Druids"
                 },
                 {
                     "count": 1,
-                    "name": "Misdirection"
-                },
-                {
-                    "count": 3,
-                    "name": "Opt"
-                },
-                {
-                    "count": 2,
-                    "name": "Peek"
-                },
-                {
-                    "count": 4,
-                    "name": "Stifle"
-                },
-                {
-                    "count": 1,
-                    "name": "Thwart"
-                },
-                {
-                    "count": 4,
-                    "name": "Vision Charm"
-                },
-                {
-                    "count": 17,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Portent"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Annul"
-                },
-                {
-                    "count": 2,
-                    "name": "Brain Freeze"
-                },
-                {
-                    "count": 1,
-                    "name": "Chain of Vapor"
-                },
-                {
-                    "count": 3,
-                    "name": "Essence Flare"
-                },
-                {
-                    "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Tsabo's Web"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "Rainbow_",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Rainbow_",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Attunement"
-                },
-                {
-                    "count": 3,
-                    "name": "Decree of Silence"
-                },
-                {
-                    "count": 4,
-                    "name": "Opalescence"
-                },
-                {
-                    "count": 4,
-                    "name": "Parallax Wave"
-                },
-                {
-                    "count": 2,
                     "name": "Seal of Cleansing"
                 },
                 {
-                    "count": 3,
-                    "name": "Frantic Search"
-                },
-                {
-                    "count": 3,
-                    "name": "Intuition"
-                },
-                {
-                    "count": 2,
-                    "name": "Mana Leak"
+                    "count": 4,
+                    "name": "Sylvan Library"
                 },
                 {
                     "count": 1,
-                    "name": "Orim's Chant"
+                    "name": "Ray of Revelation"
                 },
                 {
                     "count": 4,
                     "name": "Swords to Plowshares"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
                     "name": "Adarkar Wastes"
                 },
                 {
-                    "count": 4,
-                    "name": "Ancient Tomb"
+                    "count": 1,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
                 },
                 {
                     "count": 4,
-                    "name": "Flooded Strand"
+                    "name": "Gemstone Mine"
                 },
                 {
-                    "count": 5,
-                    "name": "Island"
-                },
-                {
-                    "count": 5,
+                    "count": 2,
                     "name": "Plains"
                 },
                 {
-                    "count": 4,
-                    "name": "Skycloud Expanse"
+                    "count": 3,
+                    "name": "Rishadan Port"
                 },
                 {
                     "count": 4,
-                    "name": "Replenish"
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 4,
+                    "name": "Cataclysm"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Blue Elemental Blast"
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Call of the Herd"
                 },
                 {
                     "count": 2,
-                    "name": "Chill"
+                    "name": "Cursed Totem"
                 },
                 {
-                    "count": 2,
-                    "name": "Exalted Angel"
+                    "count": 1,
+                    "name": "Kirtar's Desire"
                 },
                 {
                     "count": 4,
                     "name": "Meddling Mage"
                 },
                 {
-                    "count": 2,
-                    "name": "Orim's Chant"
+                    "count": 1,
+                    "name": "Naturalize"
                 },
                 {
-                    "count": 3,
-                    "name": "Tsabo's Web"
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 1,
+                    "name": "Zuran Orb"
                 }
             ],
             "notes": null
@@ -1239,280 +1263,6 @@
         },
         {
             "date": "2026-05-27",
-            "player": "Gabaman",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Gabaman",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Anger"
-                },
-                {
-                    "count": 4,
-                    "name": "Birds of Paradise"
-                },
-                {
-                    "count": 2,
-                    "name": "Deranged Hermit"
-                },
-                {
-                    "count": 3,
-                    "name": "Fyndhorn Elves"
-                },
-                {
-                    "count": 1,
-                    "name": "Kamahl, Fist of Krosa"
-                },
-                {
-                    "count": 3,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 1,
-                    "name": "Masticore"
-                },
-                {
-                    "count": 1,
-                    "name": "Mesmeric Fiend"
-                },
-                {
-                    "count": 4,
-                    "name": "Multani's Acolyte"
-                },
-                {
-                    "count": 1,
-                    "name": "Nantuko Vigilante"
-                },
-                {
-                    "count": 3,
-                    "name": "Priest of Titania"
-                },
-                {
-                    "count": 3,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 1,
-                    "name": "Squee, Goblin Nabob"
-                },
-                {
-                    "count": 4,
-                    "name": "Wirewood Symbiote"
-                },
-                {
-                    "count": 1,
-                    "name": "Yavimaya Granger"
-                },
-                {
-                    "count": 4,
-                    "name": "Survival of the Fittest"
-                },
-                {
-                    "count": 2,
-                    "name": "City of Brass"
-                },
-                {
-                    "count": 7,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Gaea's Cradle"
-                },
-                {
-                    "count": 4,
-                    "name": "Llanowar Wastes"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Bone Shredder"
-                },
-                {
-                    "count": 1,
-                    "name": "Duress"
-                },
-                {
-                    "count": 3,
-                    "name": "Engineered Plague"
-                },
-                {
-                    "count": 1,
-                    "name": "Nantuko Vigilante"
-                },
-                {
-                    "count": 2,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 2,
-                    "name": "Null Rod"
-                },
-                {
-                    "count": 1,
-                    "name": "Spike Feeder"
-                },
-                {
-                    "count": 3,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Uktabi Orangutan"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "Todeshorst",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Todeshorst",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Mox Diamond"
-                },
-                {
-                    "count": 3,
-                    "name": "Exalted Angel"
-                },
-                {
-                    "count": 4,
-                    "name": "Terravore"
-                },
-                {
-                    "count": 1,
-                    "name": "Aura of Silence"
-                },
-                {
-                    "count": 4,
-                    "name": "Oath of Druids"
-                },
-                {
-                    "count": 1,
-                    "name": "Seal of Cleansing"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 1,
-                    "name": "Ray of Revelation"
-                },
-                {
-                    "count": 4,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 1,
-                    "name": "Adarkar Wastes"
-                },
-                {
-                    "count": 1,
-                    "name": "Brushland"
-                },
-                {
-                    "count": 1,
-                    "name": "City of Brass"
-                },
-                {
-                    "count": 2,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Gemstone Mine"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Rishadan Port"
-                },
-                {
-                    "count": 4,
-                    "name": "Treetop Village"
-                },
-                {
-                    "count": 2,
-                    "name": "Treva's Ruins"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 4,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Call of the Herd"
-                },
-                {
-                    "count": 4,
-                    "name": "Cataclysm"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aura of Silence"
-                },
-                {
-                    "count": 1,
-                    "name": "Call of the Herd"
-                },
-                {
-                    "count": 2,
-                    "name": "Cursed Totem"
-                },
-                {
-                    "count": 1,
-                    "name": "Kirtar's Desire"
-                },
-                {
-                    "count": 4,
-                    "name": "Meddling Mage"
-                },
-                {
-                    "count": 1,
-                    "name": "Naturalize"
-                },
-                {
-                    "count": 1,
-                    "name": "Phyrexian Furnace"
-                },
-                {
-                    "count": 2,
-                    "name": "Warmth"
-                },
-                {
-                    "count": 1,
-                    "name": "Zuran Orb"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
             "player": "yeahnah",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_yeahnah",
@@ -1640,143 +1390,20 @@
         },
         {
             "date": "2026-05-27",
-            "player": "NicoStuzzi",
+            "player": "PedraStone",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_NicoStuzzi",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_PedraStone",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Powder Keg"
                 },
                 {
-                    "count": 1,
-                    "name": "Humility"
-                },
-                {
                     "count": 4,
-                    "name": "Standstill"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 3,
-                    "name": "Disenchant"
-                },
-                {
-                    "count": 2,
-                    "name": "Fact or Fiction"
-                },
-                {
-                    "count": 4,
-                    "name": "Impulse"
-                },
-                {
-                    "count": 4,
-                    "name": "Mana Leak"
-                },
-                {
-                    "count": 2,
-                    "name": "Prohibit"
-                },
-                {
-                    "count": 4,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 4,
-                    "name": "Adarkar Wastes"
+                    "name": "Phyrexian Dreadnought"
                 },
                 {
                     "count": 1,
-                    "name": "Coastal Tower"
-                },
-                {
-                    "count": 2,
-                    "name": "Dust Bowl"
-                },
-                {
-                    "count": 1,
-                    "name": "Faerie Conclave"
-                },
-                {
-                    "count": 4,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 5,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Kor Haven"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Factory"
-                },
-                {
-                    "count": 4,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Decree of Justice"
-                },
-                {
-                    "count": 2,
-                    "name": "Wrath of God"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Annul"
-                },
-                {
-                    "count": 2,
-                    "name": "Black Vise"
-                },
-                {
-                    "count": 4,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Circle of Protection: Red"
-                },
-                {
-                    "count": 2,
-                    "name": "Teferi's Response"
-                },
-                {
-                    "count": 2,
-                    "name": "Thawing Glaciers"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-05-27",
-            "player": "montreal_premodern",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_montreal_premodern",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Black Vise"
-                },
-                {
-                    "count": 4,
-                    "name": "Stasis"
-                },
-                {
-                    "count": 1,
-                    "name": "Brain Freeze"
-                },
-                {
-                    "count": 4,
                     "name": "Chain of Vapor"
                 },
                 {
@@ -1792,7 +1419,7 @@
                     "name": "Flash of Insight"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Foil"
                 },
                 {
@@ -1800,58 +1427,463 @@
                     "name": "Gush"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Impulse"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Peek"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
                     "name": "Thwart"
                 },
                 {
-                    "count": 3,
-                    "name": "Forsaken City"
+                    "count": 4,
+                    "name": "Vision Charm"
                 },
                 {
-                    "count": 19,
+                    "count": 17,
                     "name": "Island"
                 },
                 {
                     "count": 4,
                     "name": "Portent"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Brain Freeze"
                 },
                 {
                     "count": 1,
-                    "name": "Upheaval"
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Flare"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "Rainbow_",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Rainbow_",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 3,
+                    "name": "Decree of Silence"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 1,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Skycloud Expanse"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Annul"
+                    "name": "Blue Elemental Blast"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Chill"
                 },
                 {
                     "count": 2,
-                    "name": "Cursed Totem"
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
                 },
                 {
                     "count": 2,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 3,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "Memories_of_the_Time",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Memories_of_the_Time",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Gigapede"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Tusker"
+                },
+                {
+                    "count": 2,
+                    "name": "Mogg Bombers"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Spore Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Veteran Explorer"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Buried Alive"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Wish"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Intent"
+                },
+                {
+                    "count": 3,
+                    "name": "Living Death"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Buried Alive"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunting Echoes"
+                },
+                {
+                    "count": 1,
+                    "name": "Innocent Blood"
+                },
+                {
+                    "count": 1,
+                    "name": "Living Death"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Reverent Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-05-27",
+            "player": "trussell48",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_trussell48",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 1,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Mirri's Guile"
+                },
+                {
+                    "count": 2,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 3,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 2,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
                     "name": "Gaea's Blessing"
                 },
                 {
-                    "count": 2,
-                    "name": "Hibernation"
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Reclamation"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
                 },
                 {
                     "count": 2,
-                    "name": "Hydroblast"
+                    "name": "Tsabo's Web"
                 },
                 {
                     "count": 2,
-                    "name": "Wall of Tears"
+                    "name": "Xantid Swarm"
                 }
             ],
             "notes": null
@@ -1993,175 +2025,163 @@
         },
         {
             "date": "2026-05-27",
-            "player": "Bobitobobi",
+            "player": "Gabaman",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Bobitobobi",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Gabaman",
             "mainboard": [
                 {
-                    "count": 4,
-                    "name": "Argothian Enchantress"
-                },
-                {
                     "count": 1,
-                    "name": "Elephant Grass"
+                    "name": "Anger"
                 },
                 {
                     "count": 4,
-                    "name": "Enchantress's Presence"
-                },
-                {
-                    "count": 4,
-                    "name": "Exploration"
-                },
-                {
-                    "count": 4,
-                    "name": "Mirri's Guile"
+                    "name": "Birds of Paradise"
                 },
                 {
                     "count": 2,
-                    "name": "Opalescence"
-                },
-                {
-                    "count": 2,
-                    "name": "Parallax Wave"
+                    "name": "Deranged Hermit"
                 },
                 {
                     "count": 3,
-                    "name": "Seal of Cleansing"
+                    "name": "Fyndhorn Elves"
                 },
                 {
-                    "count": 2,
-                    "name": "Solitary Confinement"
+                    "count": 1,
+                    "name": "Kamahl, Fist of Krosa"
                 },
                 {
                     "count": 3,
-                    "name": "Sterling Grove"
+                    "name": "Llanowar Elves"
                 },
                 {
                     "count": 1,
-                    "name": "Sylvan Library"
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Mesmeric Fiend"
                 },
                 {
                     "count": 4,
-                    "name": "Wild Growth"
+                    "name": "Multani's Acolyte"
                 },
                 {
                     "count": 1,
-                    "name": "Abeyance"
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 3,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Granger"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
                 },
                 {
                     "count": 2,
-                    "name": "Swords to Plowshares"
+                    "name": "City of Brass"
                 },
                 {
-                    "count": 4,
-                    "name": "Brushland"
-                },
-                {
-                    "count": 6,
+                    "count": 7,
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
-                    "name": "Plains"
+                    "count": 4,
+                    "name": "Gaea's Cradle"
                 },
                 {
                     "count": 4,
-                    "name": "Serra's Sanctum"
-                },
-                {
-                    "count": 4,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
+                    "name": "Llanowar Wastes"
                 },
                 {
                     "count": 1,
-                    "name": "Replenish"
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
                 }
             ],
             "sideboard": [
                 {
+                    "count": 1,
+                    "name": "Bone Shredder"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
                     "count": 2,
-                    "name": "Abeyance"
+                    "name": "Naturalize"
                 },
                 {
                     "count": 2,
-                    "name": "Aura of Silence"
+                    "name": "Null Rod"
                 },
                 {
                     "count": 1,
-                    "name": "Gaea's Blessing"
+                    "name": "Spike Feeder"
                 },
                 {
-                    "count": 1,
-                    "name": "Karmic Justice"
-                },
-                {
-                    "count": 1,
-                    "name": "Krosan Reclamation"
-                },
-                {
-                    "count": 1,
-                    "name": "Ray of Revelation"
-                },
-                {
-                    "count": 1,
-                    "name": "Replenish"
-                },
-                {
-                    "count": 1,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 1,
+                    "count": 3,
                     "name": "Tormod's Crypt"
                 },
                 {
-                    "count": 2,
-                    "name": "Tsabo's Web"
-                },
-                {
-                    "count": 2,
-                    "name": "Xantid Swarm"
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-05-27",
-            "player": "Negator87",
+            "player": "Gwaihir3011",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Negator87",
+            "anchor_uri": "https://www.mtgo.com/decklist/premodern-league-2026-05-2710652#deck_Gwaihir3011",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Argothian Enchantress"
-                },
-                {
-                    "count": 1,
-                    "name": "Elephant Grass"
-                },
-                {
-                    "count": 4,
-                    "name": "Enchantress's Presence"
+                    "name": "Attunement"
                 },
                 {
                     "count": 3,
-                    "name": "Exploration"
+                    "name": "Decree of Silence"
                 },
                 {
                     "count": 4,
-                    "name": "Mirri's Guile"
-                },
-                {
-                    "count": 2,
                     "name": "Opalescence"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Parallax Wave"
                 },
                 {
@@ -2169,51 +2189,47 @@
                     "name": "Seal of Cleansing"
                 },
                 {
-                    "count": 2,
-                    "name": "Solitary Confinement"
-                },
-                {
-                    "count": 4,
-                    "name": "Sterling Grove"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Growth"
-                },
-                {
-                    "count": 1,
-                    "name": "Abeyance"
+                    "count": 3,
+                    "name": "Frantic Search"
                 },
                 {
                     "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
                     "name": "Swords to Plowshares"
                 },
                 {
                     "count": 4,
-                    "name": "Brushland"
+                    "name": "Adarkar Wastes"
                 },
                 {
                     "count": 4,
-                    "name": "Serra's Sanctum"
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
                 },
                 {
                     "count": 5,
-                    "name": "Snow-Covered Forest"
+                    "name": "Island"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
                 },
                 {
                     "count": 3,
-                    "name": "Snow-Covered Plains"
+                    "name": "Skycloud Expanse"
                 },
                 {
                     "count": 4,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 1,
                     "name": "Replenish"
                 }
             ],
@@ -2223,44 +2239,28 @@
                     "name": "Abeyance"
                 },
                 {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
                     "count": 1,
-                    "name": "Aura of Silence"
+                    "name": "Conversion"
                 },
                 {
                     "count": 2,
-                    "name": "Gaea's Blessing"
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Orim's Chant"
                 },
                 {
                     "count": 1,
-                    "name": "Karmic Justice"
-                },
-                {
-                    "count": 1,
-                    "name": "Ray of Revelation"
-                },
-                {
-                    "count": 1,
-                    "name": "Replenish"
-                },
-                {
-                    "count": 1,
-                    "name": "Sacred Ground"
-                },
-                {
-                    "count": 1,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 2,
-                    "name": "Tsabo's Web"
-                },
-                {
-                    "count": 2,
-                    "name": "Xantid Swarm"
+                    "name": "Wrath of God"
                 }
             ],
             "notes": null
