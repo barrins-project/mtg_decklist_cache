@@ -9,266 +9,123 @@
     "decks": [
         {
             "date": "2026-06-02",
-            "player": "boshfred",
+            "player": "newbarola",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_boshfred",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_newbarola",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Darval, Whose Web Protects"
-                },
-                {
-                    "count": 1,
-                    "name": "Eagles of the North"
-                },
-                {
-                    "count": 2,
-                    "name": "Elite Interceptor"
+                    "count": 4,
+                    "name": "Blight Mamba"
                 },
                 {
                     "count": 4,
-                    "name": "Kor Skyfisher"
-                },
-                {
-                    "count": 3,
-                    "name": "Leonardo, Big Brother"
-                },
-                {
-                    "count": 3,
-                    "name": "Lunarch Veteran"
-                },
-                {
-                    "count": 3,
-                    "name": "Novice Inspector"
+                    "name": "Glistener Elf"
                 },
                 {
                     "count": 4,
-                    "name": "Raffine's Informant"
+                    "name": "Ichorclaw Myr"
                 },
                 {
                     "count": 4,
-                    "name": "Thraben Inspector"
+                    "name": "Llanowar Augur"
                 },
                 {
-                    "count": 2,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 2,
-                    "name": "Guardians' Pledge"
-                },
-                {
-                    "count": 3,
-                    "name": "Prismatic Strands"
+                    "count": 4,
+                    "name": "Rancor"
                 },
                 {
                     "count": 1,
-                    "name": "Ramosian Rally"
+                    "name": "Seal of Strength"
                 },
                 {
                     "count": 4,
-                    "name": "Thraben Charm"
+                    "name": "Embiggen"
+                },
+                {
+                    "count": 4,
+                    "name": "Go Forth"
+                },
+                {
+                    "count": 4,
+                    "name": "Might of Old Krosa"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Snakeskin Veil"
                 },
                 {
                     "count": 2,
-                    "name": "Idyllic Grange"
-                },
-                {
-                    "count": 17,
-                    "name": "Plains"
+                    "name": "Vines of Vastwood"
                 },
                 {
                     "count": 4,
-                    "name": "Battle Screech"
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 9,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hickory Woodlot"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Arashin Cleric"
-                },
-                {
                     "count": 1,
-                    "name": "Dawnbringer Cleric"
-                },
-                {
-                    "count": 1,
-                    "name": "Destroy Evil"
-                },
-                {
-                    "count": 4,
-                    "name": "Dust to Dust"
-                },
-                {
-                    "count": 1,
-                    "name": "Hallow"
-                },
-                {
-                    "count": 1,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 1,
-                    "name": "Lone Missionary"
-                },
-                {
-                    "count": 1,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 1,
-                    "name": "Revoke Existence"
-                },
-                {
-                    "count": 2,
-                    "name": "Standard Bearer"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "gasimpar",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_gasimpar",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Blood Fountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Grim Bauble"
-                },
-                {
-                    "count": 3,
-                    "name": "Instant Ramen"
-                },
-                {
-                    "count": 4,
-                    "name": "Lembas"
-                },
-                {
-                    "count": 2,
-                    "name": "Nutrient Block"
-                },
-                {
-                    "count": 3,
-                    "name": "Tithing Blade"
-                },
-                {
-                    "count": 3,
-                    "name": "Cauldron Familiar"
-                },
-                {
-                    "count": 3,
-                    "name": "Glint Hawk"
-                },
-                {
-                    "count": 4,
-                    "name": "Kor Skyfisher"
-                },
-                {
-                    "count": 1,
-                    "name": "Oroku Saki, Shredder Rising"
-                },
-                {
-                    "count": 4,
-                    "name": "Pactdoll Terror"
-                },
-                {
-                    "count": 4,
-                    "name": "Refurbished Familiar"
-                },
-                {
-                    "count": 3,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 3,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 2,
-                    "name": "Ancient Den"
-                },
-                {
-                    "count": 2,
                     "name": "Bojuka Bog"
                 },
                 {
-                    "count": 1,
-                    "name": "Goldmire Bridge"
-                },
-                {
                     "count": 2,
-                    "name": "Orzhov Basilica"
-                },
-                {
-                    "count": 5,
-                    "name": "Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Radiant Fountain"
-                },
-                {
-                    "count": 5,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Vault of Whispers"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Destroy Evil"
+                    "name": "Crop Rotation"
                 },
                 {
                     "count": 3,
-                    "name": "Duress"
+                    "name": "Gut Shot"
                 },
                 {
                     "count": 3,
-                    "name": "Dust to Dust"
+                    "name": "Nature's Claim"
                 },
                 {
                     "count": 2,
-                    "name": "Navigator's Compass"
+                    "name": "Scattershot Archer"
                 },
                 {
                     "count": 2,
-                    "name": "Relic of Progenitus"
+                    "name": "Seal of Strength"
                 },
                 {
                     "count": 2,
-                    "name": "Shrivel"
-                },
-                {
-                    "count": 1,
-                    "name": "Suffocating Fumes"
+                    "name": "Vines of Vastwood"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-06-02",
-            "player": "KOKOLOKO3435",
+            "player": "JorGG",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_KOKOLOKO3435",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_JorGG",
             "mainboard": [
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Avenging Hunter"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Elvish Mystic"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 3,
                     "name": "Fyndhorn Elves"
                 },
                 {
@@ -276,11 +133,11 @@
                     "name": "Generous Ent"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Llanowar Elves"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Masked Vandal"
                 },
                 {
@@ -300,12 +157,16 @@
                     "name": "Timberwatch Elf"
                 },
                 {
-                    "count": 12,
+                    "count": 9,
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 4,
+                    "name": "Land Grant"
                 },
                 {
                     "count": 4,
@@ -318,147 +179,24 @@
             ],
             "sideboard": [
                 {
-                    "count": 4,
-                    "name": "Deglamer"
+                    "count": 2,
+                    "name": "Faerie Macabre"
                 },
                 {
-                    "count": 3,
-                    "name": "Faerie Macabre"
+                    "count": 2,
+                    "name": "Masked Vandal"
                 },
                 {
                     "count": 4,
                     "name": "Monstrous Emergence"
                 },
                 {
+                    "count": 3,
+                    "name": "Spinewoods Paladin"
+                },
+                {
                     "count": 4,
                     "name": "Vitu-Ghazi Inspector"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "LEANDROFLORESTA",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_LEANDROFLORESTA",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Campfire"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichor Wellspring"
-                },
-                {
-                    "count": 2,
-                    "name": "Lembas"
-                },
-                {
-                    "count": 3,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 2,
-                    "name": "Tithing Blade"
-                },
-                {
-                    "count": 1,
-                    "name": "Accursed Marauder"
-                },
-                {
-                    "count": 1,
-                    "name": "Avenging Hunter"
-                },
-                {
-                    "count": 3,
-                    "name": "Crypt Rats"
-                },
-                {
-                    "count": 3,
-                    "name": "Troll of Khazad-dûm"
-                },
-                {
-                    "count": 4,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 4,
-                    "name": "Defile"
-                },
-                {
-                    "count": 3,
-                    "name": "Eviscerator's Insight"
-                },
-                {
-                    "count": 4,
-                    "name": "Fanatical Offering"
-                },
-                {
-                    "count": 1,
-                    "name": "Fungal Infection"
-                },
-                {
-                    "count": 1,
-                    "name": "Reckoner's Bargain"
-                },
-                {
-                    "count": 1,
-                    "name": "Snuff Out"
-                },
-                {
-                    "count": 1,
-                    "name": "Spinning Darkness"
-                },
-                {
-                    "count": 1,
-                    "name": "Suffocating Fumes"
-                },
-                {
-                    "count": 2,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 1,
-                    "name": "Haunted Mire"
-                },
-                {
-                    "count": 4,
-                    "name": "Khalni Garden"
-                },
-                {
-                    "count": 10,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Witch's Cottage"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Avenging Hunter"
-                },
-                {
-                    "count": 2,
-                    "name": "Drown in Sorrow"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 2,
-                    "name": "Troublemaker Ouphe"
-                },
-                {
-                    "count": 4,
-                    "name": "Weather the Storm"
                 }
             ],
             "notes": null
@@ -584,99 +322,578 @@
         },
         {
             "date": "2026-06-02",
-            "player": "newbarola",
+            "player": "SalamiBroetchen",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_newbarola",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_SalamiBroetchen",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Blight Mamba"
+                    "name": "Kitchen Imp"
                 },
                 {
                     "count": 4,
-                    "name": "Glistener Elf"
+                    "name": "Sneaky Snacker"
                 },
                 {
                     "count": 4,
-                    "name": "Ichorclaw Myr"
+                    "name": "Voldaren Epicure"
                 },
                 {
                     "count": 4,
-                    "name": "Llanowar Augur"
+                    "name": "Fiery Temper"
                 },
                 {
                     "count": 4,
-                    "name": "Rancor"
-                },
-                {
-                    "count": 1,
-                    "name": "Seal of Strength"
+                    "name": "Lightning Bolt"
                 },
                 {
                     "count": 4,
-                    "name": "Embiggen"
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 11,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
                 },
                 {
                     "count": 4,
-                    "name": "Go Forth"
+                    "name": "Alms of the Vein"
                 },
                 {
                     "count": 4,
-                    "name": "Might of Old Krosa"
+                    "name": "Faithless Looting"
                 },
                 {
                     "count": 4,
-                    "name": "Mutagenic Growth"
+                    "name": "Grab the Prize"
                 },
                 {
                     "count": 4,
-                    "name": "Snakeskin Veil"
-                },
-                {
-                    "count": 2,
-                    "name": "Vines of Vastwood"
+                    "name": "Highway Robbery"
                 },
                 {
                     "count": 4,
-                    "name": "Escape Tunnel"
-                },
-                {
-                    "count": 9,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Hickory Woodlot"
+                    "name": "Vampire's Kiss"
                 }
             ],
             "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 4,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 4,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "KOKOLOKO3435",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_KOKOLOKO3435",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 4,
+                    "name": "Nyxborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Emergence"
+                },
+                {
+                    "count": 4,
+                    "name": "Vitu-Ghazi Inspector"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "lindoso01",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_lindoso01",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 2,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
                 {
                     "count": 1,
                     "name": "Bojuka Bog"
                 },
                 {
                     "count": 2,
-                    "name": "Crop Rotation"
+                    "name": "Boros Garrison"
                 },
                 {
                     "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Wind-Scarred Crag"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "boshfred",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_boshfred",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Darval, Whose Web Protects"
+                },
+                {
+                    "count": 1,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 2,
+                    "name": "Elite Interceptor"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Leonardo, Big Brother"
+                },
+                {
+                    "count": 3,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 3,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Ramosian Rally"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 17,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallow"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "Stiepan90",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Stiepan90",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "Elios33_",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Elios33_",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 3,
+                    "name": "Abandon Attachments"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 1,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 15,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Deem Inferior"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lórien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Envelop"
+                },
+                {
+                    "count": 4,
                     "name": "Gut Shot"
                 },
                 {
-                    "count": 3,
-                    "name": "Nature's Claim"
-                },
-                {
                     "count": 2,
-                    "name": "Scattershot Archer"
-                },
-                {
-                    "count": 2,
-                    "name": "Seal of Strength"
-                },
-                {
-                    "count": 2,
-                    "name": "Vines of Vastwood"
+                    "name": "Hydroblast"
                 }
             ],
             "notes": null
@@ -766,194 +983,194 @@
         },
         {
             "date": "2026-06-02",
-            "player": "trussell48",
+            "player": "FranPi",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_trussell48",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_FranPi",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Colossal Dreadmask"
+                    "count": 4,
+                    "name": "Brinebarrow Intruder"
                 },
                 {
                     "count": 4,
-                    "name": "Annoyed Altisaur"
+                    "name": "Faerie Miscreant"
                 },
                 {
                     "count": 4,
-                    "name": "Arbor Elf"
+                    "name": "Faerie Seer"
                 },
                 {
                     "count": 3,
-                    "name": "Avenging Hunter"
+                    "name": "Harrier Strix"
                 },
                 {
                     "count": 4,
-                    "name": "Boarding Party"
-                },
-                {
-                    "count": 3,
-                    "name": "Eldrazi Repurposer"
-                },
-                {
-                    "count": 3,
-                    "name": "Generous Ent"
+                    "name": "Moon-Circuit Hacker"
                 },
                 {
                     "count": 4,
-                    "name": "Writhing Chrysalis"
+                    "name": "Ninja of the Deep Hours"
                 },
                 {
                     "count": 4,
-                    "name": "Utopia Sprawl"
+                    "name": "Spellstutter Sprite"
                 },
                 {
-                    "count": 1,
-                    "name": "Wild Growth"
+                    "count": 4,
+                    "name": "Counterspell"
                 },
                 {
                     "count": 2,
-                    "name": "Highland Forest"
-                },
-                {
-                    "count": 15,
-                    "name": "Snow-Covered Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Mountain"
+                    "name": "Dispel"
                 },
                 {
                     "count": 3,
-                    "name": "Malevolent Rumble"
+                    "name": "Snap"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
                 },
                 {
                     "count": 4,
-                    "name": "Mwonvuli Acid-Moss"
-                },
-                {
-                    "count": 4,
-                    "name": "Thermokarst"
+                    "name": "Of One Mind"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Breath Weapon"
-                },
-                {
-                    "count": 4,
-                    "name": "Deglamer"
-                },
-                {
-                    "count": 2,
-                    "name": "Penumbra Spider"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Skred"
+                    "name": "Annul"
                 },
                 {
                     "count": 3,
-                    "name": "Weather the Storm"
+                    "name": "Bind the Monster"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Sabotage"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-06-02",
-            "player": "JorGG",
+            "player": "Maccaciock",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_JorGG",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Maccaciock",
             "mainboard": [
                 {
-                    "count": 3,
-                    "name": "Avenging Hunter"
-                },
-                {
                     "count": 4,
-                    "name": "Elvish Mystic"
+                    "name": "Gatecreeper Vine"
                 },
                 {
                     "count": 3,
-                    "name": "Elvish Vanguard"
-                },
-                {
-                    "count": 3,
-                    "name": "Fyndhorn Elves"
-                },
-                {
-                    "count": 4,
-                    "name": "Generous Ent"
-                },
-                {
-                    "count": 3,
-                    "name": "Llanowar Elves"
+                    "name": "Guardian of the Guildpact"
                 },
                 {
                     "count": 2,
-                    "name": "Masked Vandal"
-                },
-                {
-                    "count": 4,
-                    "name": "Nyxborn Hydra"
-                },
-                {
-                    "count": 4,
-                    "name": "Priest of Titania"
-                },
-                {
-                    "count": 4,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 4,
-                    "name": "Timberwatch Elf"
-                },
-                {
-                    "count": 9,
-                    "name": "Forest"
+                    "name": "Inspiring Overseer"
                 },
                 {
                     "count": 1,
-                    "name": "Gingerbread Cabin"
+                    "name": "Militia Bugler"
                 },
                 {
                     "count": 4,
-                    "name": "Land Grant"
+                    "name": "Outlaw Medic"
                 },
                 {
                     "count": 4,
-                    "name": "Lead the Stampede"
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 2,
+                    "name": "Silhana Ledgewalker"
                 },
                 {
                     "count": 4,
-                    "name": "Winding Way"
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 4,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Manor Gate"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Selesnya Guildgate"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
+                    "count": 4,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 1,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
                     "name": "Faerie Macabre"
                 },
                 {
                     "count": 2,
-                    "name": "Masked Vandal"
+                    "name": "Saruli Gatekeepers"
                 },
                 {
-                    "count": 4,
-                    "name": "Monstrous Emergence"
+                    "count": 2,
+                    "name": "Sunlance"
                 },
                 {
-                    "count": 3,
-                    "name": "Spinewoods Paladin"
-                },
-                {
-                    "count": 4,
-                    "name": "Vitu-Ghazi Inspector"
+                    "count": 2,
+                    "name": "Unmake"
                 }
             ],
             "notes": null
@@ -1039,13 +1256,17 @@
         },
         {
             "date": "2026-06-02",
-            "player": "SalamiBroetchen",
+            "player": "hyuma",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_SalamiBroetchen",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_hyuma",
             "mainboard": [
                 {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
                     "count": 4,
-                    "name": "Kitchen Imp"
+                    "name": "Kessig Flamebreather"
                 },
                 {
                     "count": 4,
@@ -1060,24 +1281,20 @@
                     "name": "Fiery Temper"
                 },
                 {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
                     "count": 4,
                     "name": "Lightning Bolt"
                 },
                 {
-                    "count": 4,
-                    "name": "Jagged Barrens"
-                },
-                {
-                    "count": 11,
+                    "count": 18,
                     "name": "Mountain"
-                },
-                {
-                    "count": 5,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Alms of the Vein"
                 },
                 {
                     "count": 4,
@@ -1090,238 +1307,448 @@
                 {
                     "count": 4,
                     "name": "Highway Robbery"
-                },
-                {
-                    "count": 4,
-                    "name": "Vampire's Kiss"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Duress"
-                },
-                {
                     "count": 4,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 4,
-                    "name": "Extract a Confession"
-                },
-                {
-                    "count": 4,
-                    "name": "Nihil Spellbomb"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "Thn",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Thn",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ichor Wellspring"
-                },
-                {
-                    "count": 2,
-                    "name": "Lembas"
-                },
-                {
-                    "count": 3,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Gixian Infiltrator"
-                },
-                {
-                    "count": 3,
-                    "name": "Krark-Clan Shaman"
-                },
-                {
-                    "count": 4,
-                    "name": "Refurbished Familiar"
-                },
-                {
-                    "count": 4,
-                    "name": "Writhing Chrysalis"
+                    "name": "Cast into the Fire"
                 },
                 {
                     "count": 1,
-                    "name": "Makeshift Munitions"
-                },
-                {
-                    "count": 1,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 1,
-                    "name": "Eviscerator's Insight"
+                    "name": "Crimson Fleet Commodore"
                 },
                 {
                     "count": 4,
-                    "name": "Fanatical Offering"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Toxin Analysis"
-                },
-                {
-                    "count": 4,
-                    "name": "Drossforge Bridge"
-                },
-                {
-                    "count": 2,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Slagwoods Bridge"
-                },
-                {
-                    "count": 3,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Twisted Landscape"
-                },
-                {
-                    "count": 2,
-                    "name": "Vault of Whispers"
-                },
-                {
-                    "count": 4,
-                    "name": "Cleansing Wildfire"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Breath Weapon"
-                },
-                {
-                    "count": 3,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 1,
-                    "name": "Terminate"
-                },
-                {
-                    "count": 1,
-                    "name": "Toxin Analysis"
+                    "count": 4,
+                    "name": "Scrapwork Mutt"
                 },
                 {
                     "count": 2,
-                    "name": "Troublemaker Ouphe"
-                },
-                {
-                    "count": 4,
-                    "name": "Weather the Storm"
+                    "name": "Searing Blaze"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-06-02",
-            "player": "JuaKi",
+            "player": "airplay",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_JuaKi",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_airplay",
             "mainboard": [
                 {
-                    "count": 4,
-                    "name": "Cryptic Serpent"
+                    "count": 1,
+                    "name": "Accursed Marauder"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodthrone Vampire"
                 },
                 {
                     "count": 4,
-                    "name": "Tolarian Terror"
+                    "name": "Carrion Feeder"
+                },
+                {
+                    "count": 4,
+                    "name": "Infestation Sage"
+                },
+                {
+                    "count": 1,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 4,
+                    "name": "Mortician Beetle"
+                },
+                {
+                    "count": 4,
+                    "name": "Nested Shambler"
+                },
+                {
+                    "count": 1,
+                    "name": "Plagued Rusalka"
+                },
+                {
+                    "count": 1,
+                    "name": "Troll of Khazad-dûm"
+                },
+                {
+                    "count": 3,
+                    "name": "Sadistic Glee"
+                },
+                {
+                    "count": 4,
+                    "name": "Fungal Infection"
+                },
+                {
+                    "count": 1,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 4,
+                    "name": "Supernatural Stamina"
+                },
+                {
+                    "count": 4,
+                    "name": "Village Rites"
+                },
+                {
+                    "count": 17,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Rite of Consumption"
+                },
+                {
+                    "count": 3,
+                    "name": "Unearth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Accursed Marauder"
+                },
+                {
+                    "count": 3,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 3,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 2,
+                    "name": "Sam's Desperate Rescue"
+                },
+                {
+                    "count": 3,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Link"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "hjc",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_hjc",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 1,
+                    "name": "Sewer-veillance Cam"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 1,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 1,
+                    "name": "Mukotai Ambusher"
+                },
+                {
+                    "count": 2,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
                 },
                 {
                     "count": 4,
                     "name": "Brainstorm"
                 },
                 {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
                     "count": 4,
                     "name": "Counterspell"
                 },
                 {
-                    "count": 1,
-                    "name": "Deprive"
-                },
-                {
-                    "count": 3,
+                    "count": 2,
                     "name": "Dispel"
                 },
                 {
                     "count": 4,
-                    "name": "Mental Note"
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
                 },
                 {
                     "count": 4,
-                    "name": "Thought Scour"
+                    "name": "Contaminated Aquifer"
                 },
                 {
-                    "count": 2,
-                    "name": "Vapor Snag"
+                    "count": 1,
+                    "name": "Dimir Aqueduct"
                 },
                 {
-                    "count": 14,
+                    "count": 1,
+                    "name": "Foreboding Landscape"
+                },
+                {
+                    "count": 10,
                     "name": "Island"
                 },
                 {
-                    "count": 2,
-                    "name": "Deem Inferior"
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Extract a Confession"
                 },
                 {
                     "count": 4,
                     "name": "Lórien Revealed"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
                 },
                 {
-                    "count": 4,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
+                    "count": 1,
+                    "name": "Arms of Hadar"
                 },
                 {
                     "count": 2,
-                    "name": "Sleep of the Dead"
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Campfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Mukotai Ambusher"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "boom_bust",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_boom_bust",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Rally at the Hornburg"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 2,
+                    "name": "Suplex"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "Huskyman20035",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Huskyman20035",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 4,
+                    "name": "Nyxborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 10,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 2,
+                    "name": "Land Grant"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Mwonvuli Acid-Moss"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
                 }
             ],
             "sideboard": [
                 {
                     "count": 4,
-                    "name": "Annul"
+                    "name": "Faerie Macabre"
                 },
                 {
                     "count": 4,
-                    "name": "Blue Elemental Blast"
+                    "name": "Monstrous Emergence"
                 },
                 {
                     "count": 3,
-                    "name": "Gut Shot"
+                    "name": "Spinewoods Paladin"
                 },
                 {
                     "count": 4,
-                    "name": "Hydroblast"
+                    "name": "Thermokarst"
                 }
             ],
             "notes": null
@@ -1475,429 +1902,17 @@
         },
         {
             "date": "2026-06-02",
-            "player": "Huskyman20035",
+            "player": "JuaKi",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Huskyman20035",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_JuaKi",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Avenging Hunter"
-                },
-                {
-                    "count": 4,
-                    "name": "Elvish Mystic"
-                },
-                {
-                    "count": 4,
-                    "name": "Fyndhorn Elves"
-                },
-                {
-                    "count": 4,
-                    "name": "Generous Ent"
-                },
-                {
-                    "count": 4,
-                    "name": "Masked Vandal"
-                },
-                {
-                    "count": 4,
-                    "name": "Nyxborn Hydra"
-                },
-                {
-                    "count": 4,
-                    "name": "Priest of Titania"
-                },
-                {
-                    "count": 4,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 2,
-                    "name": "Timberwatch Elf"
-                },
-                {
-                    "count": 10,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Gingerbread Cabin"
-                },
-                {
-                    "count": 2,
-                    "name": "Land Grant"
-                },
-                {
-                    "count": 4,
-                    "name": "Lead the Stampede"
-                },
-                {
-                    "count": 4,
-                    "name": "Mwonvuli Acid-Moss"
-                },
-                {
-                    "count": 2,
-                    "name": "Thermokarst"
-                },
-                {
-                    "count": 3,
-                    "name": "Winding Way"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 4,
-                    "name": "Monstrous Emergence"
-                },
-                {
-                    "count": 4,
-                    "name": "Spinewoods Paladin"
-                },
-                {
-                    "count": 2,
-                    "name": "Thermokarst"
-                },
-                {
-                    "count": 2,
-                    "name": "Viridian Longbow"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "hyuma",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_hyuma",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 4,
-                    "name": "Kessig Flamebreather"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 4,
-                    "name": "Grab the Prize"
-                },
-                {
-                    "count": 4,
-                    "name": "Highway Robbery"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 1,
-                    "name": "Crimson Fleet Commodore"
-                },
-                {
-                    "count": 4,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Scrapwork Mutt"
-                },
-                {
-                    "count": 2,
-                    "name": "Searing Blaze"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "lindoso01",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_lindoso01",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Experimental Synthesizer"
-                },
-                {
-                    "count": 4,
-                    "name": "Lembas"
-                },
-                {
-                    "count": 4,
-                    "name": "Glint Hawk"
-                },
-                {
-                    "count": 4,
-                    "name": "Kor Skyfisher"
-                },
-                {
-                    "count": 4,
-                    "name": "Novice Inspector"
-                },
-                {
-                    "count": 2,
-                    "name": "Seeker of the Way"
-                },
-                {
-                    "count": 3,
-                    "name": "Thraben Inspector"
-                },
-                {
-                    "count": 3,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 2,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 3,
-                    "name": "Ancient Den"
-                },
-                {
-                    "count": 1,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 2,
-                    "name": "Boros Garrison"
-                },
-                {
-                    "count": 3,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 3,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Radiant Fountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Rustvale Bridge"
-                },
-                {
-                    "count": 2,
-                    "name": "Wind-Scarred Crag"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 3,
-                    "name": "Dust to Dust"
-                },
-                {
-                    "count": 3,
-                    "name": "Navigator's Compass"
-                },
-                {
-                    "count": 4,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 3,
-                    "name": "Relic of Progenitus"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "Maccaciock",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Maccaciock",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Gatecreeper Vine"
-                },
-                {
-                    "count": 3,
-                    "name": "Guardian of the Guildpact"
-                },
-                {
-                    "count": 2,
-                    "name": "Inspiring Overseer"
-                },
-                {
-                    "count": 1,
-                    "name": "Militia Bugler"
-                },
-                {
-                    "count": 4,
-                    "name": "Outlaw Medic"
-                },
-                {
-                    "count": 4,
-                    "name": "Sacred Cat"
-                },
-                {
-                    "count": 2,
-                    "name": "Silhana Ledgewalker"
-                },
-                {
-                    "count": 4,
-                    "name": "Armadillo Cloak"
-                },
-                {
-                    "count": 4,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 3,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 4,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 4,
-                    "name": "Basilisk Gate"
-                },
-                {
-                    "count": 4,
-                    "name": "Citadel Gate"
-                },
-                {
-                    "count": 2,
-                    "name": "Forest"
-                },
-                {
-                    "count": 2,
-                    "name": "Heap Gate"
-                },
-                {
-                    "count": 4,
-                    "name": "Manor Gate"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
-                    "count": 2,
-                    "name": "Selesnya Guildgate"
-                },
-                {
-                    "count": 4,
-                    "name": "Malevolent Rumble"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Arms of Hadar"
-                },
-                {
-                    "count": 1,
-                    "name": "Avenging Hunter"
-                },
-                {
-                    "count": 4,
-                    "name": "Faerie Macabre"
-                },
-                {
-                    "count": 2,
-                    "name": "Saruli Gatekeepers"
-                },
-                {
-                    "count": 2,
-                    "name": "Sunlance"
-                },
-                {
-                    "count": 2,
-                    "name": "Unmake"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "Elios33_",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Elios33_",
-            "mainboard": [
-                {
-                    "count": 3,
                     "name": "Cryptic Serpent"
-                },
-                {
-                    "count": 1,
-                    "name": "Murmuring Mystic"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
                 },
                 {
                     "count": 4,
                     "name": "Tolarian Terror"
-                },
-                {
-                    "count": 3,
-                    "name": "Abandon Attachments"
                 },
                 {
                     "count": 4,
@@ -1908,11 +1923,15 @@
                     "name": "Counterspell"
                 },
                 {
-                    "count": 3,
-                    "name": "Force Spike"
+                    "count": 1,
+                    "name": "Deprive"
                 },
                 {
                     "count": 3,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
                     "name": "Mental Note"
                 },
                 {
@@ -1920,11 +1939,11 @@
                     "name": "Thought Scour"
                 },
                 {
-                    "count": 1,
-                    "name": "Contaminated Aquifer"
+                    "count": 2,
+                    "name": "Vapor Snag"
                 },
                 {
-                    "count": 15,
+                    "count": 14,
                     "name": "Island"
                 },
                 {
@@ -1932,16 +1951,16 @@
                     "name": "Deem Inferior"
                 },
                 {
-                    "count": 1,
-                    "name": "Deep Analysis"
-                },
-                {
                     "count": 4,
                     "name": "Lórien Revealed"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
                 },
                 {
                     "count": 2,
@@ -1958,15 +1977,11 @@
                     "name": "Blue Elemental Blast"
                 },
                 {
-                    "count": 1,
-                    "name": "Envelop"
-                },
-                {
-                    "count": 4,
+                    "count": 3,
                     "name": "Gut Shot"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Hydroblast"
                 }
             ],
@@ -1974,360 +1989,123 @@
         },
         {
             "date": "2026-06-02",
-            "player": "airplay",
+            "player": "Thn",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_airplay",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Thn",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Accursed Marauder"
-                },
-                {
-                    "count": 3,
-                    "name": "Bloodthrone Vampire"
-                },
-                {
                     "count": 4,
-                    "name": "Carrion Feeder"
-                },
-                {
-                    "count": 4,
-                    "name": "Infestation Sage"
-                },
-                {
-                    "count": 1,
-                    "name": "Mesmeric Fiend"
-                },
-                {
-                    "count": 4,
-                    "name": "Mortician Beetle"
-                },
-                {
-                    "count": 4,
-                    "name": "Nested Shambler"
-                },
-                {
-                    "count": 1,
-                    "name": "Plagued Rusalka"
-                },
-                {
-                    "count": 1,
-                    "name": "Troll of Khazad-dûm"
-                },
-                {
-                    "count": 3,
-                    "name": "Sadistic Glee"
-                },
-                {
-                    "count": 4,
-                    "name": "Fungal Infection"
-                },
-                {
-                    "count": 1,
-                    "name": "Rotten Reunion"
-                },
-                {
-                    "count": 4,
-                    "name": "Supernatural Stamina"
-                },
-                {
-                    "count": 4,
-                    "name": "Village Rites"
-                },
-                {
-                    "count": 17,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Rite of Consumption"
-                },
-                {
-                    "count": 3,
-                    "name": "Unearth"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Accursed Marauder"
-                },
-                {
-                    "count": 3,
-                    "name": "Mesmeric Fiend"
-                },
-                {
-                    "count": 3,
-                    "name": "Rotten Reunion"
+                    "name": "Ichor Wellspring"
                 },
                 {
                     "count": 2,
-                    "name": "Sam's Desperate Rescue"
+                    "name": "Lembas"
                 },
                 {
                     "count": 3,
-                    "name": "Spinning Darkness"
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Gixian Infiltrator"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
                 },
                 {
                     "count": 1,
-                    "name": "Vampiric Link"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "boom_bust",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_boom_bust",
-            "mainboard": [
+                    "name": "Makeshift Munitions"
+                },
                 {
-                    "count": 3,
-                    "name": "Experimental Synthesizer"
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Eviscerator's Insight"
                 },
                 {
                     "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Clockwork Percussionist"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Bushwhacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Tomb Raider"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
+                    "name": "Fanatical Offering"
                 },
                 {
                     "count": 4,
                     "name": "Galvanic Blast"
                 },
                 {
-                    "count": 4,
-                    "name": "Lightning Bolt"
+                    "count": 1,
+                    "name": "Toxin Analysis"
                 },
                 {
                     "count": 4,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 14,
-                    "name": "Mountain"
+                    "name": "Drossforge Bridge"
                 },
                 {
                     "count": 2,
-                    "name": "Chain Lightning"
+                    "name": "Forest"
                 },
                 {
                     "count": 1,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 4,
-                    "name": "Rally at the Hornburg"
-                },
-                {
-                    "count": 4,
-                    "name": "Reckless Impulse"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Cast into the Fire"
-                },
-                {
-                    "count": 1,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 4,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Searing Blaze"
-                },
-                {
-                    "count": 2,
-                    "name": "Suplex"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "Stiepan90",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Stiepan90",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Guttersnipe"
-                },
-                {
-                    "count": 4,
-                    "name": "Kessig Flamebreather"
-                },
-                {
-                    "count": 4,
-                    "name": "Sneaky Snacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Voldaren Epicure"
-                },
-                {
-                    "count": 4,
-                    "name": "Fiery Temper"
-                },
-                {
-                    "count": 3,
-                    "name": "Fireblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lava Dart"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 18,
                     "name": "Mountain"
                 },
                 {
                     "count": 4,
-                    "name": "Faithless Looting"
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
                 },
                 {
                     "count": 4,
-                    "name": "Grab the Prize"
+                    "name": "Twisted Landscape"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
                 },
                 {
                     "count": 4,
-                    "name": "Highway Robbery"
+                    "name": "Cleansing Wildfire"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Cast into the Fire"
+                    "name": "Breath Weapon"
                 },
                 {
                     "count": 3,
-                    "name": "End the Festivities"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 3,
-                    "name": "Relic of Progenitus"
+                    "name": "Duress"
                 },
                 {
                     "count": 2,
-                    "name": "Searing Blaze"
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
                 },
                 {
                     "count": 2,
-                    "name": "Smash to Smithereens"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-02",
-            "player": "FranPi",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_FranPi",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Brinebarrow Intruder"
+                    "name": "Troublemaker Ouphe"
                 },
                 {
                     "count": 4,
-                    "name": "Faerie Miscreant"
-                },
-                {
-                    "count": 4,
-                    "name": "Faerie Seer"
-                },
-                {
-                    "count": 3,
-                    "name": "Harrier Strix"
-                },
-                {
-                    "count": 4,
-                    "name": "Moon-Circuit Hacker"
-                },
-                {
-                    "count": 4,
-                    "name": "Ninja of the Deep Hours"
-                },
-                {
-                    "count": 4,
-                    "name": "Spellstutter Sprite"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 3,
-                    "name": "Snap"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 18,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Of One Mind"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Annul"
-                },
-                {
-                    "count": 3,
-                    "name": "Bind the Monster"
-                },
-                {
-                    "count": 2,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 4,
-                    "name": "Steel Sabotage"
+                    "name": "Weather the Storm"
                 }
             ],
             "notes": null
@@ -2469,139 +2247,373 @@
         },
         {
             "date": "2026-06-02",
-            "player": "hjc",
+            "player": "gasimpar",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_hjc",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_gasimpar",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Bonder's Ornament"
+                    "count": 2,
+                    "name": "Blood Fountain"
                 },
                 {
                     "count": 1,
-                    "name": "Sewer-veillance Cam"
-                },
-                {
-                    "count": 4,
-                    "name": "Augur of Bolas"
+                    "name": "Grim Bauble"
                 },
                 {
                     "count": 3,
-                    "name": "Faerie Seer"
-                },
-                {
-                    "count": 1,
-                    "name": "Moon-Circuit Hacker"
-                },
-                {
-                    "count": 1,
-                    "name": "Mukotai Ambusher"
-                },
-                {
-                    "count": 2,
-                    "name": "Ninja of the Deep Hours"
+                    "name": "Instant Ramen"
                 },
                 {
                     "count": 4,
-                    "name": "Spellstutter Sprite"
+                    "name": "Lembas"
                 },
                 {
                     "count": 2,
-                    "name": "Thorn of the Black Rose"
+                    "name": "Nutrient Block"
                 },
                 {
-                    "count": 1,
-                    "name": "Agony Warp"
+                    "count": 3,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Glint Hawk"
                 },
                 {
                     "count": 4,
-                    "name": "Brainstorm"
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 1,
+                    "name": "Oroku Saki, Shredder Rising"
+                },
+                {
+                    "count": 4,
+                    "name": "Pactdoll Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Charm"
                 },
                 {
                     "count": 2,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Goldmire Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Shrivel"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "LEANDROFLORESTA",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_LEANDROFLORESTA",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Campfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 1,
+                    "name": "Accursed Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dûm"
+                },
+                {
+                    "count": 4,
                     "name": "Cast Down"
                 },
                 {
                     "count": 4,
-                    "name": "Counterspell"
+                    "name": "Defile"
                 },
                 {
-                    "count": 2,
-                    "name": "Dispel"
+                    "count": 3,
+                    "name": "Eviscerator's Insight"
                 },
                 {
                     "count": 4,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 1,
+                    "name": "Fungal Infection"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
                     "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Spinning Darkness"
                 },
                 {
                     "count": 1,
                     "name": "Suffocating Fumes"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Bojuka Bog"
                 },
                 {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
                     "count": 4,
-                    "name": "Contaminated Aquifer"
-                },
-                {
-                    "count": 1,
-                    "name": "Dimir Aqueduct"
-                },
-                {
-                    "count": 1,
-                    "name": "Foreboding Landscape"
+                    "name": "Khalni Garden"
                 },
                 {
                     "count": 10,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
                     "name": "Swamp"
                 },
                 {
-                    "count": 1,
-                    "name": "Extract a Confession"
-                },
-                {
-                    "count": 4,
-                    "name": "Lórien Revealed"
+                    "count": 2,
+                    "name": "Witch's Cottage"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Annul"
-                },
-                {
                     "count": 1,
-                    "name": "Arms of Hadar"
+                    "name": "Avenging Hunter"
                 },
                 {
                     "count": 2,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Campfire"
-                },
-                {
-                    "count": 1,
-                    "name": "Extract a Confession"
+                    "name": "Drown in Sorrow"
                 },
                 {
                     "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Mukotai Ambusher"
+                    "name": "Duress"
                 },
                 {
                     "count": 2,
-                    "name": "Relic of Progenitus"
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-02",
+            "player": "Otifex",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2026-06-0210636#deck_Otifex",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 2,
+                    "name": "Beastrider Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Secret Door"
+                },
+                {
+                    "count": 3,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 2,
+                    "name": "Tinder Wall"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Nylea's Disciple"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 3,
+                    "name": "Tamiyo's Safekeeping"
                 }
             ],
             "notes": null
