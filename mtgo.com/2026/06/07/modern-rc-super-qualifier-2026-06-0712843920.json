@@ -7,6 +7,57 @@
         "players": 0
     },
     "decks": [],
-    "rounds": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "Theflotist",
+                    "player_2": "KelMasterP",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "yunk3r",
+                    "player_2": "Erik157751",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "MayoDominaria",
+                    "player_2": "Martin_Dominguez",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "JuGene",
+                    "player_2": "Stiepan90",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "Theflotist",
+                    "player_2": "yunk3r",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "MayoDominaria",
+                    "player_2": "JuGene",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "Theflotist",
+                    "player_2": "MayoDominaria",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
     "standings": []
 }
