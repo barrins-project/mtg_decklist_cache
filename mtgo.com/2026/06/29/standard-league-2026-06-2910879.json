@@ -9,13 +9,17 @@
     "decks": [
         {
             "date": "2026-06-29",
-            "player": "RPA",
+            "player": "RNAPBP1",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-06-2910879#deck_RPA",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-06-2910879#deck_RNAPBP1",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Lumbering Worldwagon"
+                    "count": 2,
+                    "name": "Cryogen Relic"
+                },
+                {
+                    "count": 4,
+                    "name": "Sewer-veillance Cam"
                 },
                 {
                     "count": 4,
@@ -23,93 +27,109 @@
                 },
                 {
                     "count": 4,
-                    "name": "Icetill Explorer"
+                    "name": "Bloom Tender"
                 },
                 {
                     "count": 4,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 4,
-                    "name": "Mightform Harmonizer"
-                },
-                {
-                    "count": 4,
-                    "name": "Sazh's Chocobo"
+                    "name": "Brightglass Gearhulk"
                 },
                 {
                     "count": 1,
-                    "name": "Surrak, Elusive Hunter"
+                    "name": "Mockingbird"
                 },
                 {
-                    "count": 4,
-                    "name": "Earthbender Ascension"
-                },
-                {
-                    "count": 3,
-                    "name": "Meltstrider's Resolve"
+                    "count": 2,
+                    "name": "Nurturing Pixie"
                 },
                 {
                     "count": 1,
-                    "name": "Archdruid's Charm"
-                },
-                {
-                    "count": 3,
-                    "name": "Ba Sing Se"
+                    "name": "The Jolly Balloon Man"
                 },
                 {
                     "count": 4,
-                    "name": "Escape Tunnel"
+                    "name": "Seam Rip"
                 },
                 {
                     "count": 4,
-                    "name": "Fabled Passage"
+                    "name": "Stormchaser's Talent"
                 },
                 {
-                    "count": 14,
-                    "name": "Forest"
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
                 },
                 {
                     "count": 1,
-                    "name": "Promising Vein"
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
                 },
                 {
                     "count": 4,
-                    "name": "Esper Origins"
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Willowrush Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Nature's Rhythm"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Archdruid's Charm"
+                    "name": "Cryogen Relic"
                 },
                 {
                     "count": 1,
-                    "name": "Demolition Field"
+                    "name": "Detect Intrusion"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 3,
+                    "name": "Erode"
                 },
                 {
                     "count": 1,
                     "name": "Meltstrider's Resolve"
                 },
                 {
-                    "count": 4,
-                    "name": "Mossborn Hydra"
-                },
-                {
-                    "count": 2,
-                    "name": "Pawpatch Formation"
-                },
-                {
-                    "count": 3,
-                    "name": "Sapling Nursery"
-                },
-                {
-                    "count": 2,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
                     "count": 1,
-                    "name": "Surrak, Elusive Hunter"
+                    "name": "Nurturing Pixie"
+                },
+                {
+                    "count": 2,
+                    "name": "Sage of the Skies"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Pierce"
                 }
             ],
             "notes": null
@@ -221,6 +241,113 @@
                 {
                     "count": 3,
                     "name": "Snakeskin Veil"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-06-29",
+            "player": "RPA",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-06-2910879#deck_RPA",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Lumbering Worldwagon"
+                },
+                {
+                    "count": 4,
+                    "name": "Badgermole Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Icetill Explorer"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Mightform Harmonizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Sazh's Chocobo"
+                },
+                {
+                    "count": 1,
+                    "name": "Surrak, Elusive Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Earthbender Ascension"
+                },
+                {
+                    "count": 3,
+                    "name": "Meltstrider's Resolve"
+                },
+                {
+                    "count": 1,
+                    "name": "Archdruid's Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Ba Sing Se"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 14,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Promising Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Esper Origins"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Archdruid's Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Demolition Field"
+                },
+                {
+                    "count": 1,
+                    "name": "Meltstrider's Resolve"
+                },
+                {
+                    "count": 4,
+                    "name": "Mossborn Hydra"
+                },
+                {
+                    "count": 2,
+                    "name": "Pawpatch Formation"
+                },
+                {
+                    "count": 3,
+                    "name": "Sapling Nursery"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Surrak, Elusive Hunter"
                 }
             ],
             "notes": null
@@ -352,133 +479,6 @@
                 {
                     "count": 1,
                     "name": "Surrak, Elusive Hunter"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-06-29",
-            "player": "RNAPBP1",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-06-2910879#deck_RNAPBP1",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Cryogen Relic"
-                },
-                {
-                    "count": 4,
-                    "name": "Sewer-veillance Cam"
-                },
-                {
-                    "count": 4,
-                    "name": "Badgermole Cub"
-                },
-                {
-                    "count": 4,
-                    "name": "Bloom Tender"
-                },
-                {
-                    "count": 4,
-                    "name": "Brightglass Gearhulk"
-                },
-                {
-                    "count": 1,
-                    "name": "Mockingbird"
-                },
-                {
-                    "count": 2,
-                    "name": "Nurturing Pixie"
-                },
-                {
-                    "count": 1,
-                    "name": "The Jolly Balloon Man"
-                },
-                {
-                    "count": 4,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 4,
-                    "name": "Botanical Sanctum"
-                },
-                {
-                    "count": 2,
-                    "name": "Breeding Pool"
-                },
-                {
-                    "count": 2,
-                    "name": "Floodfarm Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Hushwood Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 4,
-                    "name": "Temple Garden"
-                },
-                {
-                    "count": 1,
-                    "name": "Willowrush Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 4,
-                    "name": "Nature's Rhythm"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Cryogen Relic"
-                },
-                {
-                    "count": 1,
-                    "name": "Detect Intrusion"
-                },
-                {
-                    "count": 2,
-                    "name": "Disdainful Stroke"
-                },
-                {
-                    "count": 3,
-                    "name": "Erode"
-                },
-                {
-                    "count": 1,
-                    "name": "Meltstrider's Resolve"
-                },
-                {
-                    "count": 1,
-                    "name": "Nurturing Pixie"
-                },
-                {
-                    "count": 2,
-                    "name": "Sage of the Skies"
-                },
-                {
-                    "count": 4,
-                    "name": "Spell Pierce"
                 }
             ],
             "notes": null
