@@ -7,6 +7,57 @@
         "players": 0
     },
     "decks": [],
-    "rounds": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "EsperWTB",
+                    "player_2": "DB_Dykman",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Shmeagol",
+                    "player_2": "peter780108",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "kanister",
+                    "player_2": "Czechito",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "NickBolas90",
+                    "player_2": "oosunq",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "EsperWTB",
+                    "player_2": "Shmeagol",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "kanister",
+                    "player_2": "NickBolas90",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "EsperWTB",
+                    "player_2": "kanister",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
     "standings": []
 }
