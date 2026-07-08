@@ -1,72 +1,76 @@
 {
     "tournament": {
-        "date": "2026-07-05",
+        "date": "2026-07-07",
         "name": "Standard League",
-        "url": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879",
+        "url": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879",
         "format": "Standard",
         "players": 0
     },
     "decks": [
         {
-            "date": "2026-07-06",
-            "player": "_ZNT_",
+            "date": "2026-07-08",
+            "player": "rienigmadle",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck__ZNT_",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_rienigmadle",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Colorstorm Stallion"
+                    "count": 4,
+                    "name": "Tablet of Discovery"
+                },
+                {
+                    "count": 4,
+                    "name": "Gran-Gran"
                 },
                 {
                     "count": 3,
-                    "name": "Eddymurk Crab"
+                    "name": "Abandon Attachments"
                 },
                 {
                     "count": 4,
-                    "name": "Slickshot Show-Off"
+                    "name": "Accumulate Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Combustion Technique"
+                },
+                {
+                    "count": 3,
+                    "name": "Firebending Lesson"
                 },
                 {
                     "count": 1,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "name": "Flashback"
+                },
+                {
+                    "count": 3,
+                    "name": "It'll Quench Ya!"
                 },
                 {
                     "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 1,
-                    "name": "Bounce Off"
+                    "name": "Jeskai Revelation"
                 },
                 {
                     "count": 4,
-                    "name": "Burst Lightning"
+                    "name": "Great Hall of the Biblioplex"
                 },
                 {
-                    "count": 4,
-                    "name": "Opt"
+                    "count": 3,
+                    "name": "Hallowed Fountain"
                 },
                 {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 1,
-                    "name": "Vibrant Outburst"
-                },
-                {
-                    "count": 7,
+                    "count": 3,
                     "name": "Island"
                 },
                 {
-                    "count": 2,
-                    "name": "Multiversal Passage"
+                    "count": 1,
+                    "name": "Mistrise Village"
                 },
                 {
                     "count": 4,
                     "name": "Riverpyre Verge"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Spirebluff Canal"
                 },
                 {
@@ -74,206 +78,63 @@
                     "name": "Steam Vents"
                 },
                 {
-                    "count": 4,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 4,
-                    "name": "Flow State"
+                    "count": 1,
+                    "name": "Sundown Pass"
                 },
                 {
                     "count": 1,
-                    "name": "Impractical Joke"
-                },
-                {
-                    "count": 4,
-                    "name": "Sleight of Hand"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Annul"
-                },
-                {
-                    "count": 1,
-                    "name": "Broadside Barrage"
-                },
-                {
-                    "count": 1,
-                    "name": "Colorstorm Stallion"
-                },
-                {
-                    "count": 1,
-                    "name": "Eddymurk Crab"
-                },
-                {
-                    "count": 2,
-                    "name": "Get Out"
-                },
-                {
-                    "count": 1,
-                    "name": "Negate"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 2,
                     "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 1,
-                    "name": "Sear"
-                },
-                {
                     "count": 2,
-                    "name": "Slagstorm"
-                },
-                {
-                    "count": 2,
-                    "name": "Soul-Guide Lantern"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-06",
-            "player": "Supercazzola",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_Supercazzola",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Eddymurk Crab"
-                },
-                {
-                    "count": 1,
-                    "name": "Molten-Core Maestro"
-                },
-                {
-                    "count": 3,
-                    "name": "Slickshot Show-Off"
-                },
-                {
-                    "count": 1,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "name": "Iroh's Demonstration"
                 },
                 {
                     "count": 4,
-                    "name": "Stormchaser's Talent"
-                },
-                {
-                    "count": 4,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 2,
-                    "name": "Get Out"
-                },
-                {
-                    "count": 4,
-                    "name": "Opt"
-                },
-                {
-                    "count": 2,
-                    "name": "Prismari Charm"
-                },
-                {
-                    "count": 2,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 1,
-                    "name": "Vibrant Outburst"
-                },
-                {
-                    "count": 7,
-                    "name": "Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Multiversal Passage"
-                },
-                {
-                    "count": 4,
-                    "name": "Riverpyre Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 4,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 4,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 4,
-                    "name": "Flow State"
-                },
-                {
-                    "count": 4,
-                    "name": "Sleight of Hand"
+                    "name": "Stock Up"
                 }
             ],
             "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Broadside Barrage"
-                },
-                {
-                    "count": 1,
-                    "name": "Detect Intrusion"
-                },
                 {
                     "count": 1,
                     "name": "Disdainful Stroke"
                 },
                 {
                     "count": 2,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
                     "name": "Ghost Vacuum"
                 },
                 {
-                    "count": 2,
-                    "name": "Gigastorm Titan"
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Price of Freedom"
                 },
                 {
                     "count": 1,
-                    "name": "Molten-Core Maestro"
-                },
-                {
-                    "count": 1,
-                    "name": "Octopus Form"
-                },
-                {
-                    "count": 2,
-                    "name": "Ral, Crackling Wit"
-                },
-                {
-                    "count": 1,
-                    "name": "Return the Favor"
-                },
-                {
-                    "count": 1,
-                    "name": "Roaring Furnace // Steaming Sauna"
+                    "name": "Spell Snare"
                 },
                 {
                     "count": 2,
-                    "name": "Sunderflock"
+                    "name": "Wan Shi Tong, Librarian"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2026-07-06",
-            "player": "RPA",
+            "date": "2026-07-08",
+            "player": "VCnet",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_RPA",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_VCnet",
             "mainboard": [
                 {
                     "count": 4,
@@ -296,10 +157,6 @@
                     "name": "Leatherhead, Swamp Stalker"
                 },
                 {
-                    "count": 3,
-                    "name": "Leyline Weaver"
-                },
-                {
                     "count": 4,
                     "name": "Llanowar Elves"
                 },
@@ -313,6 +170,10 @@
                 },
                 {
                     "count": 3,
+                    "name": "Spider Manifestation"
+                },
+                {
+                    "count": 3,
                     "name": "Surrak, Elusive Hunter"
                 },
                 {
@@ -320,7 +181,7 @@
                     "name": "Meltstrider's Resolve"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Seam Rip"
                 },
                 {
@@ -353,10 +214,6 @@
                 },
                 {
                     "count": 1,
-                    "name": "Elspeth, Storm Slayer"
-                },
-                {
-                    "count": 1,
                     "name": "Bushwhack"
                 },
                 {
@@ -366,7 +223,7 @@
             ],
             "sideboard": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Elspeth, Storm Slayer"
                 },
                 {
@@ -386,10 +243,6 @@
                     "name": "Restoration Magic"
                 },
                 {
-                    "count": 1,
-                    "name": "Seam Rip"
-                },
-                {
                     "count": 4,
                     "name": "Sheltered by Ghosts"
                 },
@@ -401,235 +254,108 @@
             "notes": null
         },
         {
-            "date": "2026-07-06",
-            "player": "InalienableDreamless",
+            "date": "2026-07-08",
+            "player": "Jon_Ma",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_InalienableDreamless",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_Jon_Ma",
             "mainboard": [
                 {
+                    "count": 4,
+                    "name": "Eddymurk Crab"
+                },
+                {
+                    "count": 4,
+                    "name": "Hearth Elemental"
+                },
+                {
                     "count": 3,
-                    "name": "Clay-Fired Bricks"
-                },
-                {
-                    "count": 4,
-                    "name": "Cryogen Relic"
+                    "name": "Sunderflock"
                 },
                 {
                     "count": 3,
-                    "name": "Perilous Snare"
+                    "name": "Burst Lightning"
                 },
                 {
                     "count": 4,
-                    "name": "Pinnacle Starcage"
+                    "name": "Opt"
                 },
                 {
                     "count": 4,
-                    "name": "Repurposing Bay"
-                },
-                {
-                    "count": 4,
-                    "name": "Simulacrum Synthesizer"
+                    "name": "Prismari Charm"
                 },
                 {
                     "count": 2,
-                    "name": "Spring-Loaded Sawblades"
-                },
-                {
-                    "count": 1,
-                    "name": "The Fire Crystal"
-                },
-                {
-                    "count": 1,
-                    "name": "White Auracite"
-                },
-                {
-                    "count": 1,
-                    "name": "Authority of the Consuls"
+                    "name": "Spell Pierce"
                 },
                 {
                     "count": 2,
-                    "name": "Erode"
+                    "name": "Spell Snare"
                 },
                 {
-                    "count": 1,
-                    "name": "Adagia, Windswept Bastion"
+                    "count": 3,
+                    "name": "Traumatic Critique"
                 },
                 {
-                    "count": 4,
-                    "name": "Floodfarm Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Fomori Vault"
-                },
-                {
-                    "count": 4,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 5,
+                    "count": 6,
                     "name": "Island"
                 },
                 {
-                    "count": 1,
-                    "name": "Meticulous Archive"
-                },
-                {
-                    "count": 7,
-                    "name": "Plains"
-                },
-                {
-                    "count": 2,
-                    "name": "Boomerang Basics"
-                },
-                {
-                    "count": 2,
-                    "name": "Day of Judgment"
+                    "count": 4,
+                    "name": "Riverpyre Verge"
                 },
                 {
                     "count": 4,
-                    "name": "United Battlefront"
-                }
-            ],
-            "sideboard": [
+                    "name": "Spirebluff Canal"
+                },
                 {
-                    "count": 1,
-                    "name": "Astelli Reclaimer"
+                    "count": 4,
+                    "name": "Steam Vents"
                 },
                 {
                     "count": 2,
-                    "name": "Authority of the Consuls"
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Flow State"
                 },
                 {
                     "count": 2,
-                    "name": "Day of Judgment"
+                    "name": "Impractical Joke"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
                 },
                 {
                     "count": 1,
-                    "name": "Krang, Master Mind"
-                },
-                {
-                    "count": 1,
-                    "name": "Mendicant Core, Guidelight"
-                },
-                {
-                    "count": 2,
-                    "name": "No More Lies"
-                },
-                {
-                    "count": 2,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 2,
-                    "name": "Torpor Orb"
-                },
-                {
-                    "count": 2,
-                    "name": "Voice of Victory"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-06",
-            "player": "RobinBanks",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_RobinBanks",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "The Terminus of Return"
-                },
-                {
-                    "count": 4,
-                    "name": "Deceit"
-                },
-                {
-                    "count": 2,
-                    "name": "Doomsday Excruciator"
-                },
-                {
-                    "count": 3,
-                    "name": "Emeritus of Ideation"
-                },
-                {
-                    "count": 4,
-                    "name": "Kavaero, Mind-Bitten"
-                },
-                {
-                    "count": 3,
-                    "name": "Bitter Triumph"
-                },
-                {
-                    "count": 4,
-                    "name": "Requiting Hex"
-                },
-                {
-                    "count": 2,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Gloomlake Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Hidden Lair"
-                },
-                {
-                    "count": 4,
-                    "name": "Restless Reef"
-                },
-                {
-                    "count": 8,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Watery Grave"
-                },
-                {
-                    "count": 2,
-                    "name": "Day of Black Sun"
-                },
-                {
-                    "count": 2,
-                    "name": "Deadly Cover-Up"
-                },
-                {
-                    "count": 3,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Stock Up"
-                },
-                {
-                    "count": 4,
                     "name": "Winternight Stories"
                 }
             ],
             "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Belion, the Parched"
+                },
+                {
+                    "count": 1,
+                    "name": "Broadside Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Colorstorm Stallion"
+                },
                 {
                     "count": 1,
                     "name": "Disdainful Stroke"
                 },
                 {
                     "count": 1,
-                    "name": "Doomsday Excruciator"
-                },
-                {
-                    "count": 1,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Flashfreeze"
-                },
-                {
-                    "count": 1,
-                    "name": "M.O.D.O.K."
+                    "name": "Get Out"
                 },
                 {
                     "count": 1,
@@ -637,32 +363,342 @@
                 },
                 {
                     "count": 2,
-                    "name": "Qarsi Revenant"
+                    "name": "Ral, Crackling Wit"
                 },
                 {
                     "count": 1,
-                    "name": "Spell Snare"
+                    "name": "Sear"
                 },
                 {
                     "count": 1,
-                    "name": "Stock Up"
+                    "name": "Slagstorm"
                 },
                 {
-                    "count": 2,
-                    "name": "Strategic Betrayal"
+                    "count": 1,
+                    "name": "Sunderflock"
                 },
                 {
-                    "count": 2,
-                    "name": "Wrench, Speedway Saboteur"
+                    "count": 1,
+                    "name": "The Legend of Kuruk"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2026-07-06",
-            "player": "Wata",
+            "date": "2026-07-08",
+            "player": "StanUA",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_Wata",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_StanUA",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Colorstorm Stallion"
+                },
+                {
+                    "count": 3,
+                    "name": "Eddymurk Crab"
+                },
+                {
+                    "count": 1,
+                    "name": "Namor the Sub-Mariner"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Roaring Furnace // Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 1,
+                    "name": "Bounce Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Secret Identity"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Vibrant Outburst"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang Basics"
+                },
+                {
+                    "count": 4,
+                    "name": "Flow State"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Avengers Disassembled"
+                },
+                {
+                    "count": 1,
+                    "name": "Broadside Barrage"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Impractical Joke"
+                },
+                {
+                    "count": 1,
+                    "name": "Namor the Sub-Mariner"
+                },
+                {
+                    "count": 2,
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 1,
+                    "name": "Sear"
+                },
+                {
+                    "count": 1,
+                    "name": "Slagstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-08",
+            "player": "TheBigBrain",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_TheBigBrain",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ancient Cornucopia"
+                },
+                {
+                    "count": 4,
+                    "name": "Consult the Star Charts"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Cycle"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Quandrix Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 3,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 1,
+                    "name": "Three Steps Ahead"
+                },
+                {
+                    "count": 1,
+                    "name": "Witherbloom Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Deathcap Glade"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Hall of the Biblioplex"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistrise Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Petrified Hamlet"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Professor Dellian Fel"
+                },
+                {
+                    "count": 1,
+                    "name": "Day of Black Sun"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Cover-Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Decorum Dissertation"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Flow State"
+                },
+                {
+                    "count": 2,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Strategic Betrayal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 1,
+                    "name": "Outrageous Robbery"
+                },
+                {
+                    "count": 1,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 1,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 1,
+                    "name": "The Dawning Archaic"
+                },
+                {
+                    "count": 2,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Witherbloom Charm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-08",
+            "player": "4FunNoWin",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_4FunNoWin",
             "mainboard": [
                 {
                     "count": 4,
@@ -701,15 +737,11 @@
                     "name": "Jeskai Revelation"
                 },
                 {
-                    "count": 1,
-                    "name": "Three Steps Ahead"
-                },
-                {
                     "count": 4,
                     "name": "Great Hall of the Biblioplex"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Hallowed Fountain"
                 },
                 {
@@ -725,16 +757,20 @@
                     "name": "Riverpyre Verge"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Spirebluff Canal"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Steam Vents"
                 },
                 {
                     "count": 1,
                     "name": "Sundown Pass"
+                },
+                {
+                    "count": 1,
+                    "name": "Improvisation Capstone"
                 },
                 {
                     "count": 2,
@@ -751,6 +787,10 @@
                     "name": "Annul"
                 },
                 {
+                    "count": 2,
+                    "name": "Day of Judgment"
+                },
+                {
                     "count": 1,
                     "name": "Emeritus of Ideation"
                 },
@@ -763,6 +803,10 @@
                     "name": "Ghost Vacuum"
                 },
                 {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
                     "count": 4,
                     "name": "Price of Freedom"
                 },
@@ -772,28 +816,20 @@
                 },
                 {
                     "count": 1,
-                    "name": "Return the Favor"
-                },
-                {
-                    "count": 2,
                     "name": "Slagstorm"
                 },
                 {
                     "count": 1,
                     "name": "Spell Pierce"
-                },
-                {
-                    "count": 1,
-                    "name": "Splatter Technique"
                 }
             ],
             "notes": null
         },
         {
-            "date": "2026-07-06",
-            "player": "Black_72",
+            "date": "2026-07-08",
+            "player": "ParinorMTG",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0610879#deck_Black_72",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_ParinorMTG",
             "mainboard": [
                 {
                     "count": 4,
@@ -836,11 +872,11 @@
                     "name": "Great Hall of the Biblioplex"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Hallowed Fountain"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Island"
                 },
                 {
@@ -848,7 +884,7 @@
                     "name": "Mistrise Village"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Riverpyre Verge"
                 },
                 {
@@ -882,12 +918,135 @@
                     "name": "Avengers Disassembled"
                 },
                 {
+                    "count": 1,
+                    "name": "Broadside Barrage"
+                },
+                {
                     "count": 2,
-                    "name": "Day of Judgment"
+                    "name": "Emeritus of Ideation"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Price of Freedom"
                 },
                 {
                     "count": 1,
-                    "name": "Disdainful Stroke"
+                    "name": "Ral, Crackling Wit"
+                },
+                {
+                    "count": 1,
+                    "name": "Return the Favor"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-08",
+            "player": "Wata",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-07-0810879#deck_Wata",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Tablet of Discovery"
+                },
+                {
+                    "count": 4,
+                    "name": "Gran-Gran"
+                },
+                {
+                    "count": 4,
+                    "name": "Abandon Attachments"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulate Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Combustion Technique"
+                },
+                {
+                    "count": 4,
+                    "name": "Firebending Lesson"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashback"
+                },
+                {
+                    "count": 2,
+                    "name": "It'll Quench Ya!"
+                },
+                {
+                    "count": 4,
+                    "name": "Jeskai Revelation"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Hall of the Biblioplex"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistrise Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverpyre Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Sundown Pass"
+                },
+                {
+                    "count": 1,
+                    "name": "Improvisation Capstone"
+                },
+                {
+                    "count": 2,
+                    "name": "Iroh's Demonstration"
+                },
+                {
+                    "count": 3,
+                    "name": "Stock Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Day of Judgment"
                 },
                 {
                     "count": 1,
@@ -902,6 +1061,10 @@
                     "name": "Ghost Vacuum"
                 },
                 {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
                     "count": 4,
                     "name": "Price of Freedom"
                 },
@@ -910,7 +1073,11 @@
                     "name": "Ral, Crackling Wit"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Slagstorm"
+                },
+                {
+                    "count": 1,
                     "name": "Spell Pierce"
                 }
             ],
