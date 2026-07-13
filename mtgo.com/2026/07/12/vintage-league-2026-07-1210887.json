@@ -9,9 +9,9 @@
     "decks": [
         {
             "date": "2026-07-12",
-            "player": "fondaparinoux",
+            "player": "Blue_Man7",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_fondaparinoux",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_Blue_Man7",
             "mainboard": [
                 {
                     "count": 1,
@@ -22,12 +22,12 @@
                     "name": "Serum Powder"
                 },
                 {
-                    "count": 1,
-                    "name": "Golgari Grave-Troll"
+                    "count": 4,
+                    "name": "Basking Rootwalla"
                 },
                 {
                     "count": 4,
-                    "name": "Golgari Thug"
+                    "name": "Blazing Rootwalla"
                 },
                 {
                     "count": 4,
@@ -35,31 +35,31 @@
                 },
                 {
                     "count": 4,
-                    "name": "Ichorid"
+                    "name": "Master of Death"
                 },
                 {
                     "count": 4,
-                    "name": "Narcomoeba"
+                    "name": "Squee, Goblin Nabob"
                 },
                 {
                     "count": 4,
-                    "name": "Prized Amalgam"
-                },
-                {
-                    "count": 3,
-                    "name": "Shambling Shell"
+                    "name": "Subtlety"
                 },
                 {
                     "count": 4,
-                    "name": "Silversmote Ghoul"
+                    "name": "Vengevine"
                 },
                 {
                     "count": 4,
-                    "name": "Stinkweed Imp"
+                    "name": "Commandeer"
                 },
                 {
                     "count": 4,
                     "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
                 },
                 {
                     "count": 4,
@@ -70,46 +70,189 @@
                     "name": "Mental Misstep"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Noxious Revival"
                 },
                 {
                     "count": 4,
                     "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 4,
-                    "name": "Creeping Chill"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "name": "Echoing Deeps"
                 },
                 {
                     "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Trap"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-12",
+            "player": "schnitzlklopfa",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_schnitzlklopfa",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 4,
+                    "name": "Barrowgoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 4,
+                    "name": "Deathrite Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 2,
+                    "name": "Hexing Squelcher"
+                },
+                {
+                    "count": 1,
+                    "name": "Chains of Mephistopheles"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
                     "name": "Force of Vigor"
                 },
                 {
                     "count": 1,
-                    "name": "Shambling Shell"
+                    "name": "Lightning Bolt"
                 },
                 {
-                    "count": 4,
-                    "name": "Sickening Shoal"
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 3,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
                 },
                 {
                     "count": 1,
                     "name": "Strip Mine"
                 },
                 {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
                     "count": 4,
                     "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Knight of Infamy"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Yixlid Jailer"
                 }
             ],
             "notes": null
@@ -295,160 +438,9 @@
         },
         {
             "date": "2026-07-12",
-            "player": "schnitzlklopfa",
+            "player": "fondaparinoux",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_schnitzlklopfa",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 4,
-                    "name": "Barrowgoyf"
-                },
-                {
-                    "count": 4,
-                    "name": "Collector Ouphe"
-                },
-                {
-                    "count": 4,
-                    "name": "Deathrite Shaman"
-                },
-                {
-                    "count": 4,
-                    "name": "Elvish Spirit Guide"
-                },
-                {
-                    "count": 2,
-                    "name": "Hexing Squelcher"
-                },
-                {
-                    "count": 1,
-                    "name": "Chains of Mephistopheles"
-                },
-                {
-                    "count": 1,
-                    "name": "Sylvan Library"
-                },
-                {
-                    "count": 1,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 2,
-                    "name": "Abrupt Decay"
-                },
-                {
-                    "count": 3,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 1,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Badlands"
-                },
-                {
-                    "count": 3,
-                    "name": "Bayou"
-                },
-                {
-                    "count": 3,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 1,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 4,
-                    "name": "Verdant Catacombs"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 3,
-                    "name": "Wrenn and Six"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 3,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 2,
-                    "name": "Knight of Infamy"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 2,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 2,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "The Tabernacle at Pendrell Vale"
-                },
-                {
-                    "count": 1,
-                    "name": "Yixlid Jailer"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-12",
-            "player": "Blue_Man7",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_Blue_Man7",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-07-1210887#deck_fondaparinoux",
             "mainboard": [
                 {
                     "count": 1,
@@ -459,12 +451,12 @@
                     "name": "Serum Powder"
                 },
                 {
-                    "count": 4,
-                    "name": "Basking Rootwalla"
+                    "count": 1,
+                    "name": "Golgari Grave-Troll"
                 },
                 {
                     "count": 4,
-                    "name": "Blazing Rootwalla"
+                    "name": "Golgari Thug"
                 },
                 {
                     "count": 4,
@@ -472,31 +464,31 @@
                 },
                 {
                     "count": 4,
-                    "name": "Master of Death"
+                    "name": "Ichorid"
                 },
                 {
                     "count": 4,
-                    "name": "Squee, Goblin Nabob"
+                    "name": "Narcomoeba"
                 },
                 {
                     "count": 4,
-                    "name": "Subtlety"
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 3,
+                    "name": "Shambling Shell"
                 },
                 {
                     "count": 4,
-                    "name": "Vengevine"
+                    "name": "Silversmote Ghoul"
                 },
                 {
                     "count": 4,
-                    "name": "Commandeer"
+                    "name": "Stinkweed Imp"
                 },
                 {
                     "count": 4,
                     "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Vigor"
                 },
                 {
                     "count": 4,
@@ -507,38 +499,46 @@
                     "name": "Mental Misstep"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Mindbreak Trap"
                 },
                 {
-                    "count": 2,
+                    "count": 4,
                     "name": "Noxious Revival"
                 },
                 {
                     "count": 4,
                     "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Chill"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 1,
                     "name": "Echoing Deeps"
                 },
                 {
                     "count": 4,
-                    "name": "Fury"
+                    "name": "Force of Vigor"
                 },
                 {
-                    "count": 2,
-                    "name": "Noxious Revival"
+                    "count": 1,
+                    "name": "Shambling Shell"
                 },
                 {
                     "count": 4,
-                    "name": "Pyrokinesis"
+                    "name": "Sickening Shoal"
                 },
                 {
-                    "count": 2,
-                    "name": "Ravenous Trap"
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
                 }
             ],
             "notes": null
