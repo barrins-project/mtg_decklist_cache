@@ -9,13 +9,29 @@
     "decks": [
         {
             "date": "2026-07-18",
-            "player": "VentoAureo",
+            "player": "darikun",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_VentoAureo",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_darikun",
             "mainboard": [
                 {
-                    "count": 2,
+                    "count": 4,
+                    "name": "Detective's Phoenix"
+                },
+                {
+                    "count": 3,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 1,
                     "name": "Inti, Seneschal of the Sun"
+                },
+                {
+                    "count": 4,
+                    "name": "Marauding Mako"
                 },
                 {
                     "count": 4,
@@ -23,27 +39,11 @@
                 },
                 {
                     "count": 4,
-                    "name": "Psychic Frog"
+                    "name": "Nethergoyf"
                 },
                 {
                     "count": 4,
-                    "name": "Ragavan, Nimble Pilferer"
-                },
-                {
-                    "count": 4,
-                    "name": "Scion of Draco"
-                },
-                {
-                    "count": 4,
-                    "name": "Territorial Kavu"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline Binding"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Guildpact"
+                    "name": "Street Wraith"
                 },
                 {
                     "count": 4,
@@ -51,19 +51,289 @@
                 },
                 {
                     "count": 2,
-                    "name": "Stubborn Denial"
+                    "name": "Tarfire"
+                },
+                {
+                    "count": 2,
+                    "name": "Arena of Glory"
                 },
                 {
                     "count": 4,
                     "name": "Arid Mesa"
                 },
                 {
-                    "count": 1,
+                    "count": 3,
                     "name": "Blood Crypt"
                 },
                 {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
                     "count": 1,
-                    "name": "Breeding Pool"
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Inquiry"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Collapse"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Charmaw"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "LuckyMagic0wl",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_LuckyMagic0wl",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Amulet of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Aftermath Analyst"
+                },
+                {
+                    "count": 4,
+                    "name": "Arboreal Grazer"
+                },
+                {
+                    "count": 1,
+                    "name": "Cultivator Colossus"
+                },
+                {
+                    "count": 3,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Spelunking"
+                },
+                {
+                    "count": 2,
+                    "name": "Summoner's Pact"
+                },
+                {
+                    "count": 3,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 4,
+                    "name": "Crumbling Vestige"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Deeps"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Gruul Turf"
+                },
+                {
+                    "count": 1,
+                    "name": "Hanweir Battlements"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirrorpool"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Shifting Woodland"
+                },
+                {
+                    "count": 3,
+                    "name": "Simic Growth Chamber"
+                },
+                {
+                    "count": 2,
+                    "name": "The Mycosynth Gardens"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolaria West"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Cave"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 4,
+                    "name": "Scapeshift"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Six"
+                },
+                {
+                    "count": 2,
+                    "name": "Stock Up"
+                },
+                {
+                    "count": 3,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "ReanimatorFiend",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_ReanimatorFiend",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 2,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 1,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 3,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Superior Spider-Man"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 3,
+                    "name": "Faithful Mending"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Goryo's Vengeance"
+                },
+                {
+                    "count": 1,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Otherworldly Gaze"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
                 },
                 {
                     "count": 1,
@@ -71,7 +341,571 @@
                 },
                 {
                     "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Drannith Magistrate"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "InhaleSpliff",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_InhaleSpliff",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Detective's Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Marauding Mako"
+                },
+                {
+                    "count": 4,
+                    "name": "Moonshadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Nethergoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
                     "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Inquiry"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Magebane Lizard"
+                },
+                {
+                    "count": 3,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Charmaw"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "apriolo1",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_apriolo1",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Amulet of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Arboreal Grazer"
+                },
+                {
+                    "count": 3,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Formidable Speaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Guildpact"
+                },
+                {
+                    "count": 4,
+                    "name": "Spelunking"
+                },
+                {
+                    "count": 2,
+                    "name": "Summoner's Pact"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Garenbrig"
+                },
+                {
+                    "count": 2,
+                    "name": "Crumbling Vestige"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Hanweir Battlements"
+                },
+                {
+                    "count": 1,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 3,
+                    "name": "Nykthos, Shrine to Nyx"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Selesnya Sanctuary"
+                },
+                {
+                    "count": 2,
+                    "name": "Simic Growth Chamber"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolaria West"
+                },
+                {
+                    "count": 2,
+                    "name": "Valakut, the Molten Pinnacle"
+                },
+                {
+                    "count": 1,
+                    "name": "Vesuva"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 3,
+                    "name": "Drannith Magistrate"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Ground"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Funnyman31399",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Funnyman31399",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Blade of the Bloodchief"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 2,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 4,
+                    "name": "Emrakul, the Promised End"
+                },
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Thief of Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Writhing Chrysalis"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Commercial District"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin's Labyrinth"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 1,
+                    "name": "Blade of the Bloodchief"
+                },
+                {
+                    "count": 2,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 2,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Thief of Existence"
+                },
+                {
+                    "count": 1,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 1,
+                    "name": "Writhing Chrysalis"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Snoobie",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Snoobie",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Abhorrent Oculus"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 4,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
                 },
                 {
                     "count": 4,
@@ -83,27 +917,162 @@
                 },
                 {
                     "count": 1,
-                    "name": "Spara's Headquarters"
+                    "name": "Scalding Tarn"
                 },
                 {
                     "count": 1,
                     "name": "Steam Vents"
                 },
                 {
-                    "count": 1,
-                    "name": "Temple Garden"
+                    "count": 2,
+                    "name": "Swamp"
                 },
                 {
                     "count": 1,
-                    "name": "Verdant Catacombs"
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
                 },
                 {
                     "count": 4,
-                    "name": "Wooded Foothills"
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Persist"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Vexing Bauble"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Silk_lobelia",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Silk_lobelia",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
                 },
                 {
                     "count": 3,
-                    "name": "Practiced Offense"
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Assault Strobe"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
                 }
             ],
             "sideboard": [
@@ -112,28 +1081,262 @@
                     "name": "Consign to Memory"
                 },
                 {
-                    "count": 2,
-                    "name": "Fire Magic"
-                },
-                {
-                    "count": 2,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 3,
-                    "name": "Mystical Dispute"
-                },
-                {
-                    "count": 2,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 2,
-                    "name": "Obsidian Charmaw"
+                    "count": 4,
+                    "name": "Expressive Iteration"
                 },
                 {
                     "count": 1,
-                    "name": "Wear/Tear"
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Heat"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "SkyThZ",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_SkyThZ",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashback"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 2,
+                    "name": "Violent Urge"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Heat"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Eyelash",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Eyelash",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Colossus Hammer"
+                },
+                {
+                    "count": 4,
+                    "name": "Doc Ock's Tentacles"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavaspur Boots"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 4,
+                    "name": "Kappa Cannoneer"
+                },
+                {
+                    "count": 4,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Puresteel Paladin"
+                },
+                {
+                    "count": 4,
+                    "name": "Super-Soldier Serum"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 3,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
                 }
             ],
             "notes": null
@@ -311,855 +1514,21 @@
         },
         {
             "date": "2026-07-18",
-            "player": "GrandpaBiceps",
+            "player": "Andrea_Paglialunga",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_GrandpaBiceps",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 4,
-                    "name": "Boggart Trawler"
-                },
-                {
-                    "count": 4,
-                    "name": "Ketramose, the New Dawn"
-                },
-                {
-                    "count": 3,
-                    "name": "Sheoldred, the Apocalypse"
-                },
-                {
-                    "count": 3,
-                    "name": "Sorin of House Markov"
-                },
-                {
-                    "count": 4,
-                    "name": "Necrodominance"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 4,
-                    "name": "Fell the Profane"
-                },
-                {
-                    "count": 3,
-                    "name": "March of Wretched Sorrow"
-                },
-                {
-                    "count": 1,
-                    "name": "Sheoldred's Edict"
-                },
-                {
-                    "count": 4,
-                    "name": "Soul Spike"
-                },
-                {
-                    "count": 2,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 2,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 3,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 2,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 2,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Shadowy Backstreet"
-                },
-                {
-                    "count": 3,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 3,
-                    "name": "Inquisition of Kozilek"
-                },
-                {
-                    "count": 2,
-                    "name": "Pest Control"
-                },
-                {
-                    "count": 3,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Break the Ice"
-                },
-                {
-                    "count": 3,
-                    "name": "Dauthi Voidwalker"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Despair"
-                },
-                {
-                    "count": 2,
-                    "name": "Fracture"
-                },
-                {
-                    "count": 2,
-                    "name": "Pest Control"
-                },
-                {
-                    "count": 1,
-                    "name": "Sheoldred's Edict"
-                },
-                {
-                    "count": 1,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Toscanini",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Toscanini",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ajani, Nacatl Pariah"
-                },
-                {
-                    "count": 4,
-                    "name": "Guide of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Ocelot Pride"
-                },
-                {
-                    "count": 4,
-                    "name": "Ragavan, Nimble Pilferer"
-                },
-                {
-                    "count": 2,
-                    "name": "Reckless Pyrosurfer"
-                },
-                {
-                    "count": 3,
-                    "name": "Seasoned Pyromancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Bombardment"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 2,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 1,
-                    "name": "Arena of Glory"
-                },
-                {
-                    "count": 4,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 1,
-                    "name": "Dalkovan Encampment"
-                },
-                {
-                    "count": 2,
-                    "name": "Elegant Parlor"
-                },
-                {
-                    "count": 4,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 4,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Sacred Foundry"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 2,
-                    "name": "Celestial Purge"
-                },
-                {
-                    "count": 1,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 2,
-                    "name": "Meltdown"
-                },
-                {
-                    "count": 1,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 1,
-                    "name": "Surgical Extraction"
-                },
-                {
-                    "count": 1,
-                    "name": "The Legend of Roku"
-                },
-                {
-                    "count": 1,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 2,
-                    "name": "Wear/Tear"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Sh4rk",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Sh4rk",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Boggart Trawler"
-                },
-                {
-                    "count": 4,
-                    "name": "Emperor of Bones"
-                },
-                {
-                    "count": 3,
-                    "name": "Flickerwisp"
-                },
-                {
-                    "count": 2,
-                    "name": "Ketramose, the New Dawn"
-                },
-                {
-                    "count": 1,
-                    "name": "Orcish Bowmasters"
-                },
-                {
-                    "count": 4,
-                    "name": "Overlord of the Balemurk"
-                },
-                {
-                    "count": 4,
-                    "name": "Phelia, Exuberant Shepherd"
-                },
-                {
-                    "count": 1,
-                    "name": "Skyclave Apparition"
-                },
-                {
-                    "count": 4,
-                    "name": "Solitude"
-                },
-                {
-                    "count": 4,
-                    "name": "Witch Enchanter"
-                },
-                {
-                    "count": 3,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 1,
-                    "name": "March of Otherworldly Light"
-                },
-                {
-                    "count": 1,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 2,
-                    "name": "Concealed Courtyard"
-                },
-                {
-                    "count": 3,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 4,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
-                    "count": 2,
-                    "name": "Shadowy Backstreet"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Ashiok, Dream Render"
-                },
-                {
-                    "count": 2,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 1,
-                    "name": "Elesh Norn, Mother of Machines"
-                },
-                {
-                    "count": 3,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 2,
-                    "name": "Vindicate"
-                },
-                {
-                    "count": 2,
-                    "name": "White Orchid Phantom"
-                },
-                {
-                    "count": 2,
-                    "name": "Wrath of the Skies"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "SweetnamStyle",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_SweetnamStyle",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Colossal Skyturtle"
-                },
-                {
-                    "count": 1,
-                    "name": "Curator of Mysteries"
-                },
-                {
-                    "count": 1,
-                    "name": "Deceit"
-                },
-                {
-                    "count": 1,
-                    "name": "Disciple of Freyalise"
-                },
-                {
-                    "count": 4,
-                    "name": "Endurance"
-                },
-                {
-                    "count": 3,
-                    "name": "Formidable Speaker"
-                },
-                {
-                    "count": 3,
-                    "name": "Generous Ent"
-                },
-                {
-                    "count": 1,
-                    "name": "Halo Forager"
-                },
-                {
-                    "count": 4,
-                    "name": "Overlord of the Balemurk"
-                },
-                {
-                    "count": 4,
-                    "name": "Shardless Agent"
-                },
-                {
-                    "count": 2,
-                    "name": "Street Wraith"
-                },
-                {
-                    "count": 4,
-                    "name": "Subtlety"
-                },
-                {
-                    "count": 2,
-                    "name": "Troll of Khazad-dûm"
-                },
-                {
-                    "count": 4,
-                    "name": "Wistfulness"
-                },
-                {
-                    "count": 1,
-                    "name": "Flare of Denial"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 1,
-                    "name": "Sink into Stupor"
-                },
-                {
-                    "count": 1,
-                    "name": "Breeding Pool"
-                },
-                {
-                    "count": 1,
-                    "name": "Flooded Grove"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Hedge Maze"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Mistrise Village"
-                },
-                {
-                    "count": 4,
-                    "name": "Misty Rainforest"
-                },
-                {
-                    "count": 1,
-                    "name": "Otawara, Soaring City"
-                },
-                {
-                    "count": 1,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Undercity Sewers"
-                },
-                {
-                    "count": 1,
-                    "name": "Underground Mortuary"
-                },
-                {
-                    "count": 1,
-                    "name": "Watery Grave"
-                },
-                {
-                    "count": 3,
-                    "name": "Living End"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Culling Ritual"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Deceit"
-                },
-                {
-                    "count": 1,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 1,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 1,
-                    "name": "Foundation Breaker"
-                },
-                {
-                    "count": 1,
-                    "name": "Harvester of Misery"
-                },
-                {
-                    "count": 2,
-                    "name": "Inevitable Betrayal"
-                },
-                {
-                    "count": 1,
-                    "name": "Mai, Scornful Striker"
-                },
-                {
-                    "count": 3,
-                    "name": "Mystical Dispute"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "ratabruta",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_ratabruta",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ajani, Nacatl Pariah"
-                },
-                {
-                    "count": 4,
-                    "name": "Guide of Souls"
-                },
-                {
-                    "count": 1,
-                    "name": "Haliya, Guided by Light"
-                },
-                {
-                    "count": 4,
-                    "name": "Ocelot Pride"
-                },
-                {
-                    "count": 4,
-                    "name": "Ragavan, Nimble Pilferer"
-                },
-                {
-                    "count": 2,
-                    "name": "Ranger-Captain of Eos"
-                },
-                {
-                    "count": 3,
-                    "name": "Seasoned Pyromancer"
-                },
-                {
-                    "count": 3,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 3,
-                    "name": "Goblin Bombardment"
-                },
-                {
-                    "count": 1,
-                    "name": "Static Prison"
-                },
-                {
-                    "count": 2,
-                    "name": "The Legend of Roku"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 2,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 1,
-                    "name": "Arena of Glory"
-                },
-                {
-                    "count": 4,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 2,
-                    "name": "Dalkovan Encampment"
-                },
-                {
-                    "count": 2,
-                    "name": "Elegant Parlor"
-                },
-                {
-                    "count": 4,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 3,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Sacred Foundry"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 2,
-                    "name": "Celestial Purge"
-                },
-                {
-                    "count": 2,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 2,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 2,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 2,
-                    "name": "Wear/Tear"
-                },
-                {
-                    "count": 3,
-                    "name": "Wrath of the Skies"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "lxystannis",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_lxystannis",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Boggart Trawler"
-                },
-                {
-                    "count": 3,
-                    "name": "Emperor of Bones"
-                },
-                {
-                    "count": 3,
-                    "name": "Flickerwisp"
-                },
-                {
-                    "count": 4,
-                    "name": "Overlord of the Balemurk"
-                },
-                {
-                    "count": 4,
-                    "name": "Phelia, Exuberant Shepherd"
-                },
-                {
-                    "count": 4,
-                    "name": "Quantum Riddler"
-                },
-                {
-                    "count": 4,
-                    "name": "Solitude"
-                },
-                {
-                    "count": 3,
-                    "name": "Witch Enchanter"
-                },
-                {
-                    "count": 3,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 3,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 1,
-                    "name": "March of Otherworldly Light"
-                },
-                {
-                    "count": 1,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 1,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 1,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Meticulous Archive"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 2,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Shadowy Backstreet"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Undercity Sewers"
-                },
-                {
-                    "count": 1,
-                    "name": "Watery Grave"
-                },
-                {
-                    "count": 2,
-                    "name": "Teferi, Time Raveler"
-                },
-                {
-                    "count": 1,
-                    "name": "Prismatic Ending"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 3,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 2,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 3,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 2,
-                    "name": "Mystical Dispute"
-                },
-                {
-                    "count": 3,
-                    "name": "Wrath of the Skies"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "mogis67",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_mogis67",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Andrea_Paglialunga",
             "mainboard": [
                 {
                     "count": 4,
                     "name": "Abhorrent Oculus"
                 },
                 {
-                    "count": 4,
-                    "name": "Archon of Cruelty"
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 3,
+                    "name": "Orcish Bowmasters"
                 },
                 {
                     "count": 4,
@@ -1167,7 +1536,11 @@
                 },
                 {
                     "count": 3,
-                    "name": "Ragavan, Nimble Pilferer"
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
                 },
                 {
                     "count": 4,
@@ -1175,27 +1548,47 @@
                 },
                 {
                     "count": 3,
-                    "name": "Spell Pierce"
+                    "name": "Force of Negation"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 4,
                     "name": "Thought Scour"
                 },
                 {
                     "count": 1,
-                    "name": "Blackcleave Cliffs"
+                    "name": "Flooded Strand"
                 },
                 {
-                    "count": 1,
-                    "name": "Blood Crypt"
+                    "count": 2,
+                    "name": "Gloomlake Verge"
                 },
                 {
-                    "count": 4,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 1,
+                    "count": 3,
                     "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
                 },
                 {
                     "count": 4,
@@ -1203,39 +1596,19 @@
                 },
                 {
                     "count": 1,
-                    "name": "Raucous Theater"
-                },
-                {
-                    "count": 1,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 1,
-                    "name": "Steam Vents"
-                },
-                {
-                    "count": 2,
                     "name": "Swamp"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Undercity Sewers"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Watery Grave"
                 },
                 {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 4,
-                    "name": "Persist"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
+                    "count": 1,
+                    "name": "Toxic Deluge"
                 },
                 {
                     "count": 4,
@@ -1248,12 +1621,8 @@
                     "name": "Consign to Memory"
                 },
                 {
-                    "count": 2,
-                    "name": "Kaito, Bane of Nightmares"
-                },
-                {
-                    "count": 2,
-                    "name": "Meltdown"
+                    "count": 3,
+                    "name": "Harbinger of the Seas"
                 },
                 {
                     "count": 2,
@@ -1261,241 +1630,19 @@
                 },
                 {
                     "count": 2,
-                    "name": "Pyroclasm"
-                },
-                {
-                    "count": 3,
-                    "name": "Surgical Extraction"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Eyelash",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Eyelash",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Colossus Hammer"
-                },
-                {
-                    "count": 4,
-                    "name": "Doc Ock's Tentacles"
+                    "name": "Nihil Spellbomb"
                 },
                 {
                     "count": 1,
-                    "name": "Lavaspur Boots"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline Axe"
-                },
-                {
-                    "count": 4,
-                    "name": "Mox Opal"
+                    "name": "Snapcaster Mage"
                 },
                 {
                     "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Shadowspear"
-                },
-                {
-                    "count": 1,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 4,
-                    "name": "Welding Jar"
-                },
-                {
-                    "count": 4,
-                    "name": "Kappa Cannoneer"
-                },
-                {
-                    "count": 4,
-                    "name": "Memnite"
-                },
-                {
-                    "count": 4,
-                    "name": "Ornithopter"
-                },
-                {
-                    "count": 4,
-                    "name": "Puresteel Paladin"
-                },
-                {
-                    "count": 4,
-                    "name": "Super-Soldier Serum"
+                    "name": "The Meathook Massacre"
                 },
                 {
                     "count": 2,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 2,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Meticulous Archive"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Seachrome Coast"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Saga"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 3,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 3,
-                    "name": "Metallic Rebuke"
-                },
-                {
-                    "count": 2,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 4,
-                    "name": "Slippery Bogle"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "FutureExPro",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_FutureExPro",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Solitude"
-                },
-                {
-                    "count": 4,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 1,
-                    "name": "The Legend of Roku"
-                },
-                {
-                    "count": 4,
-                    "name": "Erode"
-                },
-                {
-                    "count": 3,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 3,
-                    "name": "Path to Exile"
-                },
-                {
-                    "count": 1,
-                    "name": "Castle Ardenvale"
-                },
-                {
-                    "count": 3,
-                    "name": "Cori Mountain Monastery"
-                },
-                {
-                    "count": 4,
-                    "name": "Demolition Field"
-                },
-                {
-                    "count": 4,
-                    "name": "Field of Ruin"
-                },
-                {
-                    "count": 2,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Plains"
-                },
-                {
-                    "count": 2,
-                    "name": "Rustvale Bridge"
-                },
-                {
-                    "count": 2,
-                    "name": "Sacred Foundry"
-                },
-                {
-                    "count": 3,
-                    "name": "Sunken Citadel"
-                },
-                {
-                    "count": 4,
-                    "name": "Avengers Disassembled"
-                },
-                {
-                    "count": 4,
-                    "name": "Cleansing Wildfire"
-                },
-                {
-                    "count": 4,
-                    "name": "Price of Freedom"
-                },
-                {
-                    "count": 4,
-                    "name": "Wrath of the Skies"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Celestial Purge"
-                },
-                {
-                    "count": 2,
-                    "name": "Chandra, Awakened Inferno"
-                },
-                {
-                    "count": 1,
-                    "name": "Kaheera, the Orphanguard"
-                },
-                {
-                    "count": 4,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 2,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 2,
-                    "name": "Wear/Tear"
-                },
-                {
-                    "count": 2,
-                    "name": "Wrath of God"
+                    "name": "Thoughtseize"
                 }
             ],
             "notes": null
@@ -1665,705 +1812,6 @@
         },
         {
             "date": "2026-07-18",
-            "player": "Diem4x",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Diem4x",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ajani, Nacatl Pariah"
-                },
-                {
-                    "count": 4,
-                    "name": "Guide of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Ocelot Pride"
-                },
-                {
-                    "count": 4,
-                    "name": "Ragavan, Nimble Pilferer"
-                },
-                {
-                    "count": 2,
-                    "name": "Reckless Pyrosurfer"
-                },
-                {
-                    "count": 3,
-                    "name": "Seasoned Pyromancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Bombardment"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 2,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 1,
-                    "name": "Arena of Glory"
-                },
-                {
-                    "count": 4,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 1,
-                    "name": "Dalkovan Encampment"
-                },
-                {
-                    "count": 2,
-                    "name": "Elegant Parlor"
-                },
-                {
-                    "count": 4,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 4,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Sacred Foundry"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 2,
-                    "name": "Celestial Purge"
-                },
-                {
-                    "count": 1,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "High Noon"
-                },
-                {
-                    "count": 2,
-                    "name": "Meltdown"
-                },
-                {
-                    "count": 1,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 1,
-                    "name": "Surgical Extraction"
-                },
-                {
-                    "count": 1,
-                    "name": "The Legend of Roku"
-                },
-                {
-                    "count": 1,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 2,
-                    "name": "Wear/Tear"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Piiinooo",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Piiinooo",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ajani, Nacatl Pariah"
-                },
-                {
-                    "count": 4,
-                    "name": "Guide of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Ocelot Pride"
-                },
-                {
-                    "count": 4,
-                    "name": "Ragavan, Nimble Pilferer"
-                },
-                {
-                    "count": 2,
-                    "name": "Ranger-Captain of Eos"
-                },
-                {
-                    "count": 3,
-                    "name": "Seasoned Pyromancer"
-                },
-                {
-                    "count": 3,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 3,
-                    "name": "Goblin Bombardment"
-                },
-                {
-                    "count": 1,
-                    "name": "Static Prison"
-                },
-                {
-                    "count": 1,
-                    "name": "The Legend of Roku"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Discharge"
-                },
-                {
-                    "count": 3,
-                    "name": "Thraben Charm"
-                },
-                {
-                    "count": 1,
-                    "name": "Arena of Glory"
-                },
-                {
-                    "count": 4,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 1,
-                    "name": "Dalkovan Encampment"
-                },
-                {
-                    "count": 2,
-                    "name": "Elegant Parlor"
-                },
-                {
-                    "count": 2,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 3,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Sacred Foundry"
-                },
-                {
-                    "count": 2,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 1,
-                    "name": "Scout for Survivors"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Blood Moon"
-                },
-                {
-                    "count": 1,
-                    "name": "Celestial Purge"
-                },
-                {
-                    "count": 3,
-                    "name": "Obsidian Charmaw"
-                },
-                {
-                    "count": 2,
-                    "name": "Orim's Chant"
-                },
-                {
-                    "count": 1,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 1,
-                    "name": "Surgical Extraction"
-                },
-                {
-                    "count": 2,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 2,
-                    "name": "Wear/Tear"
-                },
-                {
-                    "count": 2,
-                    "name": "Wrath of the Skies"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "gyyby297",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_gyyby297",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Blade of the Bloodchief"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Springleaf Drum"
-                },
-                {
-                    "count": 2,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 4,
-                    "name": "Basking Broodscale"
-                },
-                {
-                    "count": 4,
-                    "name": "Devourer of Destiny"
-                },
-                {
-                    "count": 3,
-                    "name": "Emrakul, the Promised End"
-                },
-                {
-                    "count": 4,
-                    "name": "Glaring Fleshraker"
-                },
-                {
-                    "count": 1,
-                    "name": "Haywire Mite"
-                },
-                {
-                    "count": 1,
-                    "name": "Sire of Seven Deaths"
-                },
-                {
-                    "count": 1,
-                    "name": "Sowing Mycospawn"
-                },
-                {
-                    "count": 1,
-                    "name": "Walking Ballista"
-                },
-                {
-                    "count": 4,
-                    "name": "Kozilek's Command"
-                },
-                {
-                    "count": 2,
-                    "name": "Boseiju, Who Endures"
-                },
-                {
-                    "count": 1,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Eldrazi Temple"
-                },
-                {
-                    "count": 5,
-                    "name": "Forest"
-                },
-                {
-                    "count": 3,
-                    "name": "Grove of the Burnwillows"
-                },
-                {
-                    "count": 4,
-                    "name": "Ugin's Labyrinth"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 3,
-                    "name": "Ancient Stirrings"
-                },
-                {
-                    "count": 4,
-                    "name": "Malevolent Rumble"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 1,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 2,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 2,
-                    "name": "Soulless Jailer"
-                },
-                {
-                    "count": 2,
-                    "name": "Torpor Orb"
-                },
-                {
-                    "count": 2,
-                    "name": "Trinisphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Vexing Bauble"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "weezerologist",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_weezerologist",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Archon of Cruelty"
-                },
-                {
-                    "count": 2,
-                    "name": "Emperor of Bones"
-                },
-                {
-                    "count": 3,
-                    "name": "Kavaero, Mind-Bitten"
-                },
-                {
-                    "count": 4,
-                    "name": "Psychic Frog"
-                },
-                {
-                    "count": 3,
-                    "name": "Quantum Riddler"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 3,
-                    "name": "Otherworldly Gaze"
-                },
-                {
-                    "count": 3,
-                    "name": "Spell Snare"
-                },
-                {
-                    "count": 2,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 1,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Marsh Flats"
-                },
-                {
-                    "count": 4,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Shadowy Backstreet"
-                },
-                {
-                    "count": 2,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Undercity Sewers"
-                },
-                {
-                    "count": 2,
-                    "name": "Watery Grave"
-                },
-                {
-                    "count": 4,
-                    "name": "Flow State"
-                },
-                {
-                    "count": 4,
-                    "name": "Persist"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 1,
-                    "name": "Flusterstorm"
-                },
-                {
-                    "count": 2,
-                    "name": "Harbinger of the Seas"
-                },
-                {
-                    "count": 3,
-                    "name": "Orcish Bowmasters"
-                },
-                {
-                    "count": 3,
-                    "name": "Pest Control"
-                },
-                {
-                    "count": 2,
-                    "name": "Teferi, Time Raveler"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Funnyman31399",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Funnyman31399",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Blade of the Bloodchief"
-                },
-                {
-                    "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Springleaf Drum"
-                },
-                {
-                    "count": 2,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 3,
-                    "name": "Basking Broodscale"
-                },
-                {
-                    "count": 4,
-                    "name": "Emrakul, the Promised End"
-                },
-                {
-                    "count": 4,
-                    "name": "Glaring Fleshraker"
-                },
-                {
-                    "count": 1,
-                    "name": "Haywire Mite"
-                },
-                {
-                    "count": 1,
-                    "name": "Thief of Existence"
-                },
-                {
-                    "count": 2,
-                    "name": "Thought-Knot Seer"
-                },
-                {
-                    "count": 2,
-                    "name": "Writhing Chrysalis"
-                },
-                {
-                    "count": 1,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 4,
-                    "name": "Kozilek's Command"
-                },
-                {
-                    "count": 2,
-                    "name": "Unholy Heat"
-                },
-                {
-                    "count": 2,
-                    "name": "Boseiju, Who Endures"
-                },
-                {
-                    "count": 1,
-                    "name": "Commercial District"
-                },
-                {
-                    "count": 4,
-                    "name": "Eldrazi Temple"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Grove of the Burnwillows"
-                },
-                {
-                    "count": 1,
-                    "name": "Misty Rainforest"
-                },
-                {
-                    "count": 1,
-                    "name": "Stomping Ground"
-                },
-                {
-                    "count": 2,
-                    "name": "Ugin's Labyrinth"
-                },
-                {
-                    "count": 4,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 1,
-                    "name": "Verdant Catacombs"
-                },
-                {
-                    "count": 1,
-                    "name": "Windswept Heath"
-                },
-                {
-                    "count": 2,
-                    "name": "Ancient Stirrings"
-                },
-                {
-                    "count": 4,
-                    "name": "Malevolent Rumble"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Basking Broodscale"
-                },
-                {
-                    "count": 1,
-                    "name": "Blade of the Bloodchief"
-                },
-                {
-                    "count": 2,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 1,
-                    "name": "Disruptor Flute"
-                },
-                {
-                    "count": 2,
-                    "name": "Firespout"
-                },
-                {
-                    "count": 1,
-                    "name": "Gemstone Caverns"
-                },
-                {
-                    "count": 1,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 2,
-                    "name": "Nature's Claim"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Thief of Existence"
-                },
-                {
-                    "count": 1,
-                    "name": "Thought-Knot Seer"
-                },
-                {
-                    "count": 1,
-                    "name": "Writhing Chrysalis"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
             "player": "maear",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_maear",
@@ -2515,408 +1963,389 @@
         },
         {
             "date": "2026-07-18",
-            "player": "fart_sniffer_93",
+            "player": "SlavSlays",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_fart_sniffer_93",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_SlavSlays",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Aether Vial"
+                    "name": "Orcish Bowmasters"
                 },
                 {
                     "count": 4,
-                    "name": "Harbinger of the Seas"
+                    "name": "Psychic Frog"
                 },
                 {
                     "count": 4,
-                    "name": "Lord of Atlantis"
-                },
-                {
-                    "count": 4,
-                    "name": "Master of the Pearl Trident"
-                },
-                {
-                    "count": 4,
-                    "name": "Mindspring Merfolk"
-                },
-                {
-                    "count": 4,
-                    "name": "Silvergill Adept"
-                },
-                {
-                    "count": 4,
-                    "name": "Tide Shaper"
-                },
-                {
-                    "count": 4,
-                    "name": "Tishana's Tidebinder"
-                },
-                {
-                    "count": 4,
-                    "name": "Flare of Denial"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Sink into Stupor"
+                    "name": "Quantum Riddler"
                 },
                 {
                     "count": 3,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 9,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 1,
-                    "name": "Otawara, Soaring City"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 4,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 4,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 4,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 3,
-                    "name": "Svyelun of Sea and Sky"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Mooshack",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Mooshack",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Aether Vial"
-                },
-                {
-                    "count": 4,
-                    "name": "Harbinger of the Seas"
-                },
-                {
-                    "count": 4,
-                    "name": "Lord of Atlantis"
-                },
-                {
-                    "count": 4,
-                    "name": "Master of the Pearl Trident"
-                },
-                {
-                    "count": 4,
-                    "name": "Merfolk Trickster"
-                },
-                {
-                    "count": 4,
                     "name": "Subtlety"
                 },
                 {
-                    "count": 4,
-                    "name": "Tide Shaper"
+                    "count": 2,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 2,
+                    "name": "Consign to Memory"
                 },
                 {
                     "count": 4,
-                    "name": "Tishana's Tidebinder"
+                    "name": "Counterspell"
                 },
                 {
                     "count": 4,
-                    "name": "Vodalian Hexcatcher"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Sink into Stupor"
+                    "name": "Fatal Push"
                 },
                 {
                     "count": 3,
-                    "name": "Cavern of Souls"
+                    "name": "Force of Negation"
                 },
                 {
-                    "count": 8,
+                    "count": 2,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
                     "name": "Island"
                 },
                 {
-                    "count": 4,
-                    "name": "Mutavault"
+                    "count": 2,
+                    "name": "Marsh Flats"
                 },
                 {
                     "count": 1,
                     "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 3,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Chalice of the Void"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Consign to Memory"
                 },
                 {
-                    "count": 3,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 4,
-                    "name": "Floodpits Drowner"
+                    "count": 1,
+                    "name": "Damping Sphere"
                 },
                 {
                     "count": 2,
-                    "name": "Svyelun of Sea and Sky"
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Toxic Deluge"
                 }
             ],
             "notes": null
         },
         {
             "date": "2026-07-18",
-            "player": "Silk_lobelia",
+            "player": "zhangkh",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Silk_lobelia",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_zhangkh",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Cori-Steel Cutter"
+                    "name": "Ajani, Nacatl Pariah"
                 },
                 {
                     "count": 4,
-                    "name": "Mishra's Bauble"
+                    "name": "Guide of Souls"
                 },
                 {
                     "count": 4,
-                    "name": "Dragon's Rage Channeler"
+                    "name": "Ocelot Pride"
                 },
                 {
                     "count": 4,
-                    "name": "Monastery Swiftspear"
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckless Pyrosurfer"
+                },
+                {
+                    "count": 3,
+                    "name": "Seasoned Pyromancer"
                 },
                 {
                     "count": 4,
-                    "name": "Slickshot Show-Off"
+                    "name": "Voice of Victory"
                 },
                 {
                     "count": 1,
-                    "name": "Stormchaser's Talent"
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Bombardment"
                 },
                 {
                     "count": 4,
-                    "name": "Lava Dart"
+                    "name": "Galvanic Discharge"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Lightning Bolt"
                 },
                 {
-                    "count": 3,
-                    "name": "Monstrous Rage"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutagenic Growth"
-                },
-                {
                     "count": 2,
-                    "name": "Arid Mesa"
-                },
-                {
-                    "count": 3,
-                    "name": "Bloodstained Mire"
-                },
-                {
-                    "count": 2,
-                    "name": "Fiery Islet"
-                },
-                {
-                    "count": 3,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 3,
-                    "name": "Steam Vents"
+                    "name": "Thraben Charm"
                 },
                 {
                     "count": 1,
-                    "name": "Thundering Falls"
-                },
-                {
-                    "count": 2,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 2,
-                    "name": "Assault Strobe"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 4,
-                    "name": "Expressive Iteration"
-                },
-                {
-                    "count": 1,
-                    "name": "Meltdown"
-                },
-                {
-                    "count": 1,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 3,
-                    "name": "Spell Snare"
-                },
-                {
-                    "count": 3,
-                    "name": "Unholy Heat"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-07-18",
-            "player": "Knurt",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Knurt",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Blazing Rootwalla"
-                },
-                {
-                    "count": 4,
-                    "name": "Detective's Phoenix"
-                },
-                {
-                    "count": 4,
-                    "name": "Hardened Academic"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Marauding Mako"
-                },
-                {
-                    "count": 1,
-                    "name": "Ox of Agonas"
-                },
-                {
-                    "count": 4,
-                    "name": "Street Wraith"
-                },
-                {
-                    "count": 4,
-                    "name": "Vengevine"
-                },
-                {
-                    "count": 3,
-                    "name": "Lightning Bolt"
+                    "name": "Arena of Glory"
                 },
                 {
                     "count": 4,
                     "name": "Arid Mesa"
                 },
                 {
-                    "count": 3,
-                    "name": "Bloodstained Mire"
+                    "count": 1,
+                    "name": "Dalkovan Encampment"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Elegant Parlor"
                 },
                 {
-                    "count": 3,
-                    "name": "Mountain"
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
                 },
                 {
                     "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
                     "name": "Plains"
                 },
                 {
                     "count": 3,
                     "name": "Sacred Foundry"
-                },
-                {
-                    "count": 3,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning Inquiry"
-                },
-                {
-                    "count": 4,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 2,
-                    "name": "Practiced Offense"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
-                    "name": "Deafening Silence"
+                    "name": "Celestial Purge"
                 },
                 {
-                    "count": 2,
-                    "name": "Magebane Lizard"
+                    "count": 3,
+                    "name": "High Noon"
                 },
                 {
-                    "count": 2,
-                    "name": "Meltdown"
-                },
-                {
-                    "count": 2,
+                    "count": 3,
                     "name": "Obsidian Charmaw"
                 },
                 {
                     "count": 2,
-                    "name": "Rough/Tumble"
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "The Legend of Roku"
                 },
                 {
                     "count": 2,
-                    "name": "Tormod's Crypt"
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of the Skies"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "jontih",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_jontih",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Boggart Trawler"
+                },
+                {
+                    "count": 2,
+                    "name": "Dauthi Voidwalker"
                 },
                 {
                     "count": 3,
-                    "name": "Wear/Tear"
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorin of House Markov"
+                },
+                {
+                    "count": 4,
+                    "name": "Necrodominance"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Fell the Profane"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Despair"
+                },
+                {
+                    "count": 3,
+                    "name": "March of Wretched Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Witherbloom Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Professor Dellian Fel"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 4,
+                    "name": "Break the Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Culling Ritual"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Dauthi Voidwalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "The Meathook Massacre"
                 }
             ],
             "notes": null
@@ -3058,41 +2487,680 @@
         },
         {
             "date": "2026-07-18",
-            "player": "EmPython",
+            "player": "mechrataal",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_EmPython",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_mechrataal",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Atraxa, Grand Unifier"
+                    "name": "Disciple of Freyalise"
+                },
+                {
+                    "count": 2,
+                    "name": "Drowner of Truth"
+                },
+                {
+                    "count": 4,
+                    "name": "Emrakul, the Promised End"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatic of Rhonas"
+                },
+                {
+                    "count": 4,
+                    "name": "Slumbering Trudge"
+                },
+                {
+                    "count": 4,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Fight Rigging"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
                 },
                 {
                     "count": 1,
-                    "name": "Griselbrand"
+                    "name": "Boseiju, Who Endures"
                 },
                 {
                     "count": 1,
-                    "name": "Jace, Vryn's Prodigy"
+                    "name": "Cavern of Souls"
                 },
                 {
                     "count": 1,
-                    "name": "Kavaero, Mind-Bitten"
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 1,
+                    "name": "Mosswort Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ugin's Labyrinth"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, Eye of the Storms"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Trinisphere"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "mogis67",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_mogis67",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Abhorrent Oculus"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Cruelty"
                 },
                 {
                     "count": 4,
                     "name": "Psychic Frog"
                 },
                 {
+                    "count": 3,
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 1,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Persist"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Mitchard",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Mitchard",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ashaya, Soul of the Wild"
+                },
+                {
+                    "count": 4,
+                    "name": "Badgermole Cub"
+                },
+                {
+                    "count": 1,
+                    "name": "Craterhoof Behemoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Delighted Halfling"
+                },
+                {
+                    "count": 1,
+                    "name": "Disciple of Freyalise"
+                },
+                {
+                    "count": 1,
+                    "name": "Enduring Vitality"
+                },
+                {
+                    "count": 1,
+                    "name": "Formidable Speaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Resurgent Animist"
+                },
+                {
+                    "count": 1,
+                    "name": "Ouroboroid"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Shang-Chi, Master of Kung Fu"
+                },
+                {
+                    "count": 4,
+                    "name": "Springheart Nantuko"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of Abundance"
+                },
+                {
+                    "count": 4,
+                    "name": "Summoner's Pact"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Who Shakes the World"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chomping Changeling"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 3,
+                    "name": "Ouroboroid"
+                },
+                {
+                    "count": 1,
+                    "name": "Ruric Thar, the Unbowed"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 3,
+                    "name": "Soulless Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Tajuru Preserver"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "bunnyfat",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_bunnyfat",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Blade of the Bloodchief"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 2,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 2,
+                    "name": "Delighted Halfling"
+                },
+                {
+                    "count": 2,
+                    "name": "Emrakul, the Promised End"
+                },
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 3,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Shifting Woodland"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Promised End"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sire of Seven Deaths"
+                },
+                {
+                    "count": 1,
+                    "name": "Soulless Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Thief of Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Warping Wail"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "Mooshack",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Mooshack",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 4,
+                    "name": "Lord of Atlantis"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of the Pearl Trident"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 4,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 4,
+                    "name": "Tide Shaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 4,
+                    "name": "Vodalian Hexcatcher"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodpits Drowner"
+                },
+                {
+                    "count": 2,
+                    "name": "Svyelun of Sea and Sky"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-07-18",
+            "player": "lxystannis",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_lxystannis",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Boggart Trawler"
+                },
+                {
+                    "count": 3,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 3,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
                     "count": 4,
                     "name": "Quantum Riddler"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Solitude"
                 },
                 {
-                    "count": 2,
-                    "name": "Consign to Memory"
+                    "count": 3,
+                    "name": "Witch Enchanter"
                 },
                 {
                     "count": 3,
@@ -3100,23 +3168,15 @@
                 },
                 {
                     "count": 3,
-                    "name": "Faithful Mending"
-                },
-                {
-                    "count": 3,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Goryo's Vengeance"
+                    "name": "Fatal Push"
                 },
                 {
                     "count": 1,
-                    "name": "Spell Snare"
+                    "name": "March of Otherworldly Light"
                 },
                 {
                     "count": 1,
-                    "name": "Breeding Pool"
+                    "name": "Bleachbone Verge"
                 },
                 {
                     "count": 4,
@@ -3131,11 +3191,7 @@
                     "name": "Hallowed Fountain"
                 },
                 {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
+                    "count": 4,
                     "name": "Marsh Flats"
                 },
                 {
@@ -3143,11 +3199,11 @@
                     "name": "Meticulous Archive"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Plains"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
                     "name": "Polluted Delta"
                 },
                 {
@@ -3167,50 +3223,38 @@
                     "name": "Watery Grave"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Teferi, Time Raveler"
                 },
                 {
                     "count": 1,
-                    "name": "Pest Control"
-                },
-                {
-                    "count": 2,
                     "name": "Prismatic Ending"
                 },
                 {
-                    "count": 1,
-                    "name": "Winternight Stories"
+                    "count": 4,
+                    "name": "Thoughtseize"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
+                    "name": "Clarion Conqueror"
+                },
+                {
+                    "count": 3,
                     "name": "Consign to Memory"
                 },
                 {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
                     "count": 3,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 2,
                     "name": "Mystical Dispute"
-                },
-                {
-                    "count": 1,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 1,
-                    "name": "Solitude"
-                },
-                {
-                    "count": 1,
-                    "name": "Spell Snare"
-                },
-                {
-                    "count": 1,
-                    "name": "Teferi, Time Raveler"
-                },
-                {
-                    "count": 3,
-                    "name": "Thoughtseize"
                 },
                 {
                     "count": 3,
@@ -3221,134 +3265,138 @@
         },
         {
             "date": "2026-07-18",
-            "player": "dndias",
+            "player": "Mapletreefrog",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_dndias",
+            "anchor_uri": "https://www.mtgo.com/decklist/modern-league-2026-07-1810847#deck_Mapletreefrog",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Ruby Medallion"
+                    "name": "Ajani, Nacatl Pariah"
                 },
                 {
                     "count": 4,
-                    "name": "Ral, Monsoon Mage"
+                    "name": "Guide of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Ocelot Pride"
+                },
+                {
+                    "count": 4,
+                    "name": "Ragavan, Nimble Pilferer"
                 },
                 {
                     "count": 2,
-                    "name": "Artist's Talent"
+                    "name": "Reckless Pyrosurfer"
+                },
+                {
+                    "count": 3,
+                    "name": "Seasoned Pyromancer"
                 },
                 {
                     "count": 4,
-                    "name": "Desperate Ritual"
+                    "name": "Voice of Victory"
                 },
                 {
                     "count": 1,
-                    "name": "Flashback"
+                    "name": "Blood Moon"
                 },
                 {
                     "count": 4,
-                    "name": "Manamorphose"
+                    "name": "Goblin Bombardment"
                 },
                 {
                     "count": 4,
-                    "name": "Pyretic Ritual"
+                    "name": "Galvanic Discharge"
                 },
                 {
                     "count": 2,
-                    "name": "Valakut Awakening"
+                    "name": "Lightning Bolt"
                 },
                 {
                     "count": 2,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Arena of Glory"
+                },
+                {
+                    "count": 4,
                     "name": "Arid Mesa"
                 },
                 {
-                    "count": 2,
-                    "name": "Bloodstained Mire"
+                    "count": 1,
+                    "name": "Dalkovan Encampment"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Elegant Parlor"
                 },
                 {
-                    "count": 1,
-                    "name": "Gemstone Caverns"
+                    "count": 4,
+                    "name": "Flooded Strand"
                 },
                 {
                     "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
                     "name": "Mountain"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
                     "name": "Sacred Foundry"
-                },
-                {
-                    "count": 2,
-                    "name": "Scalding Tarn"
-                },
-                {
-                    "count": 1,
-                    "name": "Sunbaked Canyon"
-                },
-                {
-                    "count": 1,
-                    "name": "Thundering Falls"
-                },
-                {
-                    "count": 3,
-                    "name": "Wooded Foothills"
-                },
-                {
-                    "count": 1,
-                    "name": "Grapeshot"
-                },
-                {
-                    "count": 3,
-                    "name": "Hex Magic"
-                },
-                {
-                    "count": 3,
-                    "name": "Past in Flames"
-                },
-                {
-                    "count": 4,
-                    "name": "Reckless Impulse"
-                },
-                {
-                    "count": 2,
-                    "name": "Wish"
-                },
-                {
-                    "count": 4,
-                    "name": "Wrenn's Resolve"
                 }
             ],
             "sideboard": [
                 {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
                     "count": 2,
-                    "name": "Brotherhood's End"
+                    "name": "Celestial Purge"
                 },
                 {
                     "count": 1,
-                    "name": "Empty the Warrens"
+                    "name": "Clarion Conqueror"
                 },
                 {
                     "count": 1,
-                    "name": "Grapeshot"
+                    "name": "Damping Sphere"
                 },
                 {
-                    "count": 4,
-                    "name": "Orim's Chant"
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
                 },
                 {
                     "count": 1,
-                    "name": "Past in Flames"
+                    "name": "Rest in Peace"
                 },
                 {
-                    "count": 3,
-                    "name": "Prismatic Ending"
+                    "count": 1,
+                    "name": "Surgical Extraction"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "The Legend of Roku"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 2,
                     "name": "Wear/Tear"
                 }
             ],
